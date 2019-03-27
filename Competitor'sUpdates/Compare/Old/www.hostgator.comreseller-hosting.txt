@@ -1,0 +1,888 @@
+
+  
+     
+     
+     
+  
+  Reseller Hosting Plans With cPanel &amp; WHM - HostGator
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+   
+  
+  
+  
+Live Chat
+ &nbsp; 
+24/7/365 Support
+Customer Portal | Support | Affiliates
+Toggle navigation
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller
+VPS
+Dedicated
+Domains
+Pricing
+Support
+Affiliates
+Need Help?
+Call Us!
+Login To Customer Portal
+24/7/365 Support
+(866) 96-GATOR
+?Need Help? 
+Live Chat
+Support
+Toggle navigation
+Hosting 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting Advanced
+Dedicated Hosting Advanced
+Domains
+Pricing
+Sign Up 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting
+Dedicated Hosting
+                                Login
+24/7/365 Support
+(866) 96-GATOR
+?Need Help? 
+Live Chat
+Support
+Toggle navigation
+Hosting 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+Advanced Hosting 
+VPS Hosting
+Dedicated Hosting
+Domains
+Pricing
+Sign Up 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting
+Dedicated Hosting
+                                Login
+ 
+  
+    
+      
+        
+      
+      
+      &nbsp;
+      
+    
+    
+      
+        
+        Earn Money
+        With Reseller
+        Hosting!
+        Reseller Plans Are
+        Designed For You To
+        Earn Money!
+        
+      
+    
+  
+  
+  
+    
+      
+        
+          
+            
+              Aluminum
+              Now  { print_current_percent_off }% OFF!" data-key="reseller.l1.term.36"Now  33% OFF!
+              
+                60 GB Disk
+                600 GB Bandwidth
+                Unlimited  Domains
+              
+              Starting At /mo*" data-key="reseller.l1.term.36"$19.95/mo*Buy Now!"Buy Now!
+            
+          
+          
+            
+              Copper
+              Now  { print_current_percent_off }% OFF!" data-key="reseller.l2.term.36"Now 41% OFF!
+              
+                90 GB Disk
+                900 GB Bandwidth
+                Unlimited  Domains
+              
+              Starting At /mo*" data-key="reseller.l2.term.36"$24.95/mo*Buy Now!"Buy Now!
+            
+          
+          
+            
+              Silver
+              Now  { print_current_percent_off }% OFF!" data-key="reseller.l3.term.36"Now 58% OFF!
+              
+                140 GB Disk
+                1400 GB Bandwidth
+                Unlimited  Domains
+              
+              Starting At /mo*" data-key="reseller.l3.term.36"$24.95/mo*Buy Now!"Buy Now!
+            
+          
+        
+      
+      
+        FeaturesTechnical SpecsCompare All Plans
+      
+    
+    
+      
+        
+      
+      
+        &nbsp;
+      
+    
+  
+  
+    
+        
+            
+                Start your own Web Hosting Company!
+            
+        
+    
+  
+    
+      
+        Make Money By Hosting Your Own Clients!
+        A HostGator reseller plan is a great way for you to earn money on the side, or even become your own full-time web hosting company.  Acquire your own hosting clients, or if you're a web designer you can use a reseller plan to add value for your existing and future customers.
+      
+      
+        
+          
+        
+      
+    
+  
+    
+    Choose HostGator To Start Your Own Business!
+    With these bases covered, you are free to market and grow your business in any way that you choose.  It's easy to upgrade, and when you outgrow our reseller plans, we'll be happy to transfer you to a dedicated server!
+    
+      
+        
+        Powerful Tools
+        Reseller plans include everything you need to succeed, from WHM to billing software.
+      
+      
+        
+        Flexibility
+        You control the overall resource allocation to best fit your clients' needs.
+      
+      
+        
+        Scalability
+        It is always free and easy to upgrade; your hosting grows as your business grows.
+      
+    
+  
+    
+        
+            
+                Most Importantly, You Can Run Your Business Any Way You Want!
+                A HostGator Reseller hosting plan gives you complete control over every aspect of your hosting business, from resource allocation to payment methods and what (if any) additional services you choose to provide your clients (domains, SSL certificates, etc.).
+            
+            
+                
+            
+        
+    
+    
+        
+            
+                Technical Specifications
+            
+        
+    
+    
+        
+            
+                Reseller Hosting Features
+Unmetered Domains, Subdomains, Email Accounts, MySQL Databases, FTP Accounts
+Flexible, Easy to Use Control Panel (cPanel Demo)
+99.9% Uptime Guarantee
+No Contract with a 45 Day Money Back Guarantee
+Private Name Servers based on your Domain
+Safe Harbor Certified (Details)
+            
+            
+                Free With Each Reseller Plan
+Free Website Transfers for up to 30 websites (View Details)
+400+ Brandable Video Tutorials for Your Clients (View Demo)
+            
+        
+        
+            
+                WHM Control Panel
+Latest WHM Control Panel with Multi-language Availability
+Monitor Server Status
+Limit packages, specify disk space, bandwidth, email, databases, and other features
+Complete Control: Password Modification, DNS, Account Creation / Termination
+Brandable Client Panel with your company logo
+            
+            
+cPanel Control Panel
+Latest cPanel Control Panel (View Demo)
+Website Statistics: AWStats, Webalizer, Raw Log Manager, Referrer and Error Logs
+Instant Shopping Carts, Blogs, Portals, Forums, Counters, and Formmail
+Password Protected Directories and Custom Error Pages
+Web Based File Manager, Hotlink Protection, IP Deny Manager, Redirect URL
+            
+        
+        
+            
+Programming &amp; Databases
+Unlimited MySQL Databases with phpMyAdmin Access
+Programming Language: CGI, Fast CGI, PHP 5 and 7, Ruby on Rails, Perl, Python, SSL
+Programming Modules: Curl, CPAN, GD Library, ImageMagick
+System Management: SSH Access and Cron Job Scheduling
+FrontPage Extension
+            
+            
+Email Features
+Unlimited POP3 Email Accounts with SMTP
+WebMail Access: Horde, SquirrelMail, RoundCube
+Receive your email to your phone via IMAP Support
+Prevent spam with SpamAssassin
+Unlimited Autoresponders, Mail Forwards, Email Aliases, 25 Mailing Lists
+            
+        
+        
+            
+Award-Winning Support
+24/7/365 Premium Support via Phone, Live Chat, and Ticket System (Email)
+Automatic Weekly Off-Site Data Backups
+24/7/365 Server Monitoring
+Online Support Portal with over 500+ Video Tutorials and 680+ Help Articles
+HostGator Community Forum Access
+Free Reseller Club Account
+70+ gTLDs & ccTLDs to resell
+Transfers at cost & up to 80% off on Registrations (View Details)
+700+ New gTLDs from a single account (View Details)
+Easy Integration through WHMCS, API or Storefront
+  
+    
+        
+            
+                Reseller Plan Comparison
+            
+        
+    
+&nbsp;
+Aluminium
+Copper
+Silver
+Disk Space
+60 GB
+90 GB
+140 GB
+Bandwidth
+600 GB
+900 GB
+1400 GB
+Domains
+Unlimited
+Unlimited
+Unlimited
+First Month
+$19.95/mo*
+$24.95/mo*
+$24.95/mo*
+Frequently Asked Questions
+What is reseller hosting?
+Reseller hosting, sometimes referred to as white label hosting, allows you to create your own web hosting company without having to incur the costs of server maintenance, software, site uptime, and more. Reseller hosting is perfect for freelancers or agencies offering web design, development, and other business services to their clients. With reseller hosting, clients purchase and host their websites through you as if you were the hosting company.
+Can I make money with reseller hosting?
+Yes, that's definitely the idea! Reseller hosting is designed for you to make money. You get to promote your own brand, receive ongoing income from your customers, and bundle hosting with other services you offer. WHMCS is a comprehensive client management and billing software that we include for free with all HostGator reseller plans.
+What's the difference between reseller hosting and your affiliate program?
+With reseller hosting, you essentially set up your own web hosting business, with HostGator working behind the scenes to provide the technology. Our affiliate program, on the other hand, allows you to refer clients directly to HostGator in exchange for a commission of up to $125 per signup. Reseller hosting is a good option if you prefer ongoing income and want to offer more services to your clients. If you don't want to worry about providing technical support for the customer and just wish to send referrals from your own website, our affiliate program may be a better fit for you.
+ 
+          
+HostGator
+  
+    
+      
+        
+        
+          
+Hosting
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting
+Dedicated Hosting
+Application Hosting
+Windows Hosting
+Website Builder
+Domains
+Register Domains
+Transfer Domains
+Manage Domains
+Services
+          
+            CodeGuard
+            Web Design
+            PPC
+            SEO
+          
+Affiliates
+Become An Affiliate
+Affiliate Portal
+Support
+Customer Portal
+Support Portal
+Video Tutorials
+Forums
+Live Chat
+        
+          Company
+            
+          
+            About HostGator
+            Awards &amp; Reviews
+            Press &amp; Media
+            Company Blog
+            Contact Us
+            Careers
+            Partners
+          
+        
+        
+      
+    
+  
+  
+    
+      
+        
+          
+            Sitemap
+            &nbsp;
+            Terms of Service
+            &nbsp;
+            Privacy Policy
+          
+          Copyright 2016 HostGator.com LLC. All Rights Reserved.
+        
+        
+          
+            
+              
+            
+            
+              
+            
+            
+              
+            
+            
+              
+            
+          
+        
+      
+    
+  
+  
+    
+      *Prices reflect discount on first term
+    
+  
+  
+    
+      
+        
+          &times;Close
+          HostGator Website Transfers
+        
+        
+          HostGator is committed to making it easy to transfer your site to your new hosting account. We can transfer website files, databases, scripts, and  one free domain registration transfer.
+          What qualifies me for a free transfer?
+          HostGator provides free transfers for new accounts within 30 days of sign-up, and to newly upgraded accounts. For upgraded accounts it must be an inter-server upgrade to qualify. Please note that downgraded accounts do not qualify for free transfers.
+          Depending on which type of account you sign up for, we offer differing numbers of free transfers. Please refer to the chart below to see what we include for new packages.
+          Full cPanel Transfers is the number of cPanel to cPanel transfers that are included.
+          Max. Manual Transfers is the maximum number of Manual Transfers that are included with your account.
+          Total Free Transfers is the total number websites that we will move for you.
+          
+            
+              
+                
+                  Account Type
+                  Total Free Transfers
+                  Full cPanel Transfers
+                  Max. Manual Transfers
+                
+              
+              
+                
+                  
+                    online form to initiate your website content transfers. We can move your content and databases for one website or cPanel over from another host."?
+                    Shared
+                  
+                  
+                    1
+                  
+                  
+                    12
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    online form to initiate your website content transfers. We can move the content and data for up to 30 websites/cPanels over from another host."?
+                    Reseller
+                  
+                  
+                    30
+                  
+                  
+                    302
+                  
+                  
+                    30
+                  
+                
+                
+                  
+                    Please submit the online form to initiate your website content transfers.
+VPS accounts that have a control panel (either cPanel or Plesk) qualify for unlimited cPanel to cPanel transfers, or up to 10 Manual Transfers per VPS level. I.E. a Level 5 VPS qualifies for 50 manual transfers, while a Level 7 qualifies for 70 manual transfers.
+(Snappy 500 or VPS without a control panel)
+VPS accounts with no control panel are for advanced Linux customers who are comfortable with installing and configuring their own services. If you would like us to transfer their data to such a VPS (or a Dedicated server with no control panel), you would be responsible for making sure that their services are configured correctly and will need to inform us exactly where the data needs to be placed (we will not configure or restore anything, but only copy files or packages to the specified directory on the VPS/server). If you are not comfortable with installing and configuring their own services, we suggest upgrading to a Level 3 plan with cPanel. We will not be able to install and configure each service for you. If a Level 3 package is too expensive, then a Reseller or Shared account might work based upon your needs."?
+                    VPS
+                  
+                  
+                    Unlimited1
+                  
+                  
+                    Unlimited2
+                  
+                  
+                    10 per VPS level
+                  
+                
+                
+                  
+                    online form to initiate your website content transfers.
+We provide 75 free website transfers. The content transfers are free within the first 30 days; for any requests outside the first 30 days, we will reply back with a quoted price. If the server is running cPanel and you are coming from another cPanel server, then we offer unlimited full cPanel account transfers."?
+                    Dedicated (Basic)
+                  
+                  
+                    Unlimited1
+                  
+                  
+                    Unlimited2
+                  
+                  
+                    75
+                  
+                
+                
+                  
+                    Please submit the online form to initiate your website content transfers. We provide 100 website transfers. The content transfers are free within the first 30 days; for any requests outside the first 30 days, we will reply back with a quoted price. If the server is running cPanel and you are coming from another cPanel server, then we offer unlimited full cPanel account transfers."?
+                    Dedicated (Standard, Elite, Pro)
+                  
+                  
+                    Unlimited1
+                  
+                  
+                    Unlimited2
+                  
+                  
+                    100
+                  
+                
+              
+            
+          
+          1While we can do unlimited cPanel to cPanel transfers for you, depending on your account, you will have a limited number of Manual Transfers.
+          2Full cPanel transfers include all domains, Addon Domains, Subdomains, and cPanel settings. This will also include your emails and email accounts. Please note that this does require that your old host's cPanel backup generator to be active.
+          A few examples: An Aluminium Reseller account includes up to 30 free transfers. Out of this 30, you can have 20 cPanel to cPanel transfers and 10 Manual Transfers, or any combination of the two that totals 30 or less websites. Another example: A Pro Dedicated server includes unlimited cPanel to cPanel transfers, this means you can have 150 sites (or even more) moved. Also since there is an unlimited total number of transfers, you can utilize up to 100 Manual Transfers.
+          For more information please see our Transfers Support Article, contact our transfers department at transfers@hostgator.com, or call 866.96.GATOR
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Unmetered Web Hosting
+        
+        
+          How much disk space and bandwidth will my plan include?
+          Diskspace and Bandwidth is "Unmetered" which means you are not charged according to the amount of diskspace or bandwidth you use.
+          However, that being said, we do require all customers to be fully compliant with our Terms of Service and to only utilize disk space and bandwidth in the normal operation of a personal or small business website.
+          For example, customers who are using 25% or more of system resources for longer than 90 seconds would be in violation of our Terms of Service. Please see our TOS or contact us with any questions.
+          What happens if I exceed usage?
+          If we have concerns about your account's bandwidth or disk space utilization, you will receive an email asking you to reduce usage.
+          Again, it is very rare for a customer who is managing a personal or small business website to exceed our usage policies.
+          This file was last modified 7/20/2015.
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Money Back Guarantee
+        
+        
+          Customer Satisfaction is HostGator's #1 Priority!
+          We are confident you will be happy, and even offer you a full 45 day money back guarantee to try us out.
+          We're here to help you as well with 24/7 phone, live chat and helpdesk support by friendly support agents.
+          If you are not completely satisfied with our services within the first 45 days of your service, you will be given a full refund of the contract amount.
+          Please note that this is only for shared, reseller and vps hosting packages and does not apply to dedicated servers, administrative fees, install fees for custom software, or domain name purchases.
+          For more information please contact us at any time and we'll be happy to provide you more information.
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Pricing Reflects A Discount On The First Invoice Only
+        
+        
+          HostGator often offers promotions, coupons and special offers to customers during their initial term. Please note that special offers are limited-time promotional prices that are available to new customers and are valid for the Initial Term only, and not for successive or renewal periods. Promotional rates apply to Shared, Cloud, VPS, Dedicated, WordPress and Reseller hosting plans and will automatically renew after initial term at regular rate found in your control panel.
+          
+            *VAT (Value Added Tax) is not included in our advertised price and will be charged separately and itemized on invoices and billing information. Standard VAT rates based on EU Member State regulations may apply. For more information on VAT, please refer to the Value Added Tax (VAT) knowledgebase&nbsp;article.
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Do You Want To Move To The Cloud?
+        
+        
+          
+            
+              
+                2X Faster
+                4X More Scalability
+                Up to 4X More Resources
+                Simpler Dashboard
+              
+              
+                Only $2/mo More
+                Get Started!
+                No Thanks!
+              
+            
+            
+              
+              
+            
+          
+          
+          
+            Only $2/mo More
+            Get Started!
+            No Thanks!
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Full E-commerce
+        
+        
+          
+            
+              E-commerce features include the following:
+              
+                Shopping cart
+                Inventory management
+                Choice of several payment processors
+                Facebook integration
+                Coupon codes
+              
+            
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          What Do I Need To Transfer
+        
+        
+          
+            
+              Follow these simple tips in order to smoothly transfer your domain name.
+              
+                Make sure that your Admin Contact information with your registrar is up-to-date
+                Ensure that you've had the domain for 60 days and that it is set to an "unlocked" status
+                Obtain an authorization code from your current registrar
+              
+              Step-By-Step Instructions
+            
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          How Do We Stack Up Against The Competition?
+        
+        
+          
+            
+              
+                
+                  Features
+                
+                
+                  starting monthly price on introductory offer
+                  monthly renewal cost
+                  
+                    0 Sites
+                    0 Storage
+                    0 24/7/365 Support
+                    0 Monthly Price For Global CDN
+                     Email Addresses
+                    
+                      
+                        
+                      
+                      One Site Migrated For Free
+                    
+                    
+                      
+                        
+                      
+                      Free Automatic Malware Removal
+                    
+                    
+                      
+                        
+                      
+                      $100 Google AdWords
+                    
+                  
+                
+              
+              
+                
+                  Media Temple Personal Plan
+                
+                
+                  $20.00
+                  $20.00
+                    
+                      2 Sites
+                      30 GB Storage
+                      
+                        
+                          
+                        
+                        24/7/365 Support
+                      
+                      $30.00 Monthly Price For Global CDN
+                       Email Addresses
+                      
+                        
+                          
+                        
+                        One Site Migrated For Free
+                      
+                      
+                        
+                          
+                        
+                        Free Automatic Malware Removal
+                      
+                      
+                        
+                          
+                        
+                        $100 Google AdWords
+                      
+                    
+                  
+                
+              
+              
+                
+                  HostGator Standard Plan
+                
+                
+                  $7.95
+                  $7.95 - $20.95
+                  
+                    2 Sites
+                    150GB Storage
+                    
+                      
+                        
+                      
+                      24/7/365 Support
+                    
+                    Included Monthly Price For Global CDN
+                    Unlimited Email Addresses
+                    
+                      
+                        
+                      
+                      One Site Migrated For Free
+                    
+                    
+                      
+                        
+                      
+                      Free Automatic Malware Removal
+                    
+                    
+                      
+                        
+                      
+                      $100 Google AdWords
+                    
+                  
+                
+              
+              
+                
+                  WP Engine Personal Plan
+                
+                
+                  $29.00
+                  $29.00
+                  
+                    1 Sites
+                    10 GB Storage
+                    
+                      
+                        
+                      
+                      24/7/365 Support
+                    
+                    $19.95 Monthly Price For Global CDN
+                     Email Addresses
+                    
+                      
+                        
+                      
+                      One Site Migrated For Free
+                    
+                    
+                      
+                        
+                      
+                      Free Automatic Malware Removal
+                    
+                    
+                      
+                        
+                      
+                      $100 Google AdWords
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    Light Years Ahead Of The Competition!
+                  
+                
+                
+                  
+                    Get Started
+                  
+                
+              
+            
+            
+              All brand names are trademarks of their respective owners. All prices, plans, and options listed are what has been publicly disclosed as of 08/10/2016. Prices and features are subject to change without notice.
+            
+          
+        
+      
+    
+  
+This site uses cookies to enhance your experience. By continuing to the site you accept their use. Click here to change your preferences or to find out more about cookies.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+        x
+        
+            The browser version you are using is no longer supported. Please upgrade for the best site experience.
+        
+    
+ 
+ 
+ 
+

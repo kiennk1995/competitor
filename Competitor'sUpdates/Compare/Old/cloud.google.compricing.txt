@@ -1,0 +1,976 @@
+
+   GCP Pricing &nbsp;|&nbsp; Google Cloud Platform Google Cloud Platform
+        Home
+      
+        About
+      
+        Why Google
+      
+        Products
+      
+        Solutions
+      
+        Launcher
+      
+        Pricing
+      
+        Customers
+      
+        Documentation
+      
+        Support
+      
+        Partners
+      
+        Social
+      
+        Contact
+      Console
+  
+  Sign in
+    
+    
+    
+      Pricing
+    
+    
+  
+    Try It Free
+  
+    Contact Sales
+    
+      
+        
+        
+  
+  
+  
+    
+      
+        
+  
+  
+    
+    
+      
+        Home
+      
+      
+    
+    
+  
+    
+    
+      
+        About
+      
+      
+    
+    
+  
+    
+    
+      
+        Why Google
+      
+      
+    
+    
+  
+    
+    
+      
+        Products
+      
+      
+    
+    
+  
+    
+    
+      
+        Solutions
+      
+      
+    
+    
+  
+    
+    
+      
+        Launcher
+      
+      
+    
+    
+  
+    
+    
+      
+        Pricing
+      
+    
+    
+  
+    
+    
+      
+        Customers
+      
+      
+    
+    
+  
+    
+    
+      
+        Documentation
+      
+      
+    
+    
+  
+    
+    
+      
+        Support
+      
+      
+    
+    
+  
+    
+    
+      
+        Partners
+      
+      
+    
+    
+  
+    
+    
+      
+        Social
+      
+      
+    
+    
+  
+    
+    
+      
+        Contact
+      
+      
+    
+    
+  
+  
+    
+      
+        Console
+      
+    
+  
+  
+      
+    
+  
+  
+  
+  
+    
+    
+    
+    
+      OverviewPrinciplesInnovationPrice LeaderPrice ListCalculatorsFree on GCP
+    
+  
+  
+        
+        
+        
+        
+  
+  
+          
+  
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+      Google Cloud Platform
+    
+    
+    
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+      Pricing
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+      
+        
+          
+            Pricing
+          
+          
+            Overview
+            Principles
+            Innovation
+            Price Leader
+            Price List
+            Calculators
+            Free on GCP
+          
+        
+      
+      
+        
+          
+            
+              Do more for less
+            
+            
+              Our customer-friendly pricing is on average 60% less for many compute workloads
+              compared to other cloud providers.1
+            
+            
+            
+              
+                Try It Free
+              
+              
+                Contact Sales
+              
+              
+            
+          
+          
+            
+          
+        
+        
+          
+            
+              
+                Customer Friendly Pricing
+              
+              
+                learn more
+              
+            
+            
+              
+                
+                
+                  No upfront costs
+                
+                
+                  No upfront costs required: You don't need to make
+                  commitments to get great prices. Google Cloud Platform
+                  is on average 60% less for many compute workloads than
+                  other clouds1, with $0
+                  paid upfront.
+                
+              
+              
+                
+                
+                  Pay-as-you-go
+                
+                
+                  Building data centers is probably not your business. By
+                  paying for services on an as-needed basis, you save money
+                  and direct more focus to innovation.
+                
+              
+              
+                
+                
+                  No termination fees
+                
+                
+                  The second you turn off services is the second you stop paying
+                  for that service.2
+                
+              
+            
+            
+              
+                learn more
+              
+            
+          
+          
+            
+              
+                Pricing Innovation
+              
+              
+                learn more
+              
+            
+            
+              
+                
+                  
+                
+                Sustained use discounts
+              
+              
+                Automatically up to 30%-off workloads that run for a
+                significant portion of the billing month on Compute
+                Engine and Cloud SQL
+              
+              
+                
+                  
+                
+                Per second billing
+              
+              
+                You pay per-second, which is how a cloud should work
+              
+              
+                
+                  
+                
+                Custom machine types
+              
+              
+                Pick any configuration of CPU and memory to save up to
+                50% compared to fixed machine types from other clouds
+              
+              
+                
+                  
+                
+                Rightsizing recommendations
+              
+              
+                Compute sizing recommendations based on usage, so you consume
+                less and save time on management
+              
+            
+            
+              
+                
+                  
+                
+                Preemptible VM instances
+              
+              
+                Up to 80%-off workloads that can be interrupted, like
+                data mining and data processing
+              
+              
+                
+                  
+                
+                Coldline
+              
+              
+                Archival storage at the cost of tape at the speed of disk
+              
+              
+                
+                  
+                
+                Committed use discounts
+              
+              
+                Savings of up to 57% without upfront fees or instance-type lockin
+              
+            
+            
+              
+                learn more
+              
+            
+          
+          
+            
+              
+                Cloud Price/Performance Leadership
+              
+              
+                learn more
+              
+            
+            
+              
+            
+            
+              
+                List price leader
+              
+              
+                Compute Engine averages 21% off the list price of other clouds
+              
+              
+                Better Infrastructure
+              
+              
+                Infrastructure designed for maximum efficiency, even if it
+                means we had to build it ourselves
+              
+              
+                Faster
+              
+              
+                Technical infrastructure that boots in seconds not minutes, with faster instance networking, faster local SSD, faster storage throughput, and that has a global load balancer that scales to 1 million QPS
+              
+              
+                Smarter
+              
+              
+                Google uses machine learning to further optimize already
+                well-optimized systems – infrastructure we make available
+                to our customers
+              
+            
+            
+              
+                learn more
+              
+            
+          
+          
+            
+              
+                Calculate your cloud savings
+              
+              
+                PRICING CALCULATOR
+              
+            
+            
+              Get a quick estimate of what your usage will cost on Google Cloud Platform.
+              GCP compares favorably to other public clouds for many real world workloads.
+              See for yourself in our pre-filled calculators for various architectures and requirements.3
+            
+            
+              
+                
+                  
+                    Mobile App Backend
+                  
+                  
+                    
+                      48
+                      
+                        %
+                        Savings
+                      
+                    
+                    
+                      
+                        A mobile app backend for 5 million monthly users.
+                      
+                      
+                        GCP Price:
+                        
+                          $2,083/month
+                        
+                      
+                      
+                        Compare with AWS at $3992
+                      
+                    
+                  
+                
+                
+                  
+                    Learn more
+                  
+                
+              
+              
+                
+                  
+                    Storage Backend
+                  
+                  
+                    
+                      53
+                      
+                        %
+                        Savings
+                      
+                    
+                    
+                      
+                        A web-scale Cassandra storage backend running on local
+                        SSD.
+                      
+                      
+                        GCP Price:
+                        
+                          $1,758/month
+                        
+                      
+                      
+                        Compare with AWS at $3744. GCP also has 80% more IOPS.
+                      
+                    
+                  
+                
+                
+                  
+                    Learn more
+                  
+                
+              
+              
+                
+                  
+                    Data warehouse
+                  
+                  
+                    
+                      75
+                      
+                        %
+                        Savings
+                      
+                    
+                    
+                      
+                        A 1 Petabyte (1,000,000 GB) data warehouse on BigQuery.
+                      
+                      
+                        GCP Price:
+                        
+                          $79,995/month
+                        
+                      
+                      
+                        Compare with AWS at $315,588.80
+                      
+                    
+                  
+                
+                
+                  
+                    Learn more
+                  
+                
+              
+              
+                
+                  
+                    10PB Photo app
+                  
+                  
+                    
+                      28
+                      
+                        %
+                        Savings
+                      
+                    
+                    
+                      
+                        A 10PB photo storage and sharing application running
+                        on Google Cloud Storage Regional
+                      
+                      
+                        GCP Price:
+                        
+                          $209,715/month
+                        
+                      
+                      
+                        Compare with AWS at $291,364.
+                      
+                    
+                  
+                
+                
+                  
+                    Learn more
+                  
+                
+              
+              
+                
+                  
+                    Multi Region
+                  
+                  
+                    
+                      53
+                      
+                        %
+                        Savings
+                      
+                    
+                    
+                      
+                        The same application running on Google Cloud Storage
+                        Multi-regional
+                      
+                      
+                        GCP Price:
+                        
+                          $272,630/month
+                        
+                      
+                      
+                        Compare with AWS CRR at $583,268
+                      
+                    
+                  
+                
+                
+                  
+                    Learn more
+                  
+                
+              
+            
+            
+              
+                more examples
+              
+            
+          
+          
+            
+              
+                Product Pricing details
+              
+              
+                Full List
+              
+            
+            
+              
+                
+                Compute Engine
+              
+              
+                
+                App Engine
+              
+              
+                
+                BigQuery
+              
+              
+                
+                Cloud Storage
+              
+              
+                
+                Cloud Bigtable
+              
+              
+                
+                Cloud Dataproc
+              
+            
+            
+              
+                Full List
+              
+            
+          
+        
+        
+          
+            
+              Google has publicly committed to passing along to customers any
+              future price reductions Google achieves through technology-driven
+              advancements in density, scale, power, and cooling. Just a look at
+              its blog will reveal the history of price reductions. What Google
+              provides is on-demand, real-time pricing.
+            
+            
+              ESG Labs Whitepaper
+            
+            
+          
+        
+        
+          
+            
+              Cloud Pricing Basics
+            
+            
+              We give you options to fit your needs so that you can efficiently
+              run your business. GCP empowers you to allocate for your needs.
+              It all starts with Compute, Storage, and Network.
+            
+            
+              
+                
+                Compute
+              
+              
+                Custom machine types provide exactly what you need for your
+                specific workloads. Our machines roll up in minutes and
+                automatically scale as your needs change, helping you avoid
+                over allocating resources. And the more you use, the more
+                you save with sustained use discounts.
+              
+            
+            
+              
+                
+                Storage
+              
+              
+                From managed storage solutions to roll-your-own databases, GCP
+                is designed to keep your data secure and highly accessible.
+                We offer best-in-class IOPS, automatic replication, and live
+                disk resizes -- all at no cost premium. Blob storage starts
+                at $0.007 (in US regions) with millisecond response times.
+              
+            
+            
+              
+                
+                Network
+              
+              
+                Access to Google’s global network, with pricing that works
+                for you. Competitive egress pricing compared to other clouds
+                and you don’t have to worry about additional operational
+                expenses, like you do with non-cloud infrastructure.
+              
+            
+          
+          
+            
+              
+                Education and Startup Programs
+              
+            
+            
+              
+                
+                  
+                    
+                      Education Grants
+                    
+                    
+                      Cloud Platform credits and additional
+                      resources for qualified startups and
+                      educators.
+                    
+                  
+                  
+                    
+                  
+                
+                
+                  
+                    Learn More
+                  
+                
+              
+              
+                
+                  
+                    
+                      Startup Program
+                    
+                    
+                      Free credits, tools and support to
+                      help startups build and scale.
+                    
+                  
+                  
+                    
+                  
+                
+                
+                  
+                    Learn More
+                  
+                
+              
+            
+          
+          
+            Try it Free
+            
+              Get $300 free credit to spend over 12 months
+            
+            Free Trial
+          
+          
+            
+              1
+              Combination of list price differences, automatic sustained
+              use discounts, and right size recommendations.
+            
+            
+              2
+              Excludes flat-rate BigQuery. Support fees are prorated to the
+              day of cancellation.
+            
+            
+              3
+              Prices and comparisons listed from Nov 29, 2016.
+            
+          
+        
+      
+    
+     
+ 
+ 
+ 
+ 
+ 
+     
+  
+  
+  
+    
+  
+  
+  
+    
+      
+      Monitor your resources on the go
+    
+    
+      Get the Google Cloud Console app to help you manage your projects.
+    
+  
+  
+    
+      
+      Not now
+    
+      
+      Use the app
+    
+  
+  
+        
+      
+Products
+                Compute
+            
+                Storage
+            
+                Networking
+            
+                Big Data
+            
+                Machine Learning
+            
+                Management Tools
+            
+                Developer Tools
+            
+                Identity &amp; Security
+            
+                System Status
+            Learn More
+                Why Google
+            
+                Pricing
+            
+                Documentation
+            
+                Tutorials
+            
+                Training
+            
+                Solutions
+            
+                Security &amp; Compliance
+            
+                Partners
+            
+                Customers
+            
+                Support
+            
+                Careers
+            Engage
+                Free Trial Sign Up
+            
+                Blog
+            
+                Community
+            
+                Google+
+            
+                Twitter
+            
+                LinkedIn
+            
+                Stack Overflow
+            
+                YouTube
+            
+                Podcast
+            
+                Newsletter Signup
+            
+                UX Research
+            
+                Android
+            
+                Chrome
+            
+                Firebase
+            
+                Google Cloud Platform
+            
+                All Products
+            
+            Deutsch
+          
+            English
+          
+            español
+          
+            Español (América Latina)
+          
+            français
+          
+            Português Brasileiro
+          
+            日本語
+          
+            繁體中文
+          Terms
+         Privacy
+         Impressum
+                
+

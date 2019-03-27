@@ -1,0 +1,3374 @@
+[6/23/2017 5:29:58 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[6/23/2017 5:30:32 PM] END...
+
+[6/23/2017 5:30:47 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[6/23/2017 5:31:18 PM] END...
+
+[6/23/2017 5:33:10 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[6/23/2017 5:34:59 PM] END...
+
+[6/23/2017 5:53:07 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Push Notification to ChatWork : www.ramnode.com
+-------------------------------
+[6/23/2017 5:53:39 PM] END...
+===================================
+
+[6/23/2017 5:58:12 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[6/23/2017 5:58:45 PM] END...
+===================================
+
+[6/26/2017 8:37:07 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Push Notification to ChatWork : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Push Notification to ChatWork : www.ramnode.com
+-------------------------------
+[6/26/2017 8:37:42 AM] END...
+===================================
+
+[6/26/2017 8:42:34 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[6/26/2017 8:43:15 AM] END...
+===================================
+
+[6/30/2017 9:05:06 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Push Notification to ChatWork : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Push Notification to ChatWork : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Push Notification to ChatWork : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Push Notification to ChatWork : www.ramnode.com
+-------------------------------
+[6/30/2017 9:05:58 AM] END...
+===================================
+
+[7/5/2017 9:12:58 AM] Start...
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[7/5/2017 9:13:29 AM] END...
+===================================
+
+[7/5/2017 9:14:22 AM] Start...
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Push Notification to ChatWork : www.ramnode.com
+-------------------------------
+[7/5/2017 9:15:13 AM] END...
+===================================
+
+[7/5/2017 9:15:20 AM] Start...
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+[7/5/2017 9:15:41 AM] END...
+===================================
+
+[7/5/2017 9:16:01 AM] Start...
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+[7/5/2017 9:16:16 AM] END...
+===================================
+
+[7/5/2017 9:16:46 AM] Start...
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Push Notification to ChatWork : www.namecheap.com
+-------------------------------
+[7/5/2017 9:17:10 AM] END...
+===================================
+
+[7/5/2017 9:17:17 AM] Start...
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+[7/5/2017 9:17:23 AM] END...
+===================================
+
+[7/5/2017 9:22:14 AM] Start...
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Push Notification to ChatWork : www.namecheap.com
+-------------------------------
+[7/5/2017 9:22:49 AM] END...
+===================================
+
+[7/5/2017 9:28:39 AM] Start...
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+[7/5/2017 9:28:41 AM] END...
+===================================
+
+[7/5/2017 9:28:58 AM] Start...
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+[7/5/2017 9:29:00 AM] END...
+===================================
+
+[7/5/2017 10:21:14 AM] Start...
+Checking : canhme.com
+-------------------------------
+[7/5/2017 10:21:15 AM] END...
+===================================
+
+[7/5/2017 10:28:15 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/5/2017 10:28:17 AM] END...
+===================================
+
+[7/5/2017 10:28:23 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/5/2017 10:28:24 AM] END...
+===================================
+
+[7/5/2017 10:28:43 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/5/2017 10:28:48 AM] END...
+===================================
+
+[7/5/2017 10:28:52 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/5/2017 10:28:56 AM] END...
+===================================
+
+[7/5/2017 10:30:20 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Push Notification to ChatWork : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Push Notification to ChatWork : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Push Notification to ChatWork : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Push Notification to ChatWork : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Push Notification to ChatWork : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Push Notification to ChatWork : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/5/2017 10:31:10 AM] END...
+===================================
+
+[7/14/2017 4:02:29 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Push Notification to ChatWork : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Push Notification to ChatWork : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Push Notification to ChatWork : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Push Notification to ChatWork : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Push Notification to ChatWork : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Push Notification to ChatWork : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Push Notification to ChatWork : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/14/2017 4:03:14 PM] END...
+===================================
+
+[7/14/2017 4:03:54 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Push Notification to ChatWork : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Nothing Changed : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/14/2017 4:04:33 PM] END...
+===================================
+
+[7/17/2017 8:48:30 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Push Notification to ChatWork : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/17/2017 8:49:07 AM] END...
+===================================
+
+[7/17/2017 2:28:04 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Push Notification to ChatWork : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/17/2017 2:28:39 PM] END...
+===================================
+
+[7/18/2017 9:59:02 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/18/2017 9:59:42 AM] END...
+===================================
+
+[7/20/2017 10:51:00 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Push Notification to ChatWork : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Push Notification to ChatWork : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Push Notification to ChatWork : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vn
+Save : www.digistar.vn
+Push Notification to ChatWork : www.digistar.vn
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Push Notification to ChatWork : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/20/2017 10:51:41 AM] END...
+===================================
+
+[7/20/2017 10:58:01 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/20/2017 10:58:04 AM] END...
+===================================
+
+[7/20/2017 11:02:12 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 11:02:36 AM] END...
+===================================
+
+[7/20/2017 11:02:43 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 11:02:45 AM] END...
+===================================
+
+[7/20/2017 11:02:52 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 11:02:53 AM] END...
+===================================
+
+[7/20/2017 11:03:31 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 11:03:33 AM] END...
+===================================
+
+[7/20/2017 11:04:28 AM] Start...
+Checking :  www.digistar.vn 
+-------------------------------
+[7/20/2017 11:04:29 AM] END...
+===================================
+
+[7/20/2017 11:31:22 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 11:31:28 AM] END...
+===================================
+
+[7/20/2017 11:32:05 AM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 11:32:08 AM] END...
+===================================
+
+[7/20/2017 11:37:36 AM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Push Notification to ChatWork : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 11:37:39 AM] END...
+===================================
+
+[7/20/2017 11:37:54 AM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 11:38:19 AM] END...
+===================================
+
+[7/20/2017 11:38:30 AM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 11:38:32 AM] END...
+===================================
+
+[7/20/2017 11:38:53 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 11:39:35 AM] END...
+===================================
+
+[7/20/2017 11:50:46 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricing?btn_id=top_header_pricing
+Error Checking
+System.ArgumentException: Illegal characters in path.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Competitor_sUpdates.Program.Main(String[] args) in E:\Project\Competitor'sUpdates\Competitor'sUpdates\Program.cs:line 68
+-------------------------------
+[7/20/2017 11:50:51 AM] END...
+===================================
+
+[7/20/2017 11:51:28 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricing?btn_id=top_header_pricing
+Error Checking
+System.ArgumentException: Illegal characters in path.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Competitor_sUpdates.Program.Main(String[] args) in E:\Project\Competitor'sUpdates\Competitor'sUpdates\Program.cs:line 68
+-------------------------------
+[7/20/2017 11:51:30 AM] END...
+===================================
+
+[7/20/2017 11:52:22 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricing?btn_id=top_header_pricing
+Error Checking
+System.ArgumentException: Illegal characters in path.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Competitor_sUpdates.Program.Main(String[] args) in E:\Project\Competitor'sUpdates\Competitor'sUpdates\Program.cs:line 68
+-------------------------------
+[7/20/2017 11:52:24 AM] END...
+===================================
+
+[7/20/2017 11:52:31 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricing?btn_id=top_header_pricing
+Error Checking
+System.ArgumentException: Illegal characters in path.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Competitor_sUpdates.Program.Main(String[] args) in E:\Project\Competitor'sUpdates\Competitor'sUpdates\Program.cs:line 68
+-------------------------------
+[7/20/2017 11:52:37 AM] END...
+===================================
+
+[7/20/2017 11:52:44 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricing?btn_id=top_header_pricing
+Error Checking
+System.ArgumentException: Illegal characters in path.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Competitor_sUpdates.Program.Main(String[] args) in E:\Project\Competitor'sUpdates\Competitor'sUpdates\Program.cs:line 68
+-------------------------------
+[7/20/2017 11:53:09 AM] END...
+===================================
+
+[7/20/2017 2:38:44 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Push Notification to ChatWork : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Push Notification to ChatWork : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Push Notification to ChatWork : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Push Notification to ChatWork : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[7/20/2017 2:40:05 PM] END...
+===================================
+
+[7/20/2017 2:40:09 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Push Notification to ChatWork : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 2:41:28 PM] END...
+===================================
+
+[7/20/2017 2:46:20 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Nothing Changed : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 2:47:33 PM] END...
+===================================
+
+[7/20/2017 2:53:54 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Push Notification to ChatWork : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Push Notification to ChatWork : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Push Notification to ChatWork : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Push Notification to ChatWork : www.digistar.vnssl
+-------------------------------
+[7/20/2017 2:54:32 PM] END...
+===================================
+
+[7/20/2017 2:57:34 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Push Notification to ChatWork : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Push Notification to ChatWork : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Push Notification to ChatWork : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Push Notification to ChatWork : www.digistar.vnssl
+-------------------------------
+[7/20/2017 2:57:37 PM] END...
+===================================
+
+[7/20/2017 2:57:44 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+[7/20/2017 2:58:37 PM] END...
+===================================
+
+[7/20/2017 2:58:42 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+[7/20/2017 2:58:56 PM] END...
+===================================
+
+[7/20/2017 3:00:54 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Push Notification to ChatWork : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Push Notification to ChatWork : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Push Notification to ChatWork : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Push Notification to ChatWork : www.digistar.vnssl
+-------------------------------
+[7/20/2017 3:00:59 PM] END...
+===================================
+
+[7/20/2017 3:01:24 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+[7/20/2017 3:01:43 PM] END...
+===================================
+
+[7/20/2017 3:01:46 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+[7/20/2017 3:01:47 PM] END...
+===================================
+
+[7/20/2017 3:01:48 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+[7/20/2017 3:01:49 PM] END...
+===================================
+
+[7/20/2017 3:01:52 PM] Start...
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+[7/20/2017 3:01:53 PM] END...
+===================================
+
+[7/20/2017 3:01:59 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Nothing Changed : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 3:03:02 PM] END...
+===================================
+
+[7/20/2017 3:03:21 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Nothing Changed : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 3:04:26 PM] END...
+===================================
+
+[7/20/2017 3:05:39 PM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 3:05:44 PM] END...
+===================================
+
+[7/20/2017 3:09:26 PM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Push Notification to ChatWork : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 3:09:30 PM] END...
+===================================
+
+[7/20/2017 3:11:02 PM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 3:11:05 PM] END...
+===================================
+
+[7/20/2017 3:12:06 PM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Push Notification to ChatWork : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 3:12:24 PM] END...
+===================================
+
+[7/20/2017 3:12:33 PM] Start...
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+[7/20/2017 3:12:35 PM] END...
+===================================
+
+[7/20/2017 3:13:03 PM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Nothing Changed : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Nothing Changed : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[7/20/2017 3:14:03 PM] END...
+===================================
+
+[11/2/2017 9:27:44 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Push Notification to ChatWork : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Push Notification to ChatWork : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Push Notification to ChatWork : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Push Notification to ChatWork : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Push Notification to ChatWork : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Push Notification to ChatWork : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Push Notification to ChatWork : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Push Notification to ChatWork : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Push Notification to ChatWork : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Push Notification to ChatWork : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Push Notification to ChatWork : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Push Notification to ChatWork : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Push Notification to ChatWork : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Push Notification to ChatWork : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Push Notification to ChatWork : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Push Notification to ChatWork : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Push Notification to ChatWork : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Push Notification to ChatWork : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Push Notification to ChatWork : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Push Notification to ChatWork : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Push Notification to ChatWork : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Push Notification to ChatWork : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Push Notification to ChatWork : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Push Notification to ChatWork : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Push Notification to ChatWork : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Push Notification to ChatWork : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Push Notification to ChatWork : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Push Notification to ChatWork : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Push Notification to ChatWork : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Push Notification to ChatWork : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Push Notification to ChatWork : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Push Notification to ChatWork : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Push Notification to ChatWork : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Push Notification to ChatWork : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Push Notification to ChatWork : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Push Notification to ChatWork : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Push Notification to ChatWork : canhme.com
+-------------------------------
+[11/2/2017 9:28:42 AM] END...
+===================================
+
+[11/2/2017 9:28:47 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Nothing Changed : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Push Notification to ChatWork : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[11/2/2017 9:29:27 AM] END...
+===================================
+
+[11/2/2017 9:30:12 AM] Start...
+Checking : www.conoha.jp
+Save : www.conoha.jp
+Nothing Changed : www.conoha.jp
+-------------------------------
+Checking : www.conoha.jpenpricingbtn_id=top_header_pricing
+Save : www.conoha.jpenpricingbtn_id=top_header_pricing
+Nothing Changed : www.conoha.jpenpricingbtn_id=top_header_pricing
+-------------------------------
+Checking : cloud.google.com
+Save : cloud.google.com
+Nothing Changed : cloud.google.com
+-------------------------------
+Checking : cloud.google.compricing
+Save : cloud.google.compricing
+Nothing Changed : cloud.google.compricing
+-------------------------------
+Checking : aws.amazon.com
+Save : aws.amazon.com
+Nothing Changed : aws.amazon.com
+-------------------------------
+Checking : www.digitalocean.com
+Save : www.digitalocean.com
+Nothing Changed : www.digitalocean.com
+-------------------------------
+Checking : www.digitalocean.compricing#memory
+Save : www.digitalocean.compricing#memory
+Nothing Changed : www.digitalocean.compricing#memory
+-------------------------------
+Checking : www.vultr.com
+Save : www.vultr.com
+Nothing Changed : www.vultr.com
+-------------------------------
+Checking : www.vultr.compricing
+Save : www.vultr.compricing
+Nothing Changed : www.vultr.compricing
+-------------------------------
+Checking : www.hostgator.com
+Save : www.hostgator.com
+Nothing Changed : www.hostgator.com
+-------------------------------
+Checking : www.hostgator.comdomains
+Save : www.hostgator.comdomains
+Nothing Changed : www.hostgator.comdomains
+-------------------------------
+Checking : www.hostgator.comdedicated-server
+Save : www.hostgator.comdedicated-server
+Nothing Changed : www.hostgator.comdedicated-server
+-------------------------------
+Checking : www.hostgator.comvps-hosting
+Save : www.hostgator.comvps-hosting
+Nothing Changed : www.hostgator.comvps-hosting
+-------------------------------
+Checking : www.hostgator.comreseller-hosting
+Save : www.hostgator.comreseller-hosting
+Nothing Changed : www.hostgator.comreseller-hosting
+-------------------------------
+Checking : www.hostgator.commanaged-wordpress-hosting
+Save : www.hostgator.commanaged-wordpress-hosting
+Nothing Changed : www.hostgator.commanaged-wordpress-hosting
+-------------------------------
+Checking : www.hostgator.comweb-hosting
+Save : www.hostgator.comweb-hosting
+Nothing Changed : www.hostgator.comweb-hosting
+-------------------------------
+Checking : vn.godaddy.com
+Save : vn.godaddy.com
+Nothing Changed : vn.godaddy.com
+-------------------------------
+Checking : www.digistar.vnbang-gia-ten-mien
+Save : www.digistar.vnbang-gia-ten-mien
+Nothing Changed : www.digistar.vnbang-gia-ten-mien
+-------------------------------
+Checking : www.digistar.vnkhuyen-mai
+Save : www.digistar.vnkhuyen-mai
+Nothing Changed : www.digistar.vnkhuyen-mai
+-------------------------------
+Checking : www.digistar.vnweb-hosting
+Save : www.digistar.vnweb-hosting
+Nothing Changed : www.digistar.vnweb-hosting
+-------------------------------
+Checking : www.digistar.vnssl
+Save : www.digistar.vnssl
+Nothing Changed : www.digistar.vnssl
+-------------------------------
+Checking : hostingviet.vn
+Save : hostingviet.vn
+Nothing Changed : hostingviet.vn
+-------------------------------
+Checking : hostingviet.vnten-mien
+Save : hostingviet.vnten-mien
+Nothing Changed : hostingviet.vnten-mien
+-------------------------------
+Checking : hostvn.net
+Save : hostvn.net
+Push Notification to ChatWork : hostvn.net
+-------------------------------
+Checking : hostvn.netten-mien#!#domainpricing
+Save : hostvn.netten-mien#!#domainpricing
+Nothing Changed : hostvn.netten-mien#!#domainpricing
+-------------------------------
+Checking : vinahost.vn
+Save : vinahost.vn
+Nothing Changed : vinahost.vn
+-------------------------------
+Checking : vinahost.vnbang-gia-ten-mien.html
+Save : vinahost.vnbang-gia-ten-mien.html
+Nothing Changed : vinahost.vnbang-gia-ten-mien.html
+-------------------------------
+Checking : vinahost.vnserver.php
+Save : vinahost.vnserver.php
+Nothing Changed : vinahost.vnserver.php
+-------------------------------
+Checking : tenten.vn
+Save : tenten.vn
+Nothing Changed : tenten.vn
+-------------------------------
+Checking : nhanhoa.com
+Save : nhanhoa.com
+Nothing Changed : nhanhoa.com
+-------------------------------
+Checking : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Save : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+Nothing Changed : nhanhoa.comtrangten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : nhanhoa.comhostingwindows-hosting.html
+Save : nhanhoa.comhostingwindows-hosting.html
+Nothing Changed : nhanhoa.comhostingwindows-hosting.html
+-------------------------------
+Checking : www.matbao.net
+Save : www.matbao.net
+Nothing Changed : www.matbao.net
+-------------------------------
+Checking : www.matbao.netten-mienbang-gia-ten-mien.html
+Save : www.matbao.netten-mienbang-gia-ten-mien.html
+Nothing Changed : www.matbao.netten-mienbang-gia-ten-mien.html
+-------------------------------
+Checking : www.matbao.nethostingcloud-hosting-windows.html
+Save : www.matbao.nethostingcloud-hosting-windows.html
+Nothing Changed : www.matbao.nethostingcloud-hosting-windows.html
+-------------------------------
+Checking : www.stablehost.com
+Save : www.stablehost.com
+Nothing Changed : www.stablehost.com
+-------------------------------
+Checking : www.hawkhost.com
+Save : www.hawkhost.com
+Nothing Changed : www.hawkhost.com
+-------------------------------
+Checking : www.namecheap.com
+Save : www.namecheap.com
+Nothing Changed : www.namecheap.com
+-------------------------------
+Checking : www.bigrock.in
+Save : www.bigrock.in
+Nothing Changed : www.bigrock.in
+-------------------------------
+Checking : www.ramnode.com
+Save : www.ramnode.com
+Nothing Changed : www.ramnode.com
+-------------------------------
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[11/2/2017 9:30:53 AM] END...
+===================================
+
+[11/2/2017 9:35:35 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[11/2/2017 9:35:36 AM] END...
+===================================
+
+[11/2/2017 9:35:43 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[11/2/2017 9:35:44 AM] END...
+===================================
+
+[11/2/2017 9:35:54 AM] Start...
+Checking : canhme.com
+Save : canhme.com
+Nothing Changed : canhme.com
+-------------------------------
+[11/2/2017 9:37:06 AM] END...
+===================================
+

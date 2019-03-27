@@ -1,0 +1,1389 @@
+
+SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com
+ 
+ 
+ 
+ 
+Home
+Pricing
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Instances
+Features
+Resources
+FAQ
+API
+Metadata
+Vultr Docs
+Benchmarks
+Server Status
+Company
+About Us
+Our Team
+News
+SLA
+Contact
+Log In
+Create Account
+High Performance SSD Cloud
+Available in 15 Cities Worldwide! Deploy in less than 60 seconds!
+Create Account
+    
+        
+        
+            Vultr
+            
+        
+        
+            
+                Servers
+                Billing
+                Support
+                Affiliate
+                Account
+                Logout
+            
+        
+    
+    
+        
+    
+    
+        
+            
+                Servers
+                
+                    
+                        Instances
+                        Snapshots
+                        ISO
+                        Startup Scripts
+                        SSH Keys
+                        DNS
+                        Backups
+                        Block Storage
+                        Reserved IPs
+                        Firewall
+                    
+                
+                
+            
+            
+        
+        
+            
+                
+                There are no instances created.
+            
+            
+                
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                    
+                    
+                        
+                        Server
+                        OS
+                        Location
+                        Charges
+                        Status
+                        
+                    
+                    
+                    
+                                                    
+                                
+                                    
+                                
+                                
+                                    Cloud Instance #1
+                                    2048 MB VPS - 192.0.2.1
+                                
+                                
+                                    
+                                
+                                
+                                     New Jersey
+                                
+                                
+                                    Costs: $4.28
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    Cloud Instance #2
+                                    768 MB VPS - 192.0.2.2
+                                
+                                
+                                    
+                                
+                                
+                                     Singapore
+                                
+                                
+                                    Costs: $2.25
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    Cloud Database
+                                    512 MB VPS - 192.0.2.3
+                                
+                                
+                                    
+                                
+                                
+                                     Frankfurt
+                                
+                                
+                                    Costs: $2.98
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    DNS Server
+                                    4096 MB VPS - 192.0.2.4
+                                
+                                
+                                    
+                                
+                                
+                                     Miami
+                                
+                                
+                                    Costs: $6.38
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    Caching Server
+                                    8192 MB VPS - 192.0.2.5
+                                
+                                
+                                    
+                                
+                                
+                                     Chicago
+                                
+                                
+                                    Costs: $8.24
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+                
+                    
+                        Server:
+                        Cloud Instance #1
+                    
+                    
+                        &nbsp;
+                        2048 MB VPS - 192.0.2.1
+                    
+                    
+                        OS
+                        
+                    
+                    
+                        Location
+                         New Jersey
+                    
+                    
+                        Costs
+                        $4.28
+                    
+                    
+                        Status
+                        Running
+                    
+                
+                
+                
+                    
+                        Server:
+                        Cloud Instance #2
+                    
+                    
+                        &nbsp;
+                        768 MB VPS - 192.0.2.2
+                    
+                    
+                        OS
+                        
+                    
+                    
+                        Location
+                         Singapore
+                    
+                    
+                        Costs
+                        $2.25
+                    
+                    
+                        Status
+                        Running
+                    
+                
+                
+            
+        
+    
+    
+        
+            
+                Deploy New Instance
+                
+                    
+                        Vultr Cloud Compute (VC2)
+                        Storage Instance
+                        Dedicated Instance
+                    
+                
+            
+        
+        
+            
+                
+                    1
+                    Choose Server Location
+                    
+                        
+                            All Locations
+                            America
+                            Europe
+                            Australia
+                            Asia
+                        
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                    Paris France
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Amsterdam Netherlands
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Frankfurt Germany
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    London United Kingdom
+                                
+                            
+                        
+                    
+                
+                
+                    2
+                    Server Type
+                    
+                        
+                            64 bit OS
+                            32 bit OS
+                            Application
+                            Upload ISO
+                            ISO Library
+                            Backup
+                            Snapshot
+                        
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                    Ubuntu Select Version
+                                
+                                
+                                                                            17.10 x64
+                                                                            17.04 x64
+                                                                            16.04 x64
+                                                                            14.04 x64
+                                                                    
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    CentOS Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Debian Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    FreeBSD Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    OpenBSD Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    CoreOS Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Fedora Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Windows Select Version
+                                
+                            
+                        
+                    
+                
+                
+                    3
+                    Choose Package
+                    
+                        
+                            
+                                
+                                    
+                                        20GB SSD
+                                        $2.50/mo$0.004/h
+                                    
+                                    
+                                        
+                                            1 CPU
+                                            512MB Memory
+                                            500GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        25GB SSD
+                                        $5/mo$0.007/h
+                                    
+                                    
+                                        
+                                            1 CPU
+                                            1024MB Memory
+                                            1000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        40GB SSD
+                                        $10/mo$0.015/h
+                                    
+                                    
+                                        
+                                            1 CPU
+                                            2048MB Memory
+                                            2000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        60GB SSD
+                                        $20/mo$0.030/h
+                                    
+                                    
+                                        
+                                            2 CPU
+                                            4096MB Memory
+                                            3000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                    
+                                        100GB SSD
+                                        $40/mo$0.060/h
+                                    
+                                    
+                                        
+                                            4 CPU
+                                            8192MB Memory
+                                            4000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        200GB SSD
+                                        $80/mo$0.119/h
+                                    
+                                    
+                                        
+                                            6 CPU
+                                            16384MB Memory
+                                            5000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        300GB SSD
+                                        $160/mo$0.238/h
+                                    
+                                    
+                                        
+                                            8 CPU
+                                            32768MB Memory
+                                            6000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        400GB SSD
+                                        $320/mo$0.476/h
+                                    
+                                    
+                                        
+                                            16 CPU
+                                            65536MB Memory
+                                            10000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        800GB SSD
+                                        $640/mo$0.952/h
+                                    
+                                    
+                                        
+                                            24 CPU
+                                            98304MB Memory
+                                            15000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                        
+                        
+                    
+                
+                
+                    4
+                    Additional Features
+                    
+                        Enable IPv6
+                    
+                    
+                        Enable Private Network [?]
+                    
+                    
+                        Enable Auto Backups
+                        $1.00/mo
+                    
+                    
+                        Enable DDOS Protection [?]
+                        $10/mo
+                    
+                    
+                                    
+                
+                    5
+                    Startup Script ( Manage )
+                    
+                        There are no Startup Scripts created.
+                        Click here to add
+                    
+                
+                
+                    6
+                    SSH Keys ( Manage )
+                    
+                        There are no SSH Keys created.
+                        Click here to add
+                    
+                
+                
+                    7
+                    Server Hostname &amp; Label
+                    
+                        
+                            
+                                
+                                cloud-database
+                            
+                        
+                        
+                            
+                                
+                                Cloud Database
+                            
+                        
+                    
+                
+            
+            
+            
+                
+                    Summary: $5/mo
+                    Deploy Now
+                
+            
+        
+        
+    
+    
+    
+        
+            Summary: $5.00/mo
+            Deploy Now
+        
+    
+    
+    
+        
+        
+            Vultr
+            
+        
+        
+            
+                Servers
+                Billing
+                Support
+                Affiliate
+                Account
+                Logout
+            
+        
+    
+    
+        
+    
+    
+        
+            
+                Servers
+                
+                    
+                        Instances
+                        Snapshots
+                        ISO
+                        Startup Scripts
+                        SSH Keys
+                        DNS
+                        Backups
+                        Block Storage
+                        Reserved IPs
+                        Firewall
+                    
+                
+                
+            
+            
+        
+        
+            
+                
+                There are no instances created.
+            
+            
+                
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                    
+                    
+                        
+                        Server
+                        OS
+                        Location
+                        Charges
+                        Status
+                        
+                    
+                    
+                    
+                                                    
+                                
+                                    
+                                
+                                
+                                    Cloud Instance #1
+                                    2048 MB VPS - 192.0.2.1
+                                
+                                
+                                    
+                                
+                                
+                                     New Jersey
+                                
+                                
+                                    Costs: $4.28
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    Cloud Instance #2
+                                    768 MB VPS - 192.0.2.2
+                                
+                                
+                                    
+                                
+                                
+                                     Singapore
+                                
+                                
+                                    Costs: $2.25
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    Cloud Database
+                                    512 MB VPS - 192.0.2.3
+                                
+                                
+                                    
+                                
+                                
+                                     Frankfurt
+                                
+                                
+                                    Costs: $2.98
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    DNS Server
+                                    4096 MB VPS - 192.0.2.4
+                                
+                                
+                                    
+                                
+                                
+                                     Miami
+                                
+                                
+                                    Costs: $6.38
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                                                                            
+                                
+                                    
+                                
+                                
+                                    Caching Server
+                                    8192 MB VPS - 192.0.2.5
+                                
+                                
+                                    
+                                
+                                
+                                     Chicago
+                                
+                                
+                                    Costs: $8.24
+                                
+                                
+                                    Running
+                                
+                                
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+                
+                    
+                        Server:
+                        Cloud Instance #1
+                    
+                    
+                        &nbsp;
+                        2048 MB VPS - 192.0.2.1
+                    
+                    
+                        OS
+                        
+                    
+                    
+                        Location
+                         New Jersey
+                    
+                    
+                        Costs
+                        $4.28
+                    
+                    
+                        Status
+                        Running
+                    
+                
+                
+                
+                    
+                        Server:
+                        Cloud Instance #2
+                    
+                    
+                        &nbsp;
+                        768 MB VPS - 192.0.2.2
+                    
+                    
+                        OS
+                        
+                    
+                    
+                        Location
+                         Singapore
+                    
+                    
+                        Costs
+                        $2.25
+                    
+                    
+                        Status
+                        Running
+                    
+                
+                
+            
+        
+    
+    
+        
+            
+                Deploy New Instance
+                
+                    
+                        Vultr Cloud Compute (VC2)
+                        Storage Instance
+                        Dedicated Instance
+                    
+                
+            
+        
+        
+            
+                
+                    1
+                    Choose Server Location
+                    
+                        
+                            All Locations
+                            America
+                            Europe
+                            Australia
+                            Asia
+                        
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                    Paris France
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Amsterdam Netherlands
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Frankfurt Germany
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    London United Kingdom
+                                
+                            
+                        
+                    
+                
+                
+                    2
+                    Server Type
+                    
+                        
+                            64 bit OS
+                            32 bit OS
+                            Application
+                            Upload ISO
+                            ISO Library
+                            Backup
+                            Snapshot
+                        
+                        
+                        
+                    
+                    
+                        
+                            
+                                
+                                    
+                                    Ubuntu Select Version
+                                
+                                
+                                                                            17.10 x64
+                                                                            17.04 x64
+                                                                            16.04 x64
+                                                                            14.04 x64
+                                                                    
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    CentOS Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Debian Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    FreeBSD Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    OpenBSD Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    CoreOS Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Fedora Select Version
+                                
+                            
+                        
+                        
+                            
+                                
+                                    
+                                    Windows Select Version
+                                
+                            
+                        
+                    
+                
+                
+                    3
+                    Choose Package
+                    
+                        
+                            
+                                
+                                    
+                                        20GB SSD
+                                        $2.50/mo$0.004/h
+                                    
+                                    
+                                        
+                                            1 CPU
+                                            512MB Memory
+                                            500GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        25GB SSD
+                                        $5/mo$0.007/h
+                                    
+                                    
+                                        
+                                            1 CPU
+                                            1024MB Memory
+                                            1000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        40GB SSD
+                                        $10/mo$0.015/h
+                                    
+                                    
+                                        
+                                            1 CPU
+                                            2048MB Memory
+                                            2000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        60GB SSD
+                                        $20/mo$0.030/h
+                                    
+                                    
+                                        
+                                            2 CPU
+                                            4096MB Memory
+                                            3000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                    
+                                        100GB SSD
+                                        $40/mo$0.060/h
+                                    
+                                    
+                                        
+                                            4 CPU
+                                            8192MB Memory
+                                            4000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        200GB SSD
+                                        $80/mo$0.119/h
+                                    
+                                    
+                                        
+                                            6 CPU
+                                            16384MB Memory
+                                            5000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        300GB SSD
+                                        $160/mo$0.238/h
+                                    
+                                    
+                                        
+                                            8 CPU
+                                            32768MB Memory
+                                            6000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        400GB SSD
+                                        $320/mo$0.476/h
+                                    
+                                    
+                                        
+                                            16 CPU
+                                            65536MB Memory
+                                            10000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                            
+                                
+                                    
+                                        800GB SSD
+                                        $640/mo$0.952/h
+                                    
+                                    
+                                        
+                                            24 CPU
+                                            98304MB Memory
+                                            15000GB Bandwidth
+                                        
+                                    
+                                
+                                
+                            
+                        
+                        
+                    
+                
+                
+                    4
+                    Additional Features
+                    
+                        Enable IPv6
+                    
+                    
+                        Enable Private Network [?]
+                    
+                    
+                        Enable Auto Backups
+                        $1.00/mo
+                    
+                    
+                        Enable DDOS Protection [?]
+                        $10/mo
+                    
+                    
+                                    
+                
+                    5
+                    Startup Script ( Manage )
+                    
+                        There are no Startup Scripts created.
+                        Click here to add
+                    
+                
+                
+                    6
+                    SSH Keys ( Manage )
+                    
+                        There are no SSH Keys created.
+                        Click here to add
+                    
+                
+                
+                    7
+                    Server Hostname &amp; Label
+                    
+                        
+                            
+                                
+                                cloud-database
+                            
+                        
+                        
+                            
+                                
+                                Cloud Database
+                            
+                        
+                    
+                
+            
+            
+            
+                
+                    Summary: $5/mo
+                    Deploy Now
+                
+            
+        
+        
+    
+    
+    
+        
+            Summary: $5.00/mo
+            Deploy Now
+        
+    
+    
+Our Products
+Vultr Cloud Compute (VC2)
+Our powerful compute instances are perfect for your web application or development environment.
+Starting at $2.50/mo
+Block Storage
+Fast SSD-backed storage up to 10TB volumes and up to 1200MB/sec IO.
+Starting at $1/mo
+Dedicated Cloud
+Goodbye Noisy Neighbors. Dedicated CPU, SSD Drives, and RAM just for you.
+Starting at $60/mo
+Our Global Footprint Brings The Cloud To You!
+Seattle
+Silicon Valley
+Los Angeles
+Dallas
+Miami
+Atlanta
+New Jersey
+Chicago
+London
+Amsterdam
+Frankfurt
+Paris
+Tokyo
+Sydney
+Singapore
+More about Locations
+Simple. Powerful. Reliable.
+Boost performance with Vultr's 100% Intel CPU and 100% SSD platform. 
+Activate in minutes, online 24x7
+15 low latency locations
+100% SLA guaranteed
+Solid-state drives
+Powerful infrastructure
+Feature-rich control panel
+Root administrator access
+Hourly billing
+Check all Features
+Get started in the SSD Cloud!
+Create Account
+Pricing
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Instances
+DDoS Protection
+Features
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Cloud
+Datacenter Locations
+Control Panel
+Operating Systems
+Upload ISO
+One-Click Apps
+Bring Your IP Space
+Resources
+FAQ
+API
+Vultr Docs
+Benchmarks
+Server Status
+Bug Bounty
+Coupons
+Toolbox
+Company
+About Us
+Our Team
+News
+Logos &amp; Banners
+Careers
+SLA
+Legal
+Contact
+Terms of Service
+AUP / DMCA
+Privacy Policy
+Copyright 2017 &copy; Vultr Holdings Corporation. All rights reserved.
+VULTR is a registered trademark of Vultr Holdings Corporation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

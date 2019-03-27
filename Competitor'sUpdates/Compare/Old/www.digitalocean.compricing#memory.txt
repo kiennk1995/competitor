@@ -1,0 +1,1645 @@
+
+  
+    Pricing on DigitalOcean | Cloud server &amp; storage pricing
+   
+ 
+ 
+ 
+ 
+ 
+     
+  
+  
+     
+    
+ 
+      
+  Spaces
+    
+      
+        
+          
+            
+              DigitalOcean Logo
+              
+            
+          
+          
+            
+              
+              
+              
+            
+          
+        
+        
+          
+            Products
+            Business
+            Pricing
+            Tutorials
+            Network Status
+            Careers
+            Community
+            Login
+            Sign Up
+          
+        
+      
+      
+        
+          
+            
+              
+                
+                  DigitalOcean Logo
+                  
+                
+                
+                  
+                    Products 
+                    
+                    
+                      
+                        Overview
+                        Compute
+                        Object Storage
+                        Block Storage
+                        Networking
+                        Monitoring
+                        Teams
+                      
+                    
+                  
+                
+                Business
+                Pricing
+                Community
+              
+            
+            
+              
+                API
+                Help
+                Log In
+                Sign Up
+              
+            
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            Free credit active:
+            You have a $10 credit from a friend.
+            Complete registration to get started.
+          
+        
+        
+          
+            
+              Close Alert
+              
+            
+          
+        
+      
+    
+    
+      Simple, transparent pricing
+      Always know what you'll pay per month.
+      Get Started
+    
+  
+  
+    
+      
+        Droplets
+      
+      
+        Storage
+      
+      
+        Networking
+      
+      
+        Tools & Services
+      
+    
+  
+  
+    
+      
+    
+    Standard Droplets
+  
+  
+    Easy-to-deploy and resizable SSD-based virtual machines that are billed
+    hourly. Standard Droplets offer the right amount of RAM, CPU, and local
+    storage space needed to get applications off the ground.
+    Learn More
+  
+  
+  
+    
+      Slider direction: left
+      
+    
+  
+  
+      
+        
+          
+            
+              $
+              5
+              /mo
+            
+            
+              $0.007/hr
+            
+          
+          
+            
+              
+                512MB
+              
+              Memory
+            
+            
+              
+                1
+              
+              vCPU
+            
+            
+              
+                20GB
+              
+              SSD Disk
+            
+            
+              
+                1TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              10
+              /mo
+            
+            
+              $0.015/hr
+            
+          
+          
+            
+              
+                1GB
+              
+              Memory
+            
+            
+              
+                1
+              
+              vCPU
+            
+            
+              
+                30GB
+              
+              SSD Disk
+            
+            
+              
+                2TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              20
+              /mo
+            
+            
+              $0.03/hr
+            
+          
+          
+            
+              
+                2GB
+              
+              Memory
+            
+            
+              
+                2
+              
+              vCPU
+            
+            
+              
+                40GB
+              
+              SSD Disk
+            
+            
+              
+                3TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              40
+              /mo
+            
+            
+              $0.06/hr
+            
+          
+          
+            
+              
+                4GB
+              
+              Memory
+            
+            
+              
+                2
+              
+              vCPU
+            
+            
+              
+                60GB
+              
+              SSD Disk
+            
+            
+              
+                4TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              80
+              /mo
+            
+            
+              $0.119/hr
+            
+          
+          
+            
+              
+                8GB
+              
+              Memory
+            
+            
+              
+                4
+              
+              vCPU
+            
+            
+              
+                80GB
+              
+              SSD Disk
+            
+            
+              
+                5TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+        
+          
+            
+              
+                $
+                160
+                /mo
+              
+              
+                $0.238/hr
+              
+            
+            
+              
+                
+                  16GB
+                
+                Memory
+              
+              
+                
+                  8
+                
+                vCPU
+              
+              
+                
+                  160GB
+                
+                SSD Disk
+              
+              
+                
+                  6TB
+                
+                Transfer
+              
+            
+            Create Account
+          
+        
+        
+          
+            
+              
+                $
+                320
+                /mo
+              
+              
+                $0.476/hr
+              
+            
+            
+              
+                
+                  32GB
+                
+                Memory
+              
+              
+                
+                  12
+                
+                vCPU
+              
+              
+                
+                  320GB
+                
+                SSD Disk
+              
+              
+                
+                  7TB
+                
+                Transfer
+              
+            
+            Create Account
+          
+        
+        
+          
+            
+              
+                $
+                480
+                /mo
+              
+              
+                $0.714/hr
+              
+            
+            
+              
+                
+                  48GB
+                
+                Memory
+              
+              
+                
+                  16
+                
+                vCPU
+              
+              
+                
+                  480GB
+                
+                SSD Disk
+              
+              
+                
+                  8TB
+                
+                Transfer
+              
+            
+            Create Account
+          
+        
+        
+          
+            
+              
+                $
+                640
+                /mo
+              
+              
+                $0.952/hr
+              
+            
+            
+              
+                
+                  64GB
+                
+                Memory
+              
+              
+                
+                  20
+                
+                vCPU
+              
+              
+                
+                  640GB
+                
+                SSD Disk
+              
+              
+                
+                  9TB
+                
+                Transfer
+              
+            
+            Create Account
+          
+        
+  
+  
+    
+      Slider direction: right
+      
+    
+  
+  
+    
+      
+    
+    
+      Plus receive free access to services
+      including Monitoring, Cloud Firewalls, and more.
+    
+  
+  
+    
+      
+    
+    Specialized Droplets
+    
+      High CPU
+      High Memory
+      
+    
+  
+  
+    
+  
+    Achieve up to 4x more CPU performance on
+    High CPU vs Standard Droplets. High CPU Droplets have been optimized for
+    computationally intensive workloads such as running highly active front-end
+    application servers, data analysis, and batch processing.
+    Learn More
+  
+  
+    
+      
+        Slider direction: left
+        
+      
+    
+    
+        
+          
+            
+              
+                $
+                40
+                /mo
+              
+              
+                $0.06/hr
+              
+            
+            
+              
+                
+                  3GB
+                
+                Memory
+              
+              
+                  2 Dedicated vCPU
+              
+              
+                
+                  20GB
+                
+                SSD Disk
+              
+              
+                
+                  5TB
+                
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                80
+                /mo
+              
+              
+                $0.119/hr
+              
+            
+            
+              
+                
+                  6GB
+                
+                Memory
+              
+              
+                  4 Dedicated vCPU
+              
+              
+                
+                  20GB
+                
+                SSD Disk
+              
+              
+                
+                  5TB
+                
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                160
+                /mo
+              
+              
+                $0.238/hr
+              
+            
+            
+              
+                
+                  12GB
+                
+                Memory
+              
+              
+                  8 Dedicated vCPU
+              
+              
+                
+                  20GB
+                
+                SSD Disk
+              
+              
+                
+                  5TB
+                
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                320
+                /mo
+              
+              
+                $0.476/hr
+              
+            
+            
+              
+                
+                  24GB
+                
+                Memory
+              
+              
+                  16 Dedicated vCPU
+              
+              
+                
+                  20GB
+                
+                SSD Disk
+              
+              
+                
+                  5TB
+                
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                640
+                /mo
+              
+              
+                $0.952/hr
+              
+            
+            
+              
+                
+                  48GB
+                
+                Memory
+              
+              
+                  32 Dedicated vCPU
+              
+              
+                
+                  20GB
+                
+                SSD Disk
+              
+              
+                
+                  5TB
+                
+                Transfer
+              
+            
+            Get Started
+          
+        
+    
+    
+      
+        Slider direction: right
+        
+      
+    
+  
+    
+  
+    High Memory Droplets offer larger amounts of RAM, ideal for databases and in-memory caching.
+  
+  
+    
+        
+          
+            
+              
+                $
+                120
+                /mo
+              
+              
+                $0.18/hr
+              
+            
+            
+              
+                
+                  16GB
+                
+                Memory
+              
+              
+                
+                  2
+                
+                vCPU
+              
+              
+                
+                  30GB
+                SSD Disk
+              
+              
+                
+                  6TB
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                240
+                /mo
+              
+              
+                $0.36/hr
+              
+            
+            
+              
+                
+                  32GB
+                
+                Memory
+              
+              
+                
+                  4
+                
+                vCPU
+              
+              
+                
+                  90GB
+                SSD Disk
+              
+              
+                
+                  7TB
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                480
+                /mo
+              
+              
+                $0.71/hr
+              
+            
+            
+              
+                
+                  64GB
+                
+                Memory
+              
+              
+                
+                  8
+                
+                vCPU
+              
+              
+                
+                  200GB
+                SSD Disk
+              
+              
+                
+                  8TB
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                960
+                /mo
+              
+              
+                $1.43/hr
+              
+            
+            
+              
+                
+                  128GB
+                
+                Memory
+              
+              
+                
+                  16
+                
+                vCPU
+              
+              
+                
+                  340GB
+                SSD Disk
+              
+              
+                
+                  9TB
+                Transfer
+              
+            
+            Get Started
+          
+        
+        
+          
+            
+              
+                $
+                1680
+                /mo
+              
+              
+                $2.5/hr
+              
+            
+            
+              
+                
+                  224GB
+                
+                Memory
+              
+              
+                
+                  32
+                
+                vCPU
+              
+              
+                
+                  500GB
+                SSD Disk
+              
+              
+                
+                  10TB
+                Transfer
+              
+            
+            Get Started
+          
+        
+    
+  
+  
+  
+    
+      Storage
+      
+        Simple, reliable, and scalable storage services for your data.
+      
+    
+    
+  
+    
+       
+       
+    
+  
+  
+    Block Storage
+    
+      Attach additional SSD-based Block Storage volumes to your Droplet at
+      $0.10/GB per month.
+      Learn More
+    
+    
+      
+        
+          100GB
+        
+      
+      
+        
+        
+      
+      16TB
+    
+    
+      $
+      10.00
+      /mo
+    
+    
+      $0.000/hr
+    
+  
+    
+      
+        
+          
+        
+      
+      
+        Spaces
+        
+          Object storage that provides developers the simplest way to store,
+          serve, backup, and archive an infinite amount of web content, images,
+          media and static files for your web applications.
+          Learn more
+        
+        
+          
+            
+              $
+              5
+              /mo
+            
+            
+              
+                250 GB Storage included
+              
+              
+                1 TB Transfer included
+              
+              
+                $0.01 per additional GB transferred
+              
+            
+          
+        
+        
+          Additional storage is available at $0.02 per GB
+          stored per month. There is no charge for inbound transfer or uploads.
+        
+        Try free for 2 months
+      
+    
+    
+      
+        
+          
+  
+    
+      
+    
+    
+    
+    
+    
+    
+  
+        
+        
+          Backups
+          
+            The pricing for backups is 20% of the cost of your virtual machine.
+            So if you want to enable backups for a $5/mo. Droplet, the cost of
+            the backup will be $1 per month.
+          
+          
+            20%
+            of compute pricing
+          
+        
+      
+      
+        
+          
+  
+    
+      
+    
+    
+    
+  
+        
+        
+          Snapshots
+          
+            Pricing is based on the utilized space within the filesystem.
+            Snapshots that are destroyed before the month is over will be
+            charged hourly, just like Droplets.
+          
+          
+            $
+            0.05
+            per GB per month
+          
+        
+      
+    
+    
+      Get Started
+    
+  
+  
+    
+      Networking
+      
+        Robust networking services to ensure 99.99% uptime and throughput.
+      
+    
+    
+      
+        
+          
+  
+    
+    
+    
+    
+    
+    
+      
+    
+    
+  
+        
+        
+          Load Balancers
+          
+            Automatically distribute incoming traffic across your Droplets,
+            enabling you to build more reliable and performant applications by
+            creating redundancy. Load Balancers are billed hourly at $0.03,
+            with no additional bandwidth charges. Available in all
+            datacenter regions.
+          
+          Learn More
+          
+            $
+            20
+            per Load Balancer per month
+          
+        
+      
+      
+        
+          
+    
+        
+            
+            
+            
+            
+            
+        
+        
+        
+            
+                
+                
+                
+            
+            
+        
+        
+    
+        
+        
+          Cloud Firewalls
+          
+            Easily secure your infrastructure and define what services are
+            visible on your Droplets. Cloud Firewalls are perfect for staging
+            and production deployments.
+          
+          Learn More
+          
+            Free
+          
+        
+      
+    
+  
+  
+    
+      Tools and Services
+      
+        Get access to the following free tools
+        and services right out of the box.
+      
+    
+    
+      
+        
+          
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        
+        Monitoring & Alerts
+      
+      
+        
+          
+  
+    
+    
+    
+    
+    
+    
+    
+  
+        
+        Cloud Firewalls
+      
+      
+        
+          
+  
+  
+  
+  
+  
+  
+  
+  
+        
+        Team Accounts
+      
+      
+        
+          
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        
+        CLI & API
+      
+      
+        
+          
+  
+  
+  
+  
+  
+        
+        Pre-built open source apps
+      
+      
+        
+          
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        
+        99.99% SLA
+      
+      
+        
+          
+  
+    
+    
+    
+    
+    
+    
+    
+    
+  
+        
+        DNS
+      
+      
+        
+          
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        
+        Worldwide Availability
+      
+      
+        
+          
+  
+  
+  
+  
+  
+    
+    
+  
+        
+        24/7 Technical Support
+      
+    
+    
+      Get Started
+    
+  
+  
+    
+      Solutions for Teams
+      
+        Businesses will receive access to these additional services when
+        exceeding $500/mo. in usage.
+      
+    
+    
+      
+        
+          
+  
+  
+  
+  
+  
+  
+  
+  
+        
+        Account management
+      
+      
+        
+          
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+        
+        Solutions engineering support
+      
+      
+        
+          
+  
+  
+  
+  
+  
+    
+    
+  
+        
+        24/7 dedicated email support
+      
+      
+        
+          
+  
+  
+  
+    
+    
+  
+  
+        
+        Free trial to get started
+      
+    
+    
+      
+    
+    
+      Get In Touch
+    
+  
+  
+    
+      
+        
+          
+        
+      
+      
+        Transparent Pricing Policy
+        
+          At DigitalOcean, we're on a mission to simplify the complexities of
+          infrastructure and that includes pricing. We have a mantra internally
+          called "keeping it DO-Simple" and we believe that all pricing models
+          should be straightforward and predictable. That is why all Droplets
+          are billed hourly, up until a monthly cap (672 hours or 28 days) so
+          it's always February and there are no surprises at the end of the
+          month when you receive your bill - it is that simple.
+        
+      
+    
+  
+  
+    
+      
+        
+          
+            What form of payments do you accept?
+            
+              We accept Visa, MasterCard, American Express, Discover, and
+              PayPal. For additional payment options, like purchase orders and
+              ACH, please contact sales.
+            
+          
+          
+            Will taxes be included in my monthly invoice?
+            
+              Yes, if you live in Canada, India, or the EU. Please review the
+              tax help sections on the Pricing & Billing page for more information.
+            
+          
+        
+      
+      
+        
+          
+            How does hourly pricing work?
+            
+              All Droplets are billed hourly, up until a monthly cap. We have
+              estimated that each month has about 672 hours (28 days). If you
+              use your server for less than 672 hours during the month, you will
+              be billed for each hour that you used it. If you use your server
+              for more than 672 hours that month, you will be billed at the
+              monthly cost, which is no greater than 672 hours.
+            
+          
+          
+            Am I charged when I enter a credit card?
+            
+              No—when you enter a card, we only verify the card. Your card is
+              charged at the end of the billing cycle.
+            
+          
+        
+      
+      
+        Have more questions?
+        Visit our
+        Pricing & Billing FAQ.
+      
+    
+    
+      
+        
+          
+            
+          
+          
+            See Our Customers
+          
+          
+            Over 50,000 teams around the world, from early stage startups to
+            large enterprises, rely on DigitalOcean to run their company's
+            workloads.
+          
+        
+      
+      
+        
+          
+            
+          
+          
+            Explore Our Community
+          
+          
+            Find all the resources you need to go from development to production
+            with over a thousand easy-to-follow development and sysadmin
+            tutorials or join the conversation in our diverse Q&amp;A section.
+          
+        
+      
+    
+  
+          
+    
+      
+        
+          
+            Company
+            
+              About
+              Blog
+              Careers
+              Press
+              Security
+              Legal
+            
+          
+          
+            Products
+            
+              Compute
+              Object Storage
+              Block Storage
+              Networking
+              Load Balancer
+              Monitoring
+              Apps
+              Teams
+            
+          
+          
+            Learn More
+            
+              For Business
+              Solutions
+              Customers
+              Pricing
+              Contact Sales
+              Hatch
+            
+          
+          
+            Support
+            
+              Help
+              API
+              Network Status
+              Contact Support
+            
+          
+          
+            Community
+            
+              Tutorials
+              Get Paid to Write
+              Questions
+              Meetups
+              Referral Program
+              Shop
+              Droplets for Demos
+            
+          
+          
+            
+              
+                  
+                    Twitter
+                    
+                  
+                
+              
+                  
+                    Facebook
+                    
+                  
+                
+              
+                  
+                    LinkedIn
+                    
+                  
+                
+              
+                  
+                    Github
+                    
+                  
+                
+              
+                  
+                    Google Plus
+                    
+                  
+                
+              
+                  
+                    Instagram
+                    
+                  
+                
+              
+                  
+                    YouTube
+                    
+                  
+                
+              
+            
+            Copyright &copy; 2017 DigitalOcean &trade; Inc.
+            Proudly Made in NY
+            We're Hiring!
+          
+        
+        
+           Droplets Launched
+        
+      
+    
+     
+     
+         
+   
+  
+

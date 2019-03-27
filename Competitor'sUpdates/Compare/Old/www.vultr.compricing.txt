@@ -1,0 +1,152 @@
+
+High Performance and Cheap Cloud Servers Deployment - Vultr.com
+ 
+ 
+ 
+ 
+Home
+Pricing
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Instances
+Features
+Resources
+FAQ
+API
+Metadata
+Vultr Docs
+Benchmarks
+Server Status
+Company
+About Us
+Our Team
+News
+SLA
+Contact
+Log In
+Create Account
+Plans &amp; Pricing
+Powerful compute backed by 100% SSD storage.Deploy worldwide in under 60 seconds!
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Instances
+Hourly Pricing
+Monthly Pricing
+20GB SSD
+$2.50
+1 CPU
+512MB Memory
+500GB Bandwidth
+25GB SSD
+$5
+1 CPU
+1024MB Memory
+1000GB Bandwidth
+40GB SSD
+$10
+1 CPU
+2048MB Memory
+2000GB Bandwidth
+60GB SSD
+$20
+2 CPU
+4096MB Memory
+3000GB Bandwidth
+100GB SSD
+$40
+4 CPU
+8192MB Memory
+4000GB Bandwidth
+200GB SSD
+$80
+6 CPU
+16384MB Memory
+5000GB Bandwidth
+300GB SSD
+$160
+8 CPU
+32768MB Memory
+6000GB Bandwidth
+400GB SSD
+$320
+16 CPU
+65536MB Memory
+10000GB Bandwidth
+Create a free account
+Vultr is up to 4 times faster than the competition!
+We tested our plans against a comparable match on other clouds. See why all clouds are not created equal.
+Check benchmark results
+Simple. Powerful. Reliable.
+Boost performance with Vultr's 100% Intel CPU and 100% SSD platform. 
+Activate in minutes, online 24x7
+15 low latency locations
+100% SLA guaranteed
+Solid-state drives
+Powerful infrastructure
+Feature-rich control panel
+Root administrator access
+Hourly billing
+Check all Features
+Frequently asked questions.
+How am I billed for my instances?
+All virtual machines on your account are billed hourly up to the monthly rate cap. The hourly rate is determined by dividing the monthly rate by 672 hours (28 days). If your machine is online for more than 672 hours in a calendar month, you will only be billed the monthly rate. Accumulated charges are invoiced to your account on the 1st of every month.
+Do you charge for stopped instances?
+Yes, instances in a stopped state continue to reserve dedicated system resources (RAM, SSD storage, IP aliases, CPU) and therefore incur charges until you destroy the instance. If you wish to no longer accumulate charges for a virtual machine, please use the DESTROY button in the customer portal.
+What operating system templates do you offer?
+See our full list of operating systems.
+Does VAT apply for European Union customers?
+Vultr.com is required to collect VAT (Value Added Tax) for customers that reside in the EU. VAT is not charged to Business or Charity customers that provide a valid VAT registration. You may enter your VAT registration in your customer portal&#039;s settings section. Our prices do not include VAT - VAT will be added to your invoice as a separate line item.
+At what rate is overage bandwidth billed?
+Bandwidth utilization in excess of instance allocation is charged at $0.01 per GB in North American and Western European locations. Due to higher regional costs, Singapore and Tokyo (Japan) overage is priced at $0.025 per GB and Sydney (Australia) overage is priced at $0.05 per GB.
+Get started in the SSD Cloud!
+Create Account
+Pricing
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Instances
+DDoS Protection
+Features
+Vultr Cloud Compute (VC2)
+Block Storage
+Dedicated Cloud
+Datacenter Locations
+Control Panel
+Operating Systems
+Upload ISO
+One-Click Apps
+Bring Your IP Space
+Resources
+FAQ
+API
+Vultr Docs
+Benchmarks
+Server Status
+Bug Bounty
+Coupons
+Toolbox
+Company
+About Us
+Our Team
+News
+Logos &amp; Banners
+Careers
+SLA
+Legal
+Contact
+Terms of Service
+AUP / DMCA
+Privacy Policy
+Copyright 2017 &copy; Vultr Holdings Corporation. All rights reserved.
+VULTR is a registered trademark of Vultr Holdings Corporation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

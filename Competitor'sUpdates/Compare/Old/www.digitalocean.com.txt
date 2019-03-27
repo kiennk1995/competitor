@@ -1,0 +1,838 @@
+
+  
+    DigitalOcean: Cloud computing designed for developers
+   
+ 
+ 
+ 
+ 
+ 
+     
+  
+  
+     
+    
+ 
+      
+  Spaces
+    
+      
+        
+          
+            
+              DigitalOcean Logo
+              
+            
+          
+          
+            
+              
+              
+              
+            
+          
+        
+        
+          
+            Products
+            Business
+            Pricing
+            Tutorials
+            Network Status
+            Careers
+            Community
+            Login
+            Sign Up
+          
+        
+      
+      
+        
+          
+            
+              
+                
+                  DigitalOcean Logo
+                  
+                
+                
+                  
+                    Products 
+                    
+                    
+                      
+                        Overview
+                        Compute
+                        Object Storage
+                        Block Storage
+                        Networking
+                        Monitoring
+                        Teams
+                      
+                    
+                  
+                
+                Business
+                Pricing
+                Community
+              
+            
+            
+              
+                API
+                Help
+                Log In
+                Sign Up
+              
+            
+          
+        
+      
+    
+    
+  
+      
+        
+            
+    
+      
+    
+    Introducing Spaces, a beautifully
+    simple and scalable object storage service.
+    Learn&nbsp;more.
+  
+        
+          
+            Close Alert
+          
+      
+    
+      
+        Cloud computing, designed for developers.
+        
+          
+            
+              
+              
+                
+                
+                  
+                  Email Address
+                
+              
+              
+                
+                  
+                  Password
+                
+              
+              
+                
+              
+            
+          
+        
+        By signing up, you agree to the Terms of Service.
+      
+      
+        
+          
+            
+          
+          
+            
+          
+        
+      
+    
+  
+  
+    Seamlessly manage your infrastructure
+    
+      
+          
+          Deploy in seconds
+          Spin up a Droplet and get root access to a compute instance in only 55 seconds.
+      
+      
+          
+          SSD performance
+          The first and only all-SSD cloud. Whether it's our Droplet compute instances or Block Storage, everything runs on SSD.
+      
+      
+          
+          Simple API
+          An intuitive API and command line utilities allow you to run large-scale production workloads.
+      
+      
+          
+          Block storage
+          Never run out of space with the ability to attach multiple highly available volumes up to 16TB to a Droplet.
+      
+      
+          
+          Object storage
+          
+            Spaces is a beautifully simple object storage service that is
+            reliable and scalable.
+          
+      
+      
+          
+          Teams work together
+          Easily manage your cloud with your team by inviting others and setting access permissions.
+      
+      
+          
+          Load balancing as a service
+          Load Balancers are a fully managed service that work right out of the box and distribute incoming traffic to increase your application's availability.
+      
+      
+          
+          Monitoring and alerting
+          Collect metrics, monitor performance, and receive alerts to optimize your application performance &ndash; at no additional cost.
+      
+      
+          
+          Lightning fast network
+          Each hypervisor has a fault tolerant and redundant 40Gbps network to ensure uptime and throughput.
+      
+    
+  
+  
+    Straightforward pricing
+  
+  
+  
+    
+      Slider direction: left
+      
+    
+  
+  
+      
+        
+          
+            
+              $
+              5
+              /mo
+            
+            
+              $0.007/hr
+            
+          
+          
+            
+              
+                512MB
+              
+              Memory
+            
+            
+              
+                1
+              
+              vCPU
+            
+            
+              
+                20GB
+              
+              SSD Disk
+            
+            
+              
+                1TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              10
+              /mo
+            
+            
+              $0.015/hr
+            
+          
+          
+            
+              
+                1GB
+              
+              Memory
+            
+            
+              
+                1
+              
+              vCPU
+            
+            
+              
+                30GB
+              
+              SSD Disk
+            
+            
+              
+                2TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              20
+              /mo
+            
+            
+              $0.03/hr
+            
+          
+          
+            
+              
+                2GB
+              
+              Memory
+            
+            
+              
+                2
+              
+              vCPU
+            
+            
+              
+                40GB
+              
+              SSD Disk
+            
+            
+              
+                3TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              40
+              /mo
+            
+            
+              $0.06/hr
+            
+          
+          
+            
+              
+                4GB
+              
+              Memory
+            
+            
+              
+                2
+              
+              vCPU
+            
+            
+              
+                60GB
+              
+              SSD Disk
+            
+            
+              
+                4TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+      
+        
+          
+            
+              $
+              80
+              /mo
+            
+            
+              $0.119/hr
+            
+          
+          
+            
+              
+                8GB
+              
+              Memory
+            
+            
+              
+                4
+              
+              vCPU
+            
+            
+              
+                80GB
+              
+              SSD Disk
+            
+            
+              
+                5TB
+              
+              Transfer
+            
+          
+          Get Started
+        
+      
+  
+  
+    
+      Slider direction: right
+      
+    
+  
+  
+    Develop locally, deploy globally
+    
+    
+      
+        
+          
+            Amsterdam
+            
+              Speed Test AMS2
+              Speed Test AMS3
+            
+          
+        
+        
+          
+            Bangalore
+            
+              Speed Test BLR1
+            
+          
+        
+        
+          
+            Frankfurt
+            
+              Speed Test FRA1
+            
+          
+        
+        
+          
+            London
+            
+              Speed Test LON1
+            
+          
+        
+        
+          
+            New York City
+            
+              Speed Test NYC1
+              Speed Test NYC2
+              Speed Test NYC3
+            
+          
+        
+        
+          
+            San Francisco
+            
+              Speed Test SFO1
+              Speed Test SFO2
+            
+          
+        
+        
+          
+            Singapore
+            
+              Speed Test SGP1
+            
+          
+        
+        
+          
+            Toronto
+            
+              Speed Test TOR1
+            
+          
+        
+      
+    
+    
+    
+      
+        
+          
+            San Francisco
+            
+              Speed Test
+              SFO1
+              SFO2
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            Toronto
+            
+              Speed Test
+              TOR1
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            New York City
+            
+              Speed Test
+              NYC1
+              NYC2
+              NYC3
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            London
+            
+              Speed Test
+              LON1
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            Frankfurt
+            
+              Speed Test
+              FRA1
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            Amsterdam
+            
+              Speed Test
+              AMS2
+              AMS3
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            Bangalore
+            
+              Speed Test
+              BLR1
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+        
+          
+            Singapore
+            
+              Speed Test
+              SGP1
+            
+          
+          
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+        
+      
+      Create Droplet
+    
+  
+  
+    Join over 50,000 teams on DigitalOcean
+    
+      
+    
+    Bring DigitalOcean to work
+  
+          
+    
+      
+        
+          
+            Company
+            
+              About
+              Blog
+              Careers
+              Press
+              Security
+              Legal
+            
+          
+          
+            Products
+            
+              Compute
+              Object Storage
+              Block Storage
+              Networking
+              Load Balancer
+              Monitoring
+              Apps
+              Teams
+            
+          
+          
+            Learn More
+            
+              For Business
+              Solutions
+              Customers
+              Pricing
+              Contact Sales
+              Hatch
+            
+          
+          
+            Support
+            
+              Help
+              API
+              Network Status
+              Contact Support
+            
+          
+          
+            Community
+            
+              Tutorials
+              Get Paid to Write
+              Questions
+              Meetups
+              Referral Program
+              Shop
+              Droplets for Demos
+            
+          
+          
+            
+              
+                  
+                    Twitter
+                    
+                  
+                
+              
+                  
+                    Facebook
+                    
+                  
+                
+              
+                  
+                    LinkedIn
+                    
+                  
+                
+              
+                  
+                    Github
+                    
+                  
+                
+              
+                  
+                    Google Plus
+                    
+                  
+                
+              
+                  
+                    Instagram
+                    
+                  
+                
+              
+                  
+                    YouTube
+                    
+                  
+                
+              
+            
+            Copyright &copy; 2017 DigitalOcean &trade; Inc.
+            Proudly Made in NY
+            We're Hiring!
+          
+        
+        
+           Droplets Launched
+        
+      
+    
+     
+     
+         
+  
+

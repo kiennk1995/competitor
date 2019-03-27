@@ -1,0 +1,160 @@
+
+Canh Me - Khuyến mại giảm giá Tên miền, Hosting &amp; VPS/Server
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+          
+                
+ 
+ 
+ 
+ Primary Menu
+ Menu
+Tên miền
+GoDaddy Coupon
+Namecheap Coupon
+Domain.com Coupon
+Netfirms Coupon
+MyDomain Coupon
+Dotster Coupon
+BigRock Coupon
+Name.com Coupon
+NameSilo Coupon
+Hosting
+StableHost Coupon
+Hawk Host Coupon
+SiteGround Coupon
+DreamHost Coupon
+Server
+Vultr Coupon
+DigitalOcean Coupon
+RamNode Coupon
+Linode Coupon
+WordPress
+Kinh nghiệm
+Series hướng dẫn
+Bộ sưu tập
+Kiến thức căn bản
+Kiến thức quản trị VPS, Server
+Bảng Giá
+Tin Tức
+Blog Canh Me
+Liên hệ
+Khuyến mại hấp dẫn
+StableHost Coupon tháng 10 &#8211; Giảm 50% trọn đời
+Hawk Host Coupon tháng 11 &#8211; Giảm giá lên tới 40% Hosting
+Vultr Coupon tháng 11 &#8211; Tặng 3$ Twitter, 50GB Block Storage Free
+Ưu đãi đặc biệt cho thành viên Canh Me, Tên miền .COM chỉ 3.99$
+GoDaddy khuyến mại WordPress Hosting 12$/năm + Free Domain
+Thủ thuật: Nếu muốn tìm kiếm các khuyến mại của Canh Me trên Google, bạn hãy search: canhme + từ khóa. 
+    Khuyến mại Tên miền, Hosting, VPS/Server
+[Bất Ngờ] Tên miền .COM chỉ 0.99$, Transfer được
+Ưu đãi dành riêng cho Canh Me &#8211; Tên miền .COM chỉ 99k
+Ngay sau khi kết thúc chương trình khuyến mại tên miền quốc tế chỉ 99k, HostingViet vẫn giữ thêm một ưu đãi riêng cho thành viên của Canh Me.
+[QC] BKHOST Giảm 50% Hosting SSD và 30% Cloud VPS chào mừng 20/11
+BKHOST chúc quý khách một ngày làm việc hiệu quả. BKHOST tiếp tục triển khai chương trình khuyến mãi cực sốc cho dịch vụ HOSTING SSD &amp; CLOUD VPS.
+Tặng mã khuyến mại 900.000₫ quảng cáo Google Adwords
+Chuyện là mình có được Google Analytics gửi mã coupon khuyến mại quảng cáo Google Adwords trị giá 900.000₫ mà không dùng đến. Bỏ không thì phí quá nên muốn để lại cho anh em nào cần thì lấy mà dùng.
+Happy Halloween &#8211; Exabytes tung ra ưu đãi cho toàn bộ sản phẩm/dịch vụ
+Lễ hội hóa trang Halloween đang đến rất gần, nhân dịp này Exabytes tiếp tục tung ra chương trình ưu đãi cho toàn bộ sản phẩm/dịch vụ của mình.
+Tenten giảm 50% giá dịch vụ tên miền .VN
+Hôm nay Tenten lại đang có flash sale giảm giá 50% cho tên miền quốc gia Việt Nam .VN.
+Time4VPS giảm giá 50% VPS Hosting dịp Halloween
+Tưng bừng chào đón Halloween, Time4VPS tung ra coupon ưu đãi giảm tới 50% cho toàn bộ các gói VPS Hosting của mình.
+[QC] Nhân Hòa khuyến mãi giá sốc vào Thứ 3 và Thứ 4 mỗi tuần &#8220;Tên miền giá tốt &#8211; Hốt ngay kẻo lỡ&#8221;
+Tháng 10, Nhân Hòa tiếp tục khuyến mãi tên miền quốc gia .VN và tên miền quốc tế .COM/.NET, đặc biệt tên miền XYZ vẫn duy trì giá 18K.
+Amazon Lightsail hỗ trợ Windows Server, đầy đủ location, Free tháng đầu tiên
+Sau một thời gian cung cấp dịch vụ trên nền tảng Linux/Unix platform, cuối cùng Amazon cũng bổ sung Windows Server cho Lightsail.
+Cấu hình gửi Mail trên WordPress với SparkPost (Free 15,000 Mail)
+SparkPost là một trong những nhà cung cấp dịch vụ SMTP hàng đầu hiện nay và đang được tin dùng bởi nhiều thương hiệu nổi tiếng trên toàn cầu. Bạn đã thử chưa?
+GoDaddy Coupon tháng 10, giảm 40% đăng ký mới &#8211; Hosting 1$/tháng + Free tên miền
+Tháng này GoDaddy vẫn đang duy trì gói khuyến mại rất hấp dẫn, chỉ 12$ có ngay website chuyên nghiệp với WordPress Hosting và Tên miền quốc tế miễn phí dùng trong 1 năm.
+Bộ tứ giảm giá 25% toàn bộ sản phẩm/dịch vụ
+Chào đón Halloween, bộ tứ Domain.com, MyDomain, Dotster, Netfirms vừa tung ra coupon ưu đãi giảm tới 25% mới, áp dụng được cho cả domain, hosting và các dịch vụ khác.
+Hướng dẫn kích hoạt Redis trên Hawk Host
+Cuối tuần trước, Hawk Host tung ra hệ thống cache Redis bên cạnh Memcached trong Server Application Manager. Hôm nay, Canhme có dịp trên tay và viết bài hướng dẫn cho các bạn kích hoạt sử dụng.
+High CPU Droplet có thêm location Singapore
+High CPU là hệ thống cloud server được DigitalOcean thiết kế riêng cho những công việc tính toán cần nhiều tài nguyên CPU, nay đã xuất hiện ở Singapore (SGP1).
+Tên miền .COM chỉ 114k/năm tại CrazyDomains
+Nếu đã hết slot tên miền giá rẻ ở Exabytes (3.99$) hay Directnic (4.17$), hãy tới CrazyDomains để &#8220;sắm&#8221; thêm một domain .COM, giá hiện chỉ là 114k/năm mà thôi.
+Xem tiếp
+ 
+Bản Tin Canh MeĐăng ký nhận khuyến mại hấp dẫn nhất qua email
+Đăng Ký Ngay!
+Đăng ký thành công. Vui lòng check email để xác nhận!
+Bảng giá tên miền
+.COM
+.NET
+1.17$Lucky Register3.99$Exabytes4.17$Directnic99kHosting Việt108kTenten109kNhân Hòa119kZ.com119kHostVN120kP.A Việt Nam120kMắt Bão5.99$Alibaba Cloud5.99$eWallHost6.31$BigRock7.49$Domain.com7.99$NameSilo
+4.17$Directnic99kHosting Việt108kTenten109kNhân Hòa4.98$BigRock119kHostVN120kP.A Việt Nam120kMắt Bão
+ Xem tất cả các loại tên miền
+Tìm kiếm
+Hosting nên dùngVPS nên dùng
+Bài hay nên đọc
+Hướng dẫn cài đặt và sử dụng Sendy &#8211; Email Marketing số lượng lớn, giá rẻ
+Hướng dẫn sử dụng GetResponse &#8211; Email Marketing từ A-Z
+Hosting chất lượng cao nên dùng
+VPS làm site vệ tinh tốt nhất khi SEO
+Tạo email tên miền riêng miễn phí với Yandex
+Hướng dẫn sử dụng CloudFlare &#8211; Dịch vụ DNS miễn phí tuyệt vời
+Khuyến mại WordPress Theme, WordPress Plugin
+ThemeForest tặng bạn 4 Theme WordPress, Hoàn toàn FREE
+Chào tháng 11, ThemeForest đã vừa cập nhật ngay 4 theme WordPress mới dành tặng cho khách hàng &#8211; hoàn toàn MIỄN&hellip;
+MyThemeShop Coupon &#8211; Theme/Plugin bất kỳ giá chỉ 19$ dịp Halloween
+MyThemeShop là một trong những nhà cung cấp theme/plugin lớn dành riêng cho WordPress đang rất phổ biến trên thế&hellip;
+Five Friday Freebies, Envato tặng thêm Theme WordPress FREE trị giá 49$
+Bạn có đang phải đau đầu lựa chọn giao diện cho blog cá nhân của mình? Canh Me xin giới&hellip;
+Envato đang giảm 50% một loạt Theme &amp; Plugin cho website eCommerce
+Không chỉ tặng miễn phí 4 theme WordPress chất lượng cùng một số item trong chương trình free files of&hellip;
+Tải ngay các FREE Item độc đáo tháng 11 từ Envato
+Mỗi tháng, Envato đều có chương trình tặng miễn phí sản phẩm cho thành viên của mình. Các sản phẩm&hellip;
+Creative Market đang tặng miễn phí WordPress Theme trị giá 59$
+Nếu đang cần một giao diện cho website mới của mình, hãy tận dụng cơ hội và tới ngay Creative&hellip;
+Bài viết mới nhất[Bất Ngờ] Tên miền .COM chỉ 0.99$, Transfer đượcƯu đãi dành riêng cho Canh Me &#8211; Tên miền .COM chỉ 99k[QC] BKHOST Giảm 50% Hosting SSD và 30% Cloud VPS chào mừng 20/11ThemeForest tặng bạn 4 Theme WordPress, Hoàn toàn FREETenten giảm 50% giá dịch vụ tên miền .VN
+Top comment tháng
+ Văn (20)
+ Sabo (14)
+ Tịnh Nguyễn (12)
+ Lê Huy (9)
+ LDB (8)
+ Nga (8)
+Giới thiệu
+Canh Me (tên cũ Chia Sẻ Coupon) là blog cá nhân cung cấp thông tin khuyến mại, coupon giảm giá dành cho Tên miền, Hosting, VPS/Server và WordPress.
+Bạn bè
+Spring Coupon &#8211; Học VPS &#8211; Payoneer Việt Nam &#8211;  Thủ thuật WordPress &#8211; Kiemtiencenter &#8211; Thạch Phạm Blog &#8211; Tocdo.net
+Giới thiệu
+Hợp Tác
+Liên hệ
+&copy; 2017 Canh Me (formerly Chia Sẻ Coupon). Powered by HocVPS Script. Hosted by Vultr.
+Made with  in Hanoi
+ 
+        
+         
+        
+             
+Bản Tin Canh MeHãy đăng ký để nhận tin mới nhanh nhất qua email.
+ĐĂNG KÝ NGAY!
+Đăng ký thành công. Vui lòng check email để xác nhận!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

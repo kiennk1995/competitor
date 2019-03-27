@@ -1,0 +1,34 @@
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.exe.config
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.exe
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.pdb
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\HtmlAgilityPack.dll
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\RestSharp.dll
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\HtmlAgilityPack.pdb
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\HtmlAgilityPack.xml
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\RestSharp.xml
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.csprojResolveAssemblyReference.cache
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.exe
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.pdb
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\log4net.dll
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\log4net.xml
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.exe.manifest
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.application
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.exe.manifest
+c:\users\gmorunsystem\documents\visual studio 2017\Projects\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.application
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.exe.config
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.exe.manifest
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.application
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.exe
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\Competitor'sUpdates.pdb
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\HtmlAgilityPack.dll
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\log4net.dll
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\RestSharp.dll
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\HtmlAgilityPack.xml
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\log4net.xml
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Debug\RestSharp.xml
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.exe.manifest
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.application
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.exe
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.pdb
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Debug\Competitor'sUpdates.csprojResolveAssemblyReference.cache

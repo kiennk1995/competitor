@@ -1,0 +1,901 @@
+
+     Google Cloud Computing, Hosting Services &amp; APIs &nbsp;|&nbsp; Google Cloud Platform Google Cloud Platform
+        Home
+      
+        About
+      
+        Why Google
+      
+        Products
+      
+        Solutions
+      
+        Launcher
+      
+        Pricing
+      
+        Customers
+      
+        Documentation
+      
+        Support
+      
+        Partners
+      
+        Social
+      
+        Contact
+      Console
+  
+  Sign in
+    Try It Free
+  
+    Contact Sales
+    
+      
+        
+        
+  
+  
+  
+    
+      
+        
+  
+  
+    
+    
+      
+        Home
+      
+      
+    
+    
+  
+    
+    
+      
+        About
+      
+      
+    
+    
+  
+    
+    
+      
+        Why Google
+      
+      
+    
+    
+  
+    
+    
+      
+        Products
+      
+      
+    
+    
+  
+    
+    
+      
+        Solutions
+      
+      
+    
+    
+  
+    
+    
+      
+        Launcher
+      
+      
+    
+    
+  
+    
+    
+      
+        Pricing
+      
+      
+    
+    
+  
+    
+    
+      
+        Customers
+      
+      
+    
+    
+  
+    
+    
+      
+        Documentation
+      
+      
+    
+    
+  
+    
+    
+      
+        Support
+      
+      
+    
+    
+  
+    
+    
+      
+        Partners
+      
+      
+    
+    
+  
+    
+    
+      
+        Social
+      
+      
+    
+    
+  
+    
+    
+      
+        Contact
+      
+      
+    
+    
+  
+  
+    
+      
+        Console
+      
+    
+  
+  
+      
+    
+  
+  
+  
+        
+        
+        
+        
+  
+  
+          
+  
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+      Google Cloud Platform
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    
+      
+        
+          Build What's Next
+          Better software. Faster.
+        
+        
+          
+            check
+            Use Google's core infrastructure, data analytics and machine learning.
+          
+          
+            check
+            Secure and fully featured for all enterprises.
+          
+          
+            check
+            Committed to open source and industry leading price-performance.
+          
+        
+        
+          
+            Try It Free
+          
+        
+        
+          Contact Sales
+        
+        
+      
+    
+  
+  
+    
+      
+       
+         
+         Forrester Research
+         Google Cloud is named the Insight PaaS Leader by Forrester.
+         Learn More
+         
+       
+       
+         
+         GCP Region Expansion
+         Run workloads in even more locations around the world. Our newest
+           regions: Frankfurt, São Paulo and Mumbai.
+         Learn More
+         
+       
+       
+        
+        Google Cloud &amp; Intel
+        A strategic alliance to accelerate enterprise adoption of cloud.
+        Learn More
+        
+       
+      
+    
+  
+  
+      
+        Why Google Cloud Platform?
+        
+          
+            
+            
+              
+                Future-Proof Infrastructure
+              
+            
+            
+              Secure, global, high-performance, cost-effective and constantly improving. We’ve
+              built our cloud for the long haul.
+            
+            
+              LEARN MORE
+            
+          
+        
+        
+          
+            
+            
+              
+                Seriously Powerful Data &amp; Analytics
+              
+            
+            
+              Tap into big data to find answers faster and build better products.
+            
+            
+              LEARN MORE
+            
+          
+        
+        
+          
+            
+            
+              
+                Serverless, Just Code
+              
+            
+            
+              Grow from prototype to production to planet-scale, without having to think about
+              capacity, reliability or performance.
+            
+            LEARN MORE
+          
+        
+      
+    
+    
+    
+      Everything You Need To Build And Scale
+      
+        
+          
+            
+              Compute
+            
+            
+              From virtual machines with proven price/performance advantages to a fully managed app
+              development platform.
+            
+          
+          
+            Compute Engine
+            App Engine
+            Container Engine
+            
+              
+                 expand_more
+              
+            
+            
+              Container Registry
+              Cloud Functions
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+        
+          
+            
+              Storage and Databases
+            
+            
+              Scalable, resilient, high performance object storage and databases for your
+              applications.
+            
+          
+          
+            Cloud Storage
+            Cloud SQL
+            Cloud Bigtable
+            
+              
+                 expand_more
+              
+            
+            
+              Cloud Spanner
+              Cloud Datastore
+              Persistent Disk
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+        
+          
+            
+              Networking
+            
+            
+              State-of-the-art software-defined networking products on Google’s private fiber
+              network.
+            
+          
+          
+            Cloud Virtual Network
+            Cloud Load Balancing
+            Cloud CDN
+            
+              
+                expand_more
+              
+            
+            
+              Cloud Interconnect
+              Cloud DNS
+              Network Service Tiers
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+      
+      
+        
+          
+            
+              Big Data
+            
+            
+              Fully managed data warehousing, batch and stream processing, data exploration,
+              Hadoop/Spark, and reliable messaging.
+            
+          
+          
+            BigQuery
+            Cloud Dataflow
+            Cloud Dataproc
+            
+              
+                expand_more
+              
+            
+            
+              Cloud Datalab
+              Cloud Dataprep
+              Cloud Pub/Sub
+              Genomics
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+        
+          
+            
+              Data Transfer
+            
+            
+              Online and offline transfer solutions for moving data quickly and securely.
+            
+          
+          
+            Google Transfer Appliance
+            Cloud Storage Transfer Service
+            Google BigQuery Data Transfer
+          
+        
+        
+          
+            
+              API Platform &amp; Ecosystems
+            
+            
+              Cross-cloud API platform enabling businesses to adapt by unlocking the value of data, delivering modern applications, and powering ecosystems.
+            
+          
+          
+            Apigee API Platform
+            API Monetization
+            API Analytics
+            
+              
+                 expand_more
+              
+            
+            
+              Apigee Sense
+              Cloud Endpoints
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+      
+      
+        
+          
+            
+              Internet of Things
+            
+            
+              Intelligent IoT platform that unlocks business insights from your global device network
+            
+          
+          
+            Cloud IoT Core
+          
+        
+        
+          
+            
+              Machine Learning
+            
+            
+              Fast, scalable, easy to use ML services. Use our pre-trained models or train custom
+              models on your data.
+            
+          
+          
+            Cloud Machine Learning Engine
+            Cloud Job Discovery
+            Cloud Natural Language API
+            
+              
+                 expand_more
+              
+            
+            
+              Cloud Speech API
+              Cloud Translation API
+              Cloud Vision API
+              Cloud Video Intelligence API
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+        
+          
+            
+              Management Tools
+            
+            
+              Monitoring, logging, and diagnostics and more, all in an easy to use web management
+              console or mobile app.
+            
+          
+          
+            Stackdriver Overview
+            Monitoring
+            Logging
+            
+              
+                expand_more
+              
+            
+            
+              Error Reporting
+              Trace
+              Debugger
+              Cloud Deployment Manager
+              Cloud Console
+              Cloud Shell
+              Cloud Mobile App
+              Cloud Billing API
+              
+                
+                  expand_less
+                
+              
+            
+          
+        
+      
+      
+        
+          
+            
+              Developer Tools
+            
+            
+              Develop and deploy your applications using our command-line interface and other
+              developer tools.
+            
+          
+          
+            Cloud SDK
+            Container Registry
+            Container Builder
+            
+              
+                expand_more
+              
+            
+            
+              Cloud Deployment Manager
+              Cloud Source Repositories
+              Cloud Tools for Android Studio
+              Cloud Tools for IntelliJ
+              Cloud Tools for Eclipse
+              Cloud Test Lab
+              
+                
+                   expand_less
+                
+              
+            
+          
+        
+        
+          
+            
+              Identity &amp; Security
+            
+            
+              Control access and visibility to resources running on a platform protected by Google’s
+              security model.
+            
+          
+          
+            Cloud IAM
+            Cloud Identity-Aware Proxy
+            Cloud Data Loss Prevention API
+            
+              
+                expand_more
+              
+            
+            
+              Security Key Enforcement
+              Cloud Key Management Service
+              Cloud Resource Manager
+              Cloud Security Scanner
+              Cloud Platform Security Overview
+              
+                
+                   expand_less
+                
+              
+            
+          
+        
+      
+      
+        SEE ALL PRODUCTS
+      
+    
+  
+  
+    
+      
+        
+          
+          
+            "Using Google Cloud Platform, the campaign runs smoothly 24/7 and includes redundancy,
+            failover techniques, backups and state-of-the-art monitoring. Plus, it’s affordable."
+          
+        
+        
+          
+          
+            "Not having to manage our own infrastructure frees up our teams to do what they’re
+            really good at -- making music special for everyone."
+          
+        
+        
+          
+          
+            "Without Google Cloud Platform, we would never have been able to launch so fast. That
+            head start was invaluable."
+          
+        
+      
+      
+        
+          
+          
+            "Snapchat handles sensitive user data and entrusts Google Cloud Platform with its
+            storage."
+          
+        
+        
+          
+          
+            "The ease, integration and scalability that Google offers with Cloud Platform allow us
+            to offer the best online grocery shopping around."
+          
+        
+        
+          
+          
+            "By using Google Cloud Platform, in two weeks we were able to develop a functional
+            system ready for integration test."
+          
+        
+      
+    
+  
+  
+    
+      
+        TRY IT FREE
+      
+    
+  
+ 
+    
+  
+    
+      Follow Google Cloud Platform
+      Stay updated on Google Cloud Platform by following us on your favorite social networks.
+      
+        https://plus.google.com/+googlecloud/
+        https://www.youtube.com/c/googlecloud
+        https://twitter.com/googlecloud
+        
+        https://www.facebook.com/googlecloud
+      
+    
+    
+      Google Cloud Platform Blog
+      Product updates, customer stories, and tips and tricks on Google Cloud Platform.
+      
+        http://googlecloudplatform.blogspot.com/
+      
+    
+    
+    Sign up for the newsletter
+    Get the latest Google Cloud Platform news, product updates, surveys, event information and special offers, delivered straight to your inbox.
+      
+        
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+            
+              
+              
+              Sign up
+              
+            
+            
+              Please enter a valid email address.
+              Thanks! We’ll be in touch shortly.
+            
+        
+      
+    
+  
+     
+ 
+ 
+ 
+ 
+ 
+     
+  
+  
+  
+    
+  
+  
+  
+    
+      
+      Monitor your resources on the go
+    
+    
+      Get the Google Cloud Console app to help you manage your projects.
+    
+  
+  
+    
+      
+      Not now
+    
+      
+      Use the app
+    
+  
+  
+        
+      
+Products
+                Compute
+            
+                Storage
+            
+                Networking
+            
+                Big Data
+            
+                Machine Learning
+            
+                Management Tools
+            
+                Developer Tools
+            
+                Identity &amp; Security
+            
+                System Status
+            Learn More
+                Why Google
+            
+                Pricing
+            
+                Documentation
+            
+                Tutorials
+            
+                Training
+            
+                Solutions
+            
+                Security &amp; Compliance
+            
+                Partners
+            
+                Customers
+            
+                Support
+            
+                Careers
+            Engage
+                Free Trial Sign Up
+            
+                Blog
+            
+                Community
+            
+                Google+
+            
+                Twitter
+            
+                LinkedIn
+            
+                Stack Overflow
+            
+                YouTube
+            
+                Podcast
+            
+                Newsletter Signup
+            
+                UX Research
+            
+                Android
+            
+                Chrome
+            
+                Firebase
+            
+                Google Cloud Platform
+            
+                All Products
+            
+            Deutsch
+          
+            English
+          
+            español
+          
+            Español (América Latina)
+          
+            français
+          
+            Português Brasileiro
+          
+            日本語
+          
+            繁體中文
+          Terms
+         Privacy
+         Impressum
+                
+

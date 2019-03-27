@@ -1,0 +1,17 @@
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\Competitor'sUpdates.exe.config
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\Competitor'sUpdates.exe.manifest
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\Competitor'sUpdates.application
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\Competitor'sUpdates.exe
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\Competitor'sUpdates.pdb
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\HtmlAgilityPack.dll
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\log4net.dll
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\RestSharp.dll
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\HtmlAgilityPack.pdb
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\HtmlAgilityPack.xml
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\log4net.xml
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\bin\Release\RestSharp.xml
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Release\Competitor'sUpdates.csprojResolveAssemblyReference.cache
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Release\Competitor'sUpdates.exe.manifest
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Release\Competitor'sUpdates.application
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Release\Competitor'sUpdates.exe
+E:\Project\Competitor'sUpdates\Competitor'sUpdates\obj\Release\Competitor'sUpdates.pdb

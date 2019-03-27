@@ -1,0 +1,725 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+Pricing - [ConoHa] Japanese OpenStack Cloud
+                                
+English
+日本語
+English
+한국어
+中文
+このは
+Features
+Pricing
+Sign Up
+Log In
+Pricing
+ConoHa VPS offers a fixedmonthly fee, post-billing structure.p.Hourly rates are also available for temporary usage and for customers that join us mid-way through the month. With no setup fees or monthly minimum, users can start small and grow big! ConoHa allows users to build a flexible system that is capable of responding to growing business or traffic needs without wasted investment.
+Simple pricing, no transfer fees
+Japan (Tokyo)
+USA (San Jose)
+Singapore
+&nbsp;900JPY/Month1.3JPY/Hour
+RAM
+1GB
+CPU
+2 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Recommended
+1,750JPY/Month
+2.5JPY/Hour
+RAM
+2GB
+CPU
+3 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;
+3,420JPY/Month
+4.8JPY/Hour
+RAM
+4GB
+CPU
+4 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;
+6,670JPY/Month
+9.3JPY/Hour
+RAM
+8GB
+CPU
+6 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Enterprise
+13,010JPY/Month
+18.1JPY/Hour
+RAM
+16GB
+CPU
+8 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+High Performance
+25,370JPY/Month
+35.3JPY/Hour
+RAM
+32GB
+CPU
+12 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Extreme Performance
+49,480JPY/Month
+68.8JPY/Hour
+RAM
+64GB
+CPU
+24 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;1,170JPY/Month1.7JPY/Hour
+RAM
+1GB
+CPU
+2 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Recommended
+2,270JPY/Month
+3.2JPY/Hour
+RAM
+2GB
+CPU
+3 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;
+4,440JPY/Month
+6.2JPY/Hour
+RAM
+4GB
+CPU
+4 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;
+8,670JPY/Month
+12.1JPY/Hour
+RAM
+8GB
+CPU
+6 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Enterprise
+16,910JPY/Month
+23.5JPY/Hour
+RAM
+16GB
+CPU
+8 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+High Performance
+32,980JPY/Month
+45.9JPY/Hour
+RAM
+32GB
+CPU
+12 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Extreme Performance
+64,320JPY/Month
+89.4JPY/Hour
+RAM
+64GB
+CPU
+24 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;1,170JPY/Month1.7JPY/Hour
+RAM
+1GB
+CPU
+2 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Recommended
+2,270JPY/Month
+3.2JPY/Hour
+RAM
+2GB
+CPU
+3 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;
+4,440JPY/Month
+6.2JPY/Hour
+RAM
+4GB
+CPU
+4 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+&nbsp;
+8,670JPY/Month
+12.1JPY/Hour
+RAM
+8GB
+CPU
+6 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Enterprise
+16,910JPY/Month
+23.5JPY/Hour
+RAM
+16GB
+CPU
+8 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+High Performance
+32,980JPY/Month
+45.9JPY/Hour
+RAM
+32GB
+CPU
+12 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+Extreme Performance
+64,320JPY/Month
+89.4JPY/Hour
+RAM
+64GB
+CPU
+24 Core
+SSD
+50GB
+Transfer
+Limitless
+Sign up
+* Excludes any applicable tax.
+All plans include
+ Template images
+ API
+ Stock images (50GB)
+ Selectable region
+SSD
+NO transfer fees
+DNS
+Private network
+Payment methods
+Credit Card
+Make monthly automated payments by credit card, charged after month of usage.
+Credit Card
+ConoHa charge
+Pre-pay type account based on a deposit model.
+Credit CardDebit Card
+PayPalAlipay
+Convenience store(Japan only)
+Bank payment(Japan only)
+ Sign up in 90 seconds
+Other features
+Japan (Tokyo)
+USA (San Jose)
+Singapore
+Monthly
+Hourly
+Options
+Additional SSD
+200GB
+2,500JPY
+3.5JPY
+Of course, the additional disk is also SSD. A wide variety of options including load balancer and adding additional servers based on template imagescreated in advance are available to help users make the most out of the cloud environment..
+500GB
+4,500JPY
+6.3JPY
+Additional IP Address
+1
+350JPY
+0.5JPY
+Load Balancer
+1
+1,000JPY
+1.4JPY
+Save Image
+Up to 50GB
+Free
+Free
+Extra 500GB each
+1,500JPY
+2.1JPY
+Auto-Backup
+50GB
+300JPY
+0.5JPY
+250GB
+1,000JPY
+1.4JPY
+550GB
+2,000JPY
+2.8JPY
+PaaS
+Mail Server
+10GB
+500JPY
+0.7JPY
+This 10GB capacity PaaS enables quick set up of mail and database servers. The database server uses MariaDB and is linked to both VPDS and local networks.
+DB Server
+10GB
+500JPY
+0.7JPY
+Additional SSD
+5GB each
+300JPY
+0.5JPY
+Auto-Backup
+1
+300JPY
+0.5JPY
+Others
+Object Storage
+100GB each
+450JPY
+0.7JPY
+Object storage enables large volume data storage at reasonable prices. (Tokyo region only) Use GeoDNS to allow users to acces the datacenters closest to their geographic location to provide a comfortable user experience to users around the globe.
+DNS
+1 domain
+Free
+Free
+GeoDNS
+1 domain
+500JPY
+0.7JPY
+Options
+Additional SSD
+200GB
+2,500JPY/Month
+3.5JPY/Hour
+500GB
+4,500JPY/Month
+6.3JPY/Hour
+Additional IP Address
+1
+350JPY/Month
+0.5JPY/Hour
+Load Balancer
+1
+1,000JPY/Month
+1.4JPY/Hour
+Save Image
+Up to 50GB
+Free
+Free
+Extra 500GB each
+1,500JPY/Month
+2.1JPY/Hour
+Auto-Backup
+50GB
+300JPY/Month
+0.5JPY/Hour
+250GB
+1,000JPY/Month
+1.4JPY/Hour
+550GB
+2,000JPY/Month
+2.8JPY/Hour
+PaaS
+Mail Server
+10GB
+500JPY/Month
+0.7JPY/Hour
+DB Server
+10GB
+500JPY/Month
+0.7JPY/Hour
+Additional SSD
+5GB each
+300JPY/Month
+0.5JPY/Hour
+Auto-Backup
+1
+300JPY/Month
+0.5JPY/Hour
+Others
+Object Storage
+100GB each
+450JPY/Month
+0.7JPY/Hour
+DNS
+1 domain
+Free
+Free
+GeoDNS
+1 domain
+500JPY/Month
+0.7JPY/Hour
+Monthly
+Hourly
+Options
+Additional SSD
+200GB
+3,250JPY
+4.6JPY
+Of course, the additional disk is also SSD. A wide variety of options including load balancer and adding additional servers based on template imagescreated in advance are available to help users make the most out of the cloud environment..
+500GB
+5,850JPY
+8.2JPY
+Additional IP Address
+1
+450JPY
+0.7JPY
+Load Balancer
+1
+1,300JPY
+1.9JPY
+Save Image
+Up to 50GB
+Free
+Free
+Extra 500GB each
+1,950JPY
+2.8JPY
+Auto-Backup
+50GB
+390JPY
+0.6JPY
+250GB
+1,300JPY
+1.9JPY
+550GB
+2,600JPY
+3.7JPY
+PaaS
+Mail Server
+10GB
+650JPY
+1.0JPY
+This 10GB capacity PaaS enables quick set up of mail and database servers. The database server uses MariaDB and is linked to both VPDS and local networks.
+DB Server
+10GB
+650JPY
+1.0JPY
+Additional SSD
+5GB each
+390JPY
+0.6JPY
+Auto-Backup
+1
+390JPY
+0.6JPY
+Others
+DNS
+1 domain
+Free
+Free
+Object storage enables large volume data storage at reasonable prices. (Tokyo region only) Use GeoDNS to allow users to acces the datacenters closest to their geographic location to provide a comfortable user experience to users around the globe.
+GeoDNS
+1 domain
+500JPY
+0.7JPY
+Options
+Additional SSD
+200GB
+3,250JPY/Month
+4.6JPY/Hour
+500GB
+5,850JPY/Month
+8.2JPY/Hour
+Additional IP Address
+1
+450JPY/Month
+0.7JPY/Hour
+Load Balancer
+1
+1,300JPY/Month
+1.9JPY/Hour
+Save Image
+Up to 50GB
+Free
+Free
+Extra 500GB each
+1,950JPY/Month
+2.8JPY/Hour
+Auto-Backup
+50GB
+390JPY/Month
+0.6JPY/Hour
+250GB
+1,300JPY/Month
+1.9JPY/Hour
+550GB
+2,600JPY/Month
+3.7JPY/Hour
+PaaS
+Mail Server
+10GB
+650JPY/Month
+1.0JPY/Hour
+DB Server
+10GB
+650JPY/Month
+1.0JPY/Hour
+Additional SSD
+5GB each
+390JPY/Month
+0.6JPY/Hour
+Auto-Backup
+1
+390JPY/Month
+0.6JPY/Hour
+Others
+DNS
+1 domain
+Free
+Free
+GeoDNS
+1 domain
+500JPY/Month
+0.7JPY/Hour
+Monthly
+Hourly
+Options
+Additional SSD
+200GB
+3,250JPY
+4.6JPY
+Of course, the additional disk is also SSD. A wide variety of options including load balancer and adding additional servers based on template imagescreated in advance are available to help users make the most out of the cloud environment..
+500GB
+5,850JPY
+8.2JPY
+Additional IP Address
+1
+450JPY
+0.7JPY
+Load Balancer
+1
+1,300JPY
+1.9JPY
+Save Image
+Up to 50GB
+Free
+Free
+Extra 500GB each
+1,950JPY
+2.8JPY
+Auto-Backup
+50GB
+390JPY
+0.6JPY
+250GB
+1,300JPY
+1.9JPY
+550GB
+2,600JPY
+3.7JPY
+PaaS
+Mail Server
+10GB
+650JPY
+1.0JPY
+This 10GB capacity PaaS enables quick set up of mail and database servers. The database server uses MariaDB and is linked to both VPDS and local networks.
+DB Server
+10GB
+650JPY
+1.0JPY
+Additional SSD
+5GB each
+390JPY
+0.6JPY
+Auto-Backup
+1
+390JPY
+0.6JPY
+Others
+DNS
+1 domain
+Free
+Free
+Object storage enables large volume data storage at reasonable prices. (Tokyo region only) Use GeoDNS to allow users to acces the datacenters closest to their geographic location to provide a comfortable user experience to users around the globe.
+GeoDNS
+1 domain
+500JPY
+0.7JPY
+Options
+Additional SSD
+200GB
+3,250JPY/Month
+4.6JPY/Hour
+500GB
+5,850JPY/Month
+8.2JPY/Hour
+Additional IP Address
+1
+450JPY/Month
+0.7JPY/Hour
+Load Balancer
+1
+1,300JPY/Month
+1.9JPY/Hour
+Save Image
+Up to 50GB
+Free
+Free
+Extra 500GB each
+1,950JPY/Month
+2.8JPY/Hour
+Auto-Backup
+50GB
+390JPY/Month
+0.6JPY/Hour
+250GB
+1,300JPY/Month
+1.9JPY/Hour
+550GB
+2,600JPY/Month
+3.7JPY/Hour
+PaaS
+Mail Server
+10GB
+650JPY/Month
+1.0JPY/Hour
+DB Server
+10GB
+650JPY/Month
+1.0JPY/Hour
+Additional SSD
+5GB each
+390JPY/Month
+0.6JPY/Hour
+Auto-Backup
+1
+390JPY/Month
+0.6JPY/Hour
+Others
+DNS
+1 domain
+Free
+Free
+GeoDNS
+1 domain
+500JPY/Month
+0.7JPY/Hour
+ Sign up in 90 seconds
+    
+    
+    
+    
+    
+Terms and Conditions
+ConoHa Charge Terms and Conditions
+Service Level Agreement (SLA)
+Contact Us
+Privacy Policy
+About Us
+    
+    
+Twitter
+Facebook
+    
+    
+    
+     
+    
+        日本語
+        한국어
+        中文
+        このは
+    
+    
+    
+    
+    
+    
+    
+ Terms and Conditions
+ ConoHa Charge Terms and Conditions
+ Service Level Agreement (SLA)
+ Contact Us
+ Privacy Policy
+ About Us
+    
+    
+Twitter
+Facebook
+    
+    
+Copyright &copy; 2017 GMO Internet, Inc. All Rights Reserved.
+ 
+ 
+ 
+ 
+ 
+ 
+

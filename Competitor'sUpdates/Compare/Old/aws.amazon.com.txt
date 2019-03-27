@@ -1,0 +1,6423 @@
+
+  
+   
+   
+   
+   
+   
+  Amazon Web Services (AWS) -  Cloud Computing Services 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+    
+    
+    
+   
+   
+   
+   
+    
+    
+    
+    
+    
+  
+  
+   
+    
+     
+      
+       
+        
+         
+         Menu 
+         
+         
+         Click here to return to Amazon Web Services homepage 
+         
+         
+          
+          Contact Sales 
+          
+          
+          Products 
+          
+          
+          Solutions 
+          
+          
+          Pricing 
+          
+          
+          Getting Started 
+          
+          
+          Documentation 
+          
+          
+          Software 
+          
+          
+          Support 
+          
+          
+          Customers 
+          
+          
+          Partners 
+          
+          
+          Enterprises 
+          
+          
+          Startups 
+          
+          
+          Public Sector 
+          
+          
+          Careers 
+          
+          
+           
+           More 
+            
+           
+          
+         
+        
+        
+         
+          
+          Sign Up 
+          
+         
+         
+         My Account 
+          
+         
+         
+         English 
+          
+         
+         
+          
+          
+         
+        
+       
+       
+        
+        
+        
+        
+       
+       
+       Explore AWS solutions and products 
+        
+        
+        
+       
+       
+        
+        Deutsch 
+        English 
+        Espa&ntilde;ol 
+        Fran&ccedil;ais 
+        Italiano 
+        Portugu&ecirc;s 
+        Ρусский 
+        日本語 
+        한국어 
+        中文 (简体) 
+        中文 (繁體) 
+        
+        
+        
+       
+       
+        
+        MY ACCOUNT 
+        AWS Management Console 
+        Account Settings 
+        Billing &amp; Cost Management 
+        Security Credentials 
+        AWS Personal Health Dashboard 
+        
+        
+        
+       
+       
+        
+         
+          
+          AWS &amp; Cloud Computing 
+          
+          
+          Solutions 
+          
+          
+          Products 
+          
+          
+          Developers 
+          
+          
+          Partners 
+          
+          
+          Training &amp; Resources 
+          
+          
+          Documentation 
+          
+          
+          Support &amp; Services 
+          
+          
+          Careers 
+          
+          
+          
+          Contact Us 
+          
+          
+           
+            
+             
+             
+              
+             
+            
+           
+          
+          
+           
+           
+          
+         
+        
+       
+       
+        
+         
+          AWS &amp; Cloud Computing 
+         
+           INTRODUCTION TO AWS 
+          
+          
+          What is Cloud Computing? 
+          
+          
+          Choosing a Cloud Platform 
+          
+          
+          Events &amp; Webinars 
+          
+          
+          Customer Success 
+          
+          
+          Global Infrastructure 
+          
+         
+           GETTING STARTED 
+          
+          
+          Getting Started 
+          
+          
+          AWS Free Tier 
+          
+         
+           NEWS 
+          
+          
+          What's New 
+          
+          
+          AWS Blog 
+          
+          
+          AWS in the News 
+          
+          
+          Analyst Reports 
+          
+         
+        
+        
+         
+          Solutions  
+          
+          Websites &amp; Web Apps 
+          
+          
+          Mobile Services 
+          
+          
+          Backup, Storage, &amp; Archive 
+          
+          
+          Big Data &amp; HPC 
+          
+          
+          Financial Services 
+          
+          
+          Game Development 
+          
+          
+          Digital Media 
+          
+          
+          Healthcare &amp; Life Sciences 
+          
+          
+          Business Apps 
+          
+          
+          
+          Start-upsStart-ups use AWS for everything their app needs.   
+          
+          
+          EnterprisesEnterprises use AWS to deliver IT innovation globally while reducing costs.   
+          
+          
+          Government &amp; EducationPublic Sector organizations use AWS to improve agility while reducing costs.  
+          
+         
+        
+        
+         
+          Products  
+          
+          Compute 
+          
+          
+          Storage 
+          
+          
+          Databases 
+          
+          
+          Migration 
+          
+          
+          Networking &amp; Content Delivery 
+          
+          
+          Developer Tools 
+          
+          
+          AWS Cost Management 
+          
+          
+          Management Tools 
+          
+          
+          Security, Identity &amp; Compliance 
+          
+          
+          Artificial Intelligence 
+          
+          
+          Analytics 
+          
+          
+          Mobile Services 
+          
+          
+          Application Services 
+          
+          
+          Messaging 
+          
+          
+          Business Productivity 
+          
+          
+          Desktop &amp; App Streaming 
+          
+          
+          Internet of Things 
+          
+          
+          Contact Center 
+          
+          
+          Game Development 
+          
+          
+          AWS Marketplace Software 
+          
+         
+        
+        
+         
+          Developers 
+          
+          Get StartedStart developing on Amazon Web Services using one of our pre-built sample apps.   
+          
+          
+          ToolsSDKs, IDE Toolkits, Command Line Tools, and Developer Tools for AWS.  
+          
+          
+          DevOpsTooling and infrastructure resources for DevOps.  
+          
+          
+          Serverless ComputingBuild and run applications without thinking about servers  
+          
+          
+          Forums 
+          
+          
+          User Groups 
+          
+          
+          
+          Java 
+          
+          
+          JavaScript 
+          
+          
+          Mobile 
+          
+          
+          PHP 
+          
+          
+          Ruby 
+          
+          
+          Python 
+          
+          
+          Windows &amp; .NET 
+          
+         
+        
+        
+         
+          Training &amp; Resources 
+         
+           TRAINING &amp; CERTIFICATION 
+          
+          
+          Training 
+          
+          
+          Self-Paced Labs 
+          
+          
+          Certification 
+          
+          
+          
+          Resource Centers 
+          
+         
+           OTHER RESOURCES 
+          
+          
+          Whitepapers 
+          
+          
+          Analyst Reports 
+          
+          
+          Forums 
+          
+          
+          AWS YouTube Channel 
+          
+          
+          Events &amp; Webinars 
+          
+         
+        
+        
+         
+          Support &amp; Services 
+         
+           AWS SUPPORT 
+          
+          
+          AWS Support Information 
+          
+          
+          Support Center 
+          
+          
+          AWS Trusted Advisor 
+          
+          
+          Technical FAQs 
+          
+          
+          Forums 
+          
+          
+          AWS Personal Health Dashboard 
+          
+          
+          Service Health Dashboard 
+          
+          
+          Contact Us 
+          
+          
+         
+           AWS PROFESSIONAL SERVICES 
+          
+          
+          AWS Professional Services   
+          
+          
+          Cloud Adoption Framework   
+          
+          
+         
+           AWS MANAGED SERVICES 
+          
+          
+          AWS Managed Services   
+          
+         
+        
+        
+         
+          Partners  
+          
+          AWS Partner NetworkLearn more about the AWS Partner Network and supporting Partner Programs  
+          
+          
+          
+          Find AWS PartnersFind qualified APN Partners to help you with your AWS projects   
+          
+          
+          Premier Consulting PartnersLearn more about top APN Consulting Partners globally  
+          
+          
+          APN Partner SolutionsFind validated partner solutions that run on or integrate with AWS, by key vertical and solution areas.  
+          
+          
+          
+          Log in to the APN PortalDownload content, access training, and engage with AWS through the partner-only AWS site  
+          
+          
+          Visit the APN Blog 
+          
+         
+        
+        
+         
+          Documentation  
+          
+          Compute 
+          
+          
+          Storage 
+          
+          
+          Database 
+          
+          
+          Networking &amp; Content Delivery 
+          
+          
+          Migration 
+          
+          
+          Developer Tools 
+          
+          
+          Management Tools 
+          
+          
+          Security, Identity &amp; Compliance 
+          
+          
+          Analytics 
+          
+          
+          Artificial Intelligence 
+          
+          
+          Internet of Things 
+          
+          
+          Game Development 
+          
+          
+          Mobile Services 
+          
+          
+          Application Services 
+          
+          
+          Messaging 
+          
+          
+          Business Productivity 
+          
+          
+          Desktop &amp; App Streaming 
+          
+          
+          SDKs &amp; Toolkits 
+          
+          
+          Additional Software &amp; Services 
+          
+          
+          AWS General Reference 
+          
+          
+          AWS Management Console 
+          
+          
+          Resources 
+          
+         
+        
+       
+       
+        
+         
+          Websites &amp; Web Apps 
+          
+          Websites &amp; Website HostingPower web, social, and mobile apps in the cloud  
+          
+          
+          DevOpsTooling and infrastructure resources for DevOps  
+          
+          
+          Serverless ComputingBuild and run applications without thinking about servers  
+          
+          
+          Ecommerce ApplicationsBuild secure and scalable online storefronts  
+          
+          
+          Digital MarketingHighly scalable online advertising and marketing services in the cloud  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          WordPress powered by AMIMOTO 
+          
+          
+          Movable Type 6 
+          
+          
+          Drupal powered by Bitnami 
+          
+          
+          View All Related Products (95+) 
+          
+         
+        
+        
+         
+          Backup, Storage, &amp; Archive 
+          
+          Backup &amp; RecoveryStore and retrieve any data, anywhere, any time  
+          
+          
+          Data ArchiveArchive your data for long-term retention  
+          
+          
+          Disaster RecoveryRecover your systems and data quickly from a disaster  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Cloud Protection Manager Standard Edition 
+          
+          
+          SoftNAS Cloud 
+          
+          
+          ONTAP Cloud for AWS 
+          
+          
+          View All Related Products (35+) 
+          
+         
+        
+        
+         
+          Big Data &amp; HPC 
+          
+          Big DataStore and process large datasets to solve business problems  
+          
+          
+          High Performance ComputingRun tightly-coupled and IO-intensive workloads to solve complex science, engineering and business problems  
+          
+          
+          Internet of ThingsQuickly build connected devices with backend services   
+          
+          
+          Serverless ComputingBuild and run applications without thinking about servers  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          TIBCO Jaspersoft Reporting and Analytics for AWS (Hourly) 
+          
+          
+          Matillion ETL 
+          
+          
+          Zoomdata 
+          
+          
+          View More BI Solutions 
+          
+         
+        
+        
+         
+          Financial Services 
+          
+          Financial ServicesCustomer applications, data analytics, storage, compliance, and security in the cloud.  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          TIBCO Spotfire 
+          
+          
+          Informatica Cloud Advanced for Amazon Redshift 
+          
+          
+          View All Related Products (25+) 
+          
+         
+        
+        
+         
+          Game Development 
+          
+          Game Development and OperationServices and infrastructure for mobile, web, PC, and console games  
+          
+          
+          Amazon for Game DevelopersCross-platform building blocks to help you make games  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          ORBX Cloud Game Console  
+          
+          
+          Windows Server 2008R2 with NVIDIA GRID GPU Driver  
+          
+          
+          Red5 Media Server  
+          
+          
+          View All Related Products (25+) 
+          
+         
+        
+        
+         
+          Digital Media 
+          
+          Digital MediaMedia storage, archiving, processing, and delivery from the cloud  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Adobe Media Server 5 Extended 
+          
+          
+          Wowza Streaming Engine 4: Pro Edition 
+          
+          
+          Vantage Transcode Server 
+          
+          
+          View More Media Solutions 
+          
+         
+        
+        
+         
+          Healthcare &amp; Life Sciences 
+          
+          HealthcareDeliver improved care to patients with reduced time and effort  
+          
+          
+          Life SciencesServices and infrastructure to help your company solve complex problems   
+          
+          
+          GenomicsAccess powerful computing tools to run genomics workloads  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          NCBI Blast 
+          
+          
+          View All Related Products (25+) 
+          
+         
+        
+        
+         
+          Business Apps 
+          
+          Business AppsRun business-critical applications in a secure and robust environment  
+          
+          
+          OracleRun your Oracle applications on the AWS Cloud  
+          
+          
+          SAPRun your SAP workloads and applications on AWS’s scalable infrastructure  
+          
+          
+          MicrosoftAll of your Microsoft applications in the AWS Cloud  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          SAP HANA One 
+          
+          
+          Oddo 
+          
+          
+          Microsoft SharePoint Foundation 2013 
+          
+          
+          View All Related Products (845+) 
+          
+         
+        
+        
+         
+          Compute  
+          
+          Amazon EC2Virtual Servers in the Cloud  
+          
+          
+          Amazon EC2 Container RegistryStore and Retrieve Docker Images  
+          
+          
+          Amazon EC2 Container ServiceRun and Manage Docker Containers  
+          
+          
+          Amazon LightsailLaunch and Manage Virtual Private Servers  
+          
+          
+          Amazon VPCIsolated Cloud Resources  
+          
+          
+          AWS BatchRun Batch Jobs at Any Scale  
+          
+          
+          AWS Elastic BeanstalkRun and Manage Web Apps  
+          
+          
+          AWS Lambda Run Code without Thinking about Servers  
+          
+          
+          Auto Scaling 
+          
+          
+          Elastic Load Balancing 
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          CentOS 7 
+          
+          
+          Debian GNU/Linux 8 (Jessie) 
+          
+          
+          Alces Flight 
+          
+          
+          View All Related Products (1800+) 
+          
+         
+        
+        
+         
+          Storage  
+          
+          Amazon Simple Storage Service (S3)Scalable Storage in the Cloud  
+          
+          
+          Amazon Elastic Block Storage (EBS)EC2 Block Storage Volumes  
+          
+          
+          Amazon Elastic File System (EFS)Fully Managed File System for EC2  
+          
+          
+          Amazon GlacierLow-cost Archive Storage in the Cloud  
+          
+          
+          AWS Storage GatewayHybrid Storage Integration  
+          
+          
+          AWS SnowballPetabyte-scale Data Transport  
+          
+          
+          AWS Snowball EdgePetabyte-scale Data Transport with On-board Compute  
+          
+          
+          AWS SnowmobileExabyte-scale Data Transport  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          ONTAP Cloud for AWS 
+          
+          
+          Cloud Protection Manager Standard Edition 
+          
+          
+          Panzura NAS Appliance 
+          
+          
+          View More Storage Solutions 
+          
+         
+        
+        
+         
+          Databases  
+          
+          Amazon AuroraHigh Performance Managed Relational Database  
+          
+          
+          Amazon RDSManaged Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB  
+          
+          
+          Amazon DynamoDBManaged NoSQL Database  
+          
+          
+          Amazon DynamoDB Accelerator (DAX)Fully Managed, In-memory Cache for DynamoDB  
+          
+          
+          Amazon ElastiCacheIn-memory Caching Service  
+          
+          
+          Amazon RedshiftFast, Simple, Cost-Effective Data Warehousing  
+          
+          
+          AWS Database Migration ServiceMigrate Databases with Minimal Downtime  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          SAP HANA One 
+          
+          
+          Couchbase 
+          
+          
+          Teradata 
+          
+          
+          View More Database Software 
+          
+         
+        
+        
+         
+          Migration  
+          
+          AWS Migration HubTrack Migrations from a Single Place  
+          
+          
+          AWS Application Discovery ServiceDiscover on-premises applications to streamline migration  
+          
+          
+          AWS Database Migration ServiceMigrate Databases with Minimal Downtime  
+          
+          
+          AWS Schema Conversion ToolConvert Database Schema and Migrate Warehouses  
+          
+          
+          AWS Server Migration ServiceMigrate On-premises servers to AWS  
+          
+          
+          AWS SnowballPetabyte-scale Data Transport  
+          
+          
+          AWS Snowball EdgePetabyte-scale Data Transport with On-board Compute  
+          
+          
+          AWS SnowmobileExabyte-scale Data Transport  
+          
+         
+        
+        
+         
+          Networking &amp; Content Delivery  
+          
+          Amazon VPCIsolated Cloud Resources   
+          
+          
+          Amazon CloudFrontGlobal Content Delivery Network  
+          
+          
+          Amazon Route 53Scalable Domain Name System (DNS)  
+          
+          
+          AWS Direct ConnectDedicated Network Connection to AWS   
+          
+          
+          Elastic Load Balancing 
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Cisco Cloud Services Router 
+          
+          
+          Brocade 
+          
+          
+          F5 BIG-IP 
+          
+          
+          View More Networking Solutions 
+          
+         
+        
+        
+         
+          Developer Tools  
+          
+          AWS CodeStarDevelop and Deploy AWS Applications  
+          
+          
+          AWS CodeCommitStore Code in Private Git Repositories  
+          
+          
+          AWS CodeBuildBuild and Test Code  
+          
+          
+          AWS CodeDeployAutomate Code Deployments  
+          
+          
+          AWS CodePipelineRelease Software using Continuous Delivery  
+          
+          
+          AWS X-RayAnalyze and Debug Your Applications  
+          
+          
+          AWS Command Line InterfaceUnified Tool to Manage AWS Services  
+          
+          
+          AWS Tools &amp; SDKsTools and SDKs for AWS  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Zend Server 
+          
+          
+          Coldfusion 
+          
+          
+          Chef Server 
+          
+          
+          View More Developer Tools 
+          
+         
+        
+        
+         
+          AWS Cost Management  
+          
+          AWS Cost ExplorerAnalyze Your AWS Cost and Usage  
+          
+          
+          AWS BudgetsSet Custom Cost and Usage Budgets  
+          
+          
+          Reserved Instance ReportingDive Deeper into Your Reserved Instances (RIs)  
+          
+          
+          AWS Cost and Usage ReportAccess Comprehensive Cost and Usage Information  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Zend Server 
+          
+          
+          Coldfusion 
+          
+          
+          Chef Server 
+          
+          
+          View More Developer Tools 
+          
+         
+        
+        
+         
+          Management Tools  
+          
+          Amazon CloudWatchMonitor Resources and Applications  
+          
+          
+          Amazon EC2 Systems ManagerConfigure and Manage EC2 Instances and On-premises Servers  
+          
+          
+          AWS CloudFormationCreate and Manage Resources with Templates  
+          
+          
+          AWS CloudTrailTrack User Activity and API Usage  
+          
+          
+          AWS ConfigTrack Resource Inventory and Changes  
+          
+          
+          AWS OpsWorksAutomate Operations with Chef  
+          
+          
+          AWS Service CatalogCreate and Use Standardized Products  
+          
+          
+          AWS Trusted AdvisorOptimize Performance and Security  
+          
+          
+          AWS Personal Health DashboardPersonalized view of AWS service health  
+          
+          
+          AWS Command Line InterfaceUnified Tool to Manage AWS Services  
+          
+          
+          AWS Management ConsoleWeb-based User Interface  
+          
+          
+          AWS Managed ServicesInfrastructure Operations Management for AWS  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Warewolf for Developers 
+          
+          
+          Kurian 
+          
+          
+          Kumolus 
+          
+          
+          View All Related Solutions 
+          
+         
+        
+        
+         
+          Security, Identity &amp; Compliance  
+          
+          AWS Identity and Access Management (IAM)Manage User Access and Encryption Keys  
+          
+          
+          Amazon Cloud DirectoryCreate Flexible Cloud-Native Directories  
+          
+          
+          Amazon InspectorAnalyze Application Security  
+          
+          
+          Amazon MacieDiscover, Classify, and Protect Your Data  
+          
+          
+          AWS Certificate ManagerProvision, Manage, and Deploy SSL/TLS Certificates  
+          
+          
+          AWS CloudHSMHardware-based Key Storage for Regulatory Compliance  
+          
+          
+          AWS Directory ServiceHost and Manage Active Directory  
+          
+          
+          AWS Key Management ServiceManaged Creation and Control of Encryption Keys  
+          
+          
+          AWS OrganizationsPolicy-based management for multiple AWS accounts  
+          
+          
+          AWS ShieldDDoS Protection  
+          
+          
+          AWS WAFFilter Malicious Web Traffic  
+          
+          
+          AWS Artifact 
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Barracuda Web Application Firewall  
+          
+          
+          Trend Micro Deep Security 
+          
+          
+          VM-Series Next-Generation Firewall Bundle 2 
+          
+          
+          View More Security Solutions 
+          
+         
+        
+        
+         
+          Artificial Intelligence  
+          
+          Amazon LexBuild Voice and Text Chatbots  
+          
+          
+          Amazon PollyTurn Text into Lifelike Speech  
+          
+          
+          Amazon RekognitionSearch and Analyze Images  
+          
+          
+          Amazon Machine LearningMachine Learning for Developers  
+          
+          
+          Apache MXNet on AWSScalable, Open-source Deep Learning Framework  
+          
+          
+          TensorFlow on AWSOpen-source Machine Intelligence Library  
+          
+          
+          AWS Deep Learning AMIsDeep Learning on Amazon EC2  
+          
+         
+        
+        
+         
+          Analytics  
+          
+          Amazon AthenaQuery Data in S3 using SQL  
+          
+          
+          Amazon EMRHosted Hadoop Framework   
+          
+          
+          Amazon CloudSearchManaged Search Service  
+          
+          
+          Amazon Elasticsearch ServiceRun and Scale Elasticsearch Clusters  
+          
+          
+          Amazon KinesisWork with Real-time Streaming Data  
+          
+          
+          Amazon RedshiftFast, Simple, Cost-effective Data Warehousing  
+          
+          
+          Amazon QuickSightFast Business Analytics Service  
+          
+          
+          AWS Data PipelineOrchestration Service for Periodic, Data-Driven Workflows   
+          
+          
+          AWS GluePrepare and Load Data  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Splunk Cloud 
+          
+          
+          TIBCO Jaspersoft Reporting and Analytics for AWS (Hourly) 
+          
+          
+          Matillion ETL for Redshift 
+          
+          
+          View More BI Solutions 
+          
+         
+        
+        
+         
+          Mobile Services  
+          
+          AWS Mobile HubBuild, Test, and Monitor Mobile Apps  
+          
+          
+          Amazon API GatewayBuild, Deploy, and Manage APIs   
+          
+          
+          Amazon CognitoUser Identity and App Data Synchronization  
+          
+          
+          Amazon PinpointPush Notifications for Mobile Apps  
+          
+          
+          AWS Device FarmTest Android, iOS, and Web Apps on Real Devices in the AWS Cloud  
+          
+          
+          AWS Mobile SDKBuild High Quality Mobile Apps Quickly and Easily  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Bitfusion Mobile deep learning 
+          
+          
+          Kony MobileFabric 
+          
+          
+          HPE Mobile center 
+          
+          
+          View More Mobile Solutions 
+          
+         
+        
+        
+         
+          Mobile Services  
+          
+          AWS Mobile HubBuild, Test, and Monitor Mobile Apps  
+          
+          
+          Amazon API GatewayBuild, Deploy, and Manage APIs  
+          
+          
+          Amazon CognitoUser Identity and App Data Synchronization  
+          
+          
+          Amazon PinpointPush Notifications for Mobile Apps  
+          
+          
+          AWS Device FarmTest Android, iOS, and Web Apps on Real Devices in the AWS Cloud  
+          
+          
+          AWS Mobile SDKBuild High Quality Mobile Apps Quickly and Easily   
+          
+         
+        
+        
+         
+          Application Services  
+          
+          AWS Step FunctionsCoordinate Distributed Applications  
+          
+          
+          Amazon API GatewayBuild, Publish and Manage APIs   
+          
+          
+          Amazon Elastic TranscoderEasy-to-use Scalable Media Transcoding  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Adobe ColdFusion 11  
+          
+          
+          Nginx  
+          
+          
+          Citrix Netscaler  
+          
+          
+          View All Related Products (260+) 
+          
+         
+        
+        
+         
+          Messaging  
+          
+          Amazon Simple Queue Service (SQS)Managed Message Queues  
+          
+          
+          Amazon Simple Notification Service (SNS)Pub/Sub, Mobile Push and SMS   
+          
+          
+          Amazon PinpointPush Notifications for Mobile Apps  
+          
+          
+          Amazon Simple Email Service (SES)Email Sending and Receiving  
+          
+         
+        
+        
+         
+          Business Productivity  
+          
+          Amazon WorkDocsSecure Enterprise Document Storage and Sharing   
+          
+          
+          Amazon WorkMailSecure Email and Calendaring  
+          
+          
+          Amazon ChimeFrustration-free meetings, video calls, and chat   
+          
+         
+        
+        
+         
+          Desktop &amp; App Streaming  
+          
+          Amazon WorkSpacesVirtual Desktops in the Cloud   
+          
+          
+          Amazon AppStream 2.0Stream desktop applications securely to a browser  
+          
+         
+        
+        
+         
+          Internet of Things  
+          
+          AWS IoT PlatformConnect Devices to the Cloud  
+          
+          
+          AWS GreengrassLocal Compute, Messaging, and Sync for Devices  
+          
+          
+          AWS IoT ButtonCloud Programmable Dash Button  
+          
+          
+          AWS MARKETPLACE  
+          
+          
+          Sirqul IoT Platform 
+          
+          
+          OpenDOF IoT Router 
+          
+          
+          View All Related Products 
+          
+         
+        
+        
+         
+          Contact Center 
+          
+          Amazon ConnectCloud-based contact center service  
+          
+         
+        
+        
+         
+          Game Development 
+          
+          Amazon GameLiftAmazon GameLift: Simple, fast, cost-effective dedicated game server hosting.  
+          
+          
+          Amazon LumberyardA Free Cross-Platform 3D Game Engine, with Full Source, Integrated with AWS and Twitch  
+          
+         
+        
+        
+         
+          AWS Marketplace Software  
+          
+          INFRASTRUCTURE SOFTWARE (1300+) 
+          
+          
+          Application Development 
+          
+          
+          Application Servers 
+          
+          
+          Application Stacks 
+          
+          
+          Big Data  
+          
+          
+          Databases &amp; Caching 
+          
+          
+          Network Infrastructure 
+          
+          
+          Operating Systems 
+          
+          
+          Security 
+          
+          
+          BUSINESS SOFTWARE (845+) 
+          
+          
+          Business Intelligence 
+          
+          
+          Collaboration 
+          
+          
+          Content Management 
+          
+          
+          CRM 
+          
+          
+          eCommerce  
+          
+          
+          Education &amp; Research  
+          
+          
+          Financial Services 
+          
+          
+          High Performance Computing 
+          
+          
+          Media 
+          
+          
+          Project Management 
+          
+          
+          Storage &amp; Backup 
+          
+          
+          DEVELOPER TOOLS (220+) 
+          
+          
+          Issue &amp; Bug Tracking 
+          
+          
+          Monitoring 
+          
+          
+          Log Analysis 
+          
+          
+          Source Control 
+          
+          
+          Testing 
+          
+         
+        
+        
+         
+          Resource Center 
+          
+          Economics CenterFind calculators and other tools to help you lower costs with the AWS Cloud.   
+          
+          
+          Security CenterLearn about AWS Cloud security and how to build secure applications.   
+          
+          
+          Compliance CenterLearn about the compliance programs on the AWS Cloud and establishing controls  
+          
+          
+          Architecture CenterLearn how to build scalable and reliable applications in the AWS Cloud.   
+          
+          
+          Knowledge CenterGet answers to frequently asked technical support questions.  
+          
+          
+          AWS AnswersGet clear guidance from AWS architects and engineers on common user questions.  
+          
+         
+        
+        
+         
+          Compute 
+          
+          Amazon EC2 
+          
+          
+          Amazon ECR 
+          
+          
+          Amazon ECS 
+          
+          
+          Amazon Lightsail 
+          
+          
+          Amazon VPC 
+          
+          
+          AWS Batch 
+          
+          
+          AWS Elastic Beanstalk 
+          
+          
+          AWS Lambda 
+          
+          
+          Auto Scaling 
+          
+          
+          Elastic Load Balancing 
+          
+         
+        
+        
+         
+          Storage 
+          
+          Amazon S3 
+          
+          
+          Amazon EBS 
+          
+          
+          Amazon EFS 
+          
+          
+          Amazon Glacier 
+          
+          
+          AWS Snowball 
+          
+          
+          AWS Storage Gateway 
+          
+         
+        
+        
+         
+          Database 
+          
+          Amazon RDS 
+          
+          
+          Amazon DynamoDB 
+          
+          
+          Amazon ElastiCache 
+          
+          
+          Amazon Redshift 
+          
+         
+        
+        
+         
+          Networking &amp; Content Delivery 
+          
+          Amazon VPC 
+          
+          
+          Amazon CloudFront 
+          
+          
+          AWS Direct Connect 
+          
+          
+          Elastic Load Balancing 
+          
+          
+          Amazon Route 53 
+          
+         
+        
+        
+         
+          Migration 
+          
+          AWS Migration Hub 
+          
+          
+          AWS Database Migration Service 
+          
+          
+          AWS Server Migration Service 
+          
+          
+          AWS Schema Conversion Tool 
+          
+          
+          AWS Import/Export 
+          
+          
+          AWS Application Discovery Service 
+          
+         
+        
+        
+         
+          Developer Tools 
+          
+          AWS CodeStar 
+          
+          
+          AWS CodeCommit 
+          
+          
+          AWS CodeBuild 
+          
+          
+          AWS CodeDeploy 
+          
+          
+          AWS CodePipeline 
+          
+          
+          AWS X-Ray 
+          
+          
+          AWS Tools &amp; SDKs 
+          
+         
+        
+        
+         
+          Management Tools 
+          
+          Amazon CloudWatch 
+          
+          
+          AWS CloudFormation 
+          
+          
+          AWS CloudTrail 
+          
+          
+          AWS Config 
+          
+          
+          AWS OpsWorks 
+          
+          
+          AWS Service Catalog 
+          
+          
+          AWS Trusted Advisor 
+          
+          
+          AWS Health 
+          
+          
+          AWS Management Console 
+          
+          
+          AWS Command Line Interface 
+          
+          
+          AWS Tools for PowerShell 
+          
+         
+        
+        
+         
+          Security, Identity &amp; Compliance 
+          
+          AWS Identity and Access Management (IAM) 
+          
+          
+          Amazon Inspector 
+          
+          
+          Amazon Macie 
+          
+          
+          AWS Artifact 
+          
+          
+          AWS Certificate Manager 
+          
+          
+          AWS Directory Service 
+          
+          
+          AWS CloudHSM 
+          
+          
+          AWS KMS 
+          
+          
+          AWS Shield 
+          
+          
+          AWS WAF 
+          
+         
+        
+        
+         
+          Analytics 
+          
+          Amazon Athena 
+          
+          
+          Amazon EMR 
+          
+          
+          Amazon CloudSearch 
+          
+          
+          Amazon Elasticsearch Service 
+          
+          
+          Amazon Kinesis 
+          
+          
+          Amazon Redshift 
+          
+          
+          Amazon QuickSight 
+          
+          
+          AWS Data Pipeline 
+          
+          
+          AWS Glue 
+          
+         
+        
+        
+         
+          Artificial Intelligence 
+          
+          Amazon Lex 
+          
+          
+          Amazon Polly 
+          
+          
+          Amazon Rekognition 
+          
+          
+          Amazon Machine Learning 
+          
+         
+        
+        
+         
+          Internet of Things 
+          
+          AWS IoT 
+          
+         
+        
+        
+         
+          Game Development 
+          
+          Amazon GameLift 
+          
+          
+          Amazon Lumberyard 
+          
+         
+        
+        
+         
+          Mobile Services 
+          
+          AWS Mobile Hub 
+          
+          
+          Amazon API Gateway 
+          
+          
+          Amazon Cognito 
+          
+          
+          AWS Device Farm 
+          
+          
+          Amazon Mobile Analytics 
+          
+          
+          Amazon Pinpoint 
+          
+          
+          AWS Mobile SDK for Android 
+          
+          
+          AWS Mobile SDK for iOS 
+          
+          
+          AWS Mobile SDK for Unity 
+          
+          
+          AWS Mobile SDK for Xamarin 
+          
+          
+          Amazon Simple Notification Service (SNS) 
+          
+         
+        
+        
+         
+          Application Services 
+          
+          Amazon API Gateway 
+          
+          
+          Amazon Elastic Transcoder 
+          
+          
+          Amazon SWF 
+          
+          
+          AWS Step Functions 
+          
+         
+        
+        
+         
+          Messaging 
+          
+          Amazon Simple Queue Service (SQS) 
+          
+          
+          Amazon Simple Notification Service (SNS) 
+          
+          
+          Amazon Pinpoint 
+          
+          
+          Amazon Simple Email Service (SES) 
+          
+         
+        
+        
+         
+          Business Productivity 
+          
+          Amazon WorkDocs 
+          
+          
+          Amazon WorkMail 
+          
+          
+          Amazon Chime   
+          
+         
+        
+        
+         
+          Desktop &amp; App Streaming 
+          
+          Amazon WorkSpaces 
+          
+          
+          Amazon WAM 
+          
+          
+          Amazon AppStream 2.0 
+          
+         
+        
+        
+         
+          SDKs &amp; Toolkits 
+          
+          AWS SDK for C++ 
+          
+          
+          AWS SDK for Go 
+          
+          
+          AWS SDK for Java 
+          
+          
+          AWS SDK for JavaScript 
+          
+          
+          AWS SDK for .NET 
+          
+          
+          AWS SDK for PHP 
+          
+          
+          AWS SDK for Python (boto) 
+          
+          
+          AWS SDK for Ruby 
+          
+          
+          AWS Toolkit for Eclipse 
+          
+          
+          AWS Toolkit for Visual Studio 
+          
+         
+        
+        
+         
+          Additional Software &amp; Services 
+          
+          AWS Billing and Cost Management 
+          
+          
+          AWS Marketplace 
+          
+          
+          AWS Support 
+          
+          
+          Alexa Top Sites 
+          
+          
+          Alexa Web Information Service 
+          
+          
+          Amazon Silk 
+          
+          
+          AWS GovCloud (US) 
+          
+         
+        
+        
+         
+          AWS General Reference 
+          
+          Regions and Endpoints 
+          
+          
+          Security Credentials 
+          
+          
+          ARNs &amp; Service Namespaces 
+          
+          
+          Service Limits 
+          
+          
+          AWS Glossary 
+          
+         
+        
+        
+         
+          AWS Management Console 
+          
+          Resource Groups 
+          
+          
+          Tag Editor 
+          
+         
+        
+        
+         
+          Resources 
+          
+          AWS Quick Starts 
+          
+          
+          AWS Whitepapers 
+          
+          
+          AWS Training &amp; Certification 
+          
+          
+          AWS Case Studies 
+          
+          
+          AWS Documentation on Kindle 
+          
+          
+          AWS Documentation Archive 
+          
+         
+        
+       
+       
+        
+         
+          
+           
+            Compute 
+           
+           
+           Amazon EC2 
+           Amazon EC2 Container Registry 
+           Amazon EC2 Container Service 
+           Amazon Lightsail 
+           Amazon VPC 
+           AWS Batch 
+           AWS Elastic Beanstalk 
+           AWS Lambda 
+           Auto Scaling 
+           Elastic Load Balancing 
+           
+          
+          
+           
+            Storage 
+           
+           
+           Amazon Simple Storage Service (S3) 
+           Amazon Elastic Block Storage (EBS) 
+           Amazon Elastic File System (EFS) 
+           Amazon Glacier 
+           AWS Storage Gateway 
+           AWS Snowball 
+           AWS Snowball Edge 
+           AWS Snowmobile 
+           
+          
+          
+           
+            Database 
+           
+           
+           Amazon Aurora 
+           Amazon RDS 
+           Amazon DynamoDB 
+           Amazon DynamoDB Accelerator (DAX) 
+           Amazon ElastiCache 
+           Amazon Redshift 
+           AWS Database Migration Service 
+           
+          
+          
+           
+            Migration 
+           
+           
+           AWS Migration Hub 
+           AWS Application Discovery Service 
+           AWS Database Migration Service 
+           AWS Schema Conversion Tool 
+           AWS Server Migration Service 
+           AWS Snowball 
+           AWS Snowball Edge 
+           AWS Snowmobile 
+           
+          
+         
+         
+          
+           
+            Networking &amp; Content Delivery 
+           
+           
+           Amazon VPC 
+           Amazon CloudFront 
+           Amazon Route 53 
+           AWS Direct Connect 
+           Elastic Load Balancing 
+           
+          
+          
+           
+            Developer Tools 
+           
+           
+           AWS CodeStar 
+           AWS CodeCommit 
+           AWS CodeBuild 
+           AWS CodeDeploy 
+           AWS CodePipeline 
+           AWS X-Ray 
+           AWS Tools &amp; SDKs 
+           
+          
+          
+           
+            Management Tools 
+           
+           
+           Amazon CloudWatch 
+           Amazon EC2 Systems Manager 
+           AWS CloudFormation 
+           AWS CloudTrail 
+           AWS Config 
+           AWS OpsWorks 
+           AWS Service Catalog 
+           AWS Trusted Advisor 
+           AWS Personal Health Dashboard 
+           AWS Command Line Interface 
+           AWS Management Console 
+           AWS Managed Services 
+           
+          
+         
+         
+          
+           
+            Artificial Intelligence 
+           
+           
+           Amazon Lex 
+           Amazon Polly 
+           Amazon Rekognition 
+           Amazon Machine Learning 
+           Apache MXNet on AWS 
+           TensorFlow on AWS 
+           AWS Deep Learning AMIs 
+           
+          
+          
+           
+            Analytics 
+           
+           
+           Amazon Athena 
+           Amazon EMR 
+           Amazon CloudSearch 
+           Amazon Elasticsearch Service 
+           Amazon Kinesis 
+           Amazon Redshift 
+           Amazon QuickSight 
+           AWS Data Pipeline 
+           AWS Glue 
+           
+          
+          
+           
+            Security, Identity &amp; Compliance 
+           
+           
+           AWS Identity and Access Management (IAM) 
+           Amazon Cloud Directory 
+           Amazon Inspector 
+           Amazon Macie 
+           AWS Certificate Manager 
+           AWS CloudHSM 
+           AWS Directory Service 
+           AWS Key Management Service 
+           AWS Organizations 
+           AWS Shield 
+           AWS WAF 
+           AWS Artifact 
+           
+          
+          
+           
+            Mobile Services 
+           
+           
+           AWS Mobile Hub 
+           Amazon API Gateway 
+           Amazon Cognito 
+           Amazon Pinpoint 
+           AWS Device Farm 
+           AWS Mobile SDK 
+           
+          
+         
+         
+          
+           
+            AWS Cost Management 
+           
+           
+           AWS Cost Explorer 
+           AWS Budgets 
+           Reserved Instance Reporting 
+           AWS Cost and Usage Report 
+           
+          
+          
+           
+            Application Services 
+           
+           
+           AWS Step Functions 
+           Amazon API Gateway 
+           Amazon Elastic Transcoder 
+           
+          
+          
+           
+            Messaging 
+           
+           
+           Amazon Simple Queue Service (SQS) 
+           Amazon Simple Notification Service (SNS) 
+           Amazon Pinpoint 
+           Amazon Simple Email Service (SES) 
+           
+          
+          
+           
+            Business Productivity 
+           
+           
+           Amazon Chime 
+           Amazon WorkDocs 
+           Amazon WorkMail 
+           
+          
+          
+           
+            Desktop &amp; App Streaming 
+           
+           
+           Amazon WorkSpaces 
+           Amazon AppStream 2.0 
+           
+          
+          
+           
+            Software 
+           
+           
+           AWS Marketplace 
+           
+          
+          
+           
+            Internet of Things 
+           
+           
+           AWS IoT Platform 
+           AWS Greengrass 
+           AWS IoT Button 
+           
+          
+          
+          
+            Contact Center 
+           
+           
+           Amazon Connect 
+           
+          
+          
+          
+            Game Development 
+           
+           
+           Amazon GameLift 
+           Amazon Lumberyard 
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+          Click here to return to Amazon Web Services homepage 
+          
+          
+           
+           
+          
+         
+        
+        
+         
+          
+           
+           
+            
+           
+          
+         
+        
+        
+         
+          
+          AWS &amp; Cloud Computing 
+           
+            
+            What is Cloud Computing 
+            
+            
+            Choosing a Cloud Platform 
+            
+            
+            Events &amp; Webinars 
+            
+            
+            Customer Success 
+            
+            
+            Global Infrastructure 
+            
+            
+            Getting Started 
+            
+            
+            AWS Free Tier 
+            
+            
+            What's New 
+            
+            
+            AWS Blog 
+            
+            
+            AWS in the News 
+            
+            
+            Analyst Reports 
+            
+           
+          
+          
+          Solutions 
+           
+            
+            Websites &amp; Web Apps 
+             
+              
+              Websites &amp; Website Hosting 
+              
+              
+              Development and Test 
+              
+              
+              Ecommerce Applications 
+              
+              
+              Mobile Services 
+              
+              
+              Digital Marketing 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Backup, Storage, &amp; Archive 
+             
+              
+              Backup &amp; Recovery 
+              
+              
+              Data Archive 
+              
+              
+              Disaster Recovery 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Big Data &amp; HPC 
+             
+              
+              Big Data 
+              
+              
+              High Performance Computing 
+              
+              
+              Internet of Things 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Financial Services 
+            
+            
+            Game Development 
+             
+              
+              Game Development and Operation 
+              
+              
+              Amazon for Game Developers 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Digital Media 
+             
+              
+              Digital Media 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Healthcare &amp; Life Sciences 
+             
+              
+              Healthcare 
+              
+              
+              Life Sciences 
+              
+              
+              Genomics 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Business Apps 
+             
+              
+              Business Apps 
+              
+              
+              Oracle 
+              
+              
+              SAP 
+              
+              
+              Microsoft 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Enterprise 
+            
+            
+            Start-Ups 
+            
+            
+            Public Sector 
+            
+           
+          
+          
+          Products 
+           
+            
+            Compute 
+             
+              
+              Amazon EC2 
+              
+              
+              Amazon EC2 Container Registry 
+              
+              
+              Amazon EC2 Container Service 
+              
+              
+              Amazon Lightsail 
+              
+              
+              Amazon VPC 
+              
+              
+              AWS Batch 
+              
+              
+              AWS Elastic Beanstalk 
+              
+              
+              AWS Lambda 
+              
+              
+              Auto Scaling 
+              
+              
+              Elastic Load Balancing 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Storage 
+             
+              
+              Amazon Simple Storage Service (S3) 
+              
+              
+              Amazon Elastic Block Storage (EBS) 
+              
+              
+              Amazon Elastic File System (EFS) 
+              
+              
+              Amazon Glacier 
+              
+              
+              AWS Storage Gateway 
+              
+              
+              AWS Snowball 
+              
+              
+              AWS Snowball Edge 
+              
+              
+              AWS Snowmobile 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Databases 
+             
+              
+              Amazon Aurora 
+              
+              
+              Amazon RDS 
+              
+              
+              Amazon DynamoDB 
+              
+              
+              Amazon DynamoDB Accelerator (DAX) 
+              
+              
+              Amazon ElastiCache 
+              
+              
+              Amazon Redshift 
+              
+              
+              AWS Database Migration Service 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Migration 
+             
+              
+              AWS Migration Hub 
+              
+              
+              AWS Application Discovery Service 
+              
+              
+              AWS Database Migration Service 
+              
+              
+              AWS Schema Conversion Tool 
+              
+              
+              AWS Server Migration Service 
+              
+              
+              AWS Snowball 
+              
+              
+              AWS Snowball Edge 
+              
+              
+              AWS Snowmobile 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Networking &amp; Content Delivery 
+             
+              
+              Amazon VPC 
+              
+              
+              Amazon CloudFront 
+              
+              
+              Amazon Route 53 
+              
+              
+              AWS Direct Connect 
+              
+              
+              Elastic Load Balancing 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Developer Tools 
+             
+              
+              AWS CodeStar 
+              
+              
+              AWS CodeCommit 
+              
+              
+              AWS CodeBuild 
+              
+              
+              AWS CodeDeploy 
+              
+              
+              AWS CodePipeline 
+              
+              
+              AWS X-Ray 
+              
+              
+              AWS Marketplace 
+              
+              
+              AWS Command Line Interface 
+              
+              
+              AWS Tools &amp; SDKs 
+              
+             
+            
+            
+            AWS Cost Management 
+             
+              
+              AWS Cost Explorer 
+              
+              
+              AWS Budgets 
+              
+              
+              Reserved Instance Reporting 
+              
+              
+              AWS Cost and Usage Report 
+              
+             
+            
+            
+            Management Tools 
+             
+              
+              Amazon CloudWatch 
+              
+              
+              Amazon EC2 Systems Manager 
+              
+              
+              AWS CloudFormation 
+              
+              
+              AWS CloudTrail 
+              
+              
+              AWS Config 
+              
+              
+              AWS OpsWorks 
+              
+              
+              AWS Service Catalog 
+              
+              
+              AWS Trusted Advisor 
+              
+              
+              AWS Personal Health Dashboard 
+              
+              
+              AWS Command Line Interface 
+              
+              
+              AWS Management Console 
+              
+              
+              AWS Managed Services 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Security, Identity &amp; Compliance 
+             
+              
+              AWS Identity and Access Management (IAM) 
+              
+              
+              Amazon Cloud Directory 
+              
+              
+              Amazon Inspector 
+              
+              
+              Amazon Macie 
+              
+              
+              AWS Certificate Manager 
+              
+              
+              AWS CloudHSM 
+              
+              
+              AWS Directory Service 
+              
+              
+              AWS Key Management Service 
+              
+              
+              AWS Organizations 
+              
+              
+              AWS Shield 
+              
+              
+              AWS WAF 
+              
+              
+              AWS Artifact 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Artificial Intelligence 
+             
+              
+              Amazon Lex 
+              
+              
+              Amazon Polly 
+              
+              
+              Amazon Rekognition 
+              
+              
+              Amazon Machine Learning 
+              
+              
+              Apache MXNet on AWS 
+              
+              
+              TensorFlow on AWS 
+              
+              
+              AWS Deep Learning AMIs 
+              
+             
+            
+            
+            Analytics 
+             
+              
+              Amazon Athena 
+              
+              
+              Amazon EMR 
+              
+              
+              Amazon CloudSearch 
+              
+              
+              Amazon Elasticsearch Service 
+              
+              
+              Amazon Kinesis 
+              
+              
+              Amazon Redshift 
+              
+              
+              Amazon QuickSight 
+              
+              
+              AWS Data Pipeline 
+              
+              
+              AWS Glue 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Mobile 
+             
+              
+              AWS Mobile Hub 
+              
+              
+              Amazon API Gateway 
+              
+              
+              Amazon Cognito 
+              
+              
+              Amazon Pinpoint 
+              
+              
+              AWS Device Farm 
+              
+              
+              AWS Mobile SDK 
+              
+             
+            
+            
+            Application Services 
+             
+              
+              AWS Step Functions 
+              
+              
+              Amazon API Gateway 
+              
+              
+              Amazon Elastic Transcoder 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Messaging 
+             
+              
+              Amazon Simple Queue Service (SQS) 
+              
+              
+              Amazon Simple Notification Service (SNS) 
+              
+              
+              Amazon Pinpoint 
+              
+              
+              Amazon Simple Email Service (SES) 
+              
+              
+              AWS Marketplace 
+              
+             
+            
+            
+            Business Productivity 
+             
+              
+              Amazon WorkDocs 
+              
+              
+              Amazon WorkMail 
+              
+              
+              Amazon Chime 
+              
+             
+            
+            
+            Desktop &amp; App Streaming 
+             
+              
+              Amazon WorkSpaces 
+              
+              
+              Amazon AppStream 2.0 
+              
+             
+            
+            
+            Internet of Things 
+             
+              
+              AWS IoT Platform 
+              
+              
+              AWS Greengrass 
+              
+              
+              AWS IoT Button 
+              
+             
+            
+            
+            Contact Center 
+             
+              
+              Amazon Connect 
+              
+             
+            
+            
+            Game Development 
+             
+              
+              Amazon GameLift 
+              
+              
+              Amazon Lumberyard 
+              
+             
+            
+            
+            AWS Marketplace Software 
+             
+              
+              Infrastructure Software (1300+) 
+              
+              
+              Business Software (845+) 
+              
+              
+              Developer Tools (220+) 
+              
+             
+            
+           
+          
+          
+          Developers 
+           
+            
+            Get Started 
+            
+            
+            Tools 
+            
+            
+            DevOps 
+            
+            
+            Forums 
+            
+            
+            Java 
+            
+            
+            JavaScript 
+            
+            
+            Mobile 
+            
+            
+            PHP 
+            
+            
+            Ruby 
+            
+            
+            Python 
+            
+            
+            Windows &amp; .NET 
+            
+           
+          
+          
+          Training &amp; Resources 
+           
+            
+            Training 
+            
+            
+            Self-Paced Labs 
+            
+            
+            Certification 
+            
+            
+            Economics Center 
+            
+            
+            Security Center 
+            
+            
+            Architecture Center 
+            
+            
+            Knowledge Center 
+            
+            
+            Whitepapers 
+            
+            
+            AWS Answers 
+            
+            
+            Analyst Reports 
+            
+            
+            Forums 
+            
+            
+            AWS YouTube Channel 
+            
+            
+            Events &amp; Webinars 
+            
+           
+          
+          
+          Documentation 
+           
+            
+            Compute 
+             
+              
+              Amazon EC2 
+              
+              
+              Amazon ECR 
+              
+              
+              Amazon ECS 
+              
+              
+              Amazon Lightsail 
+              
+              
+              Amazon VPC 
+              
+              
+              AWS Batch 
+              
+              
+              AWS Elastic Beanstalk 
+              
+              
+              AWS Lambda 
+              
+              
+              Auto Scaling 
+              
+              
+              Elastic Load Balancing 
+              
+             
+            
+            
+            Storage 
+             
+              
+              Amazon S3 
+              
+              
+              Amazon EBS 
+              
+              
+              Amazon EFS 
+              
+              
+              Amazon Glacier 
+              
+              
+              AWS Snowball 
+              
+              
+              AWS Storage Gateway 
+              
+             
+            
+            
+            Databases 
+             
+              
+              Amazon RDS 
+              
+              
+              Amazon DynamoDB 
+              
+              
+              Amazon ElastiCache 
+              
+              
+              Amazon Redshift 
+              
+             
+            
+            
+            Networking &amp; Content Delivery 
+             
+              
+              Amazon VPC 
+              
+              
+              Amazon CloudFront 
+              
+              
+              AWS Direct Connect 
+              
+              
+              Elastic Load Balancing 
+              
+              
+              Amazon Route 53 
+              
+             
+            
+            
+            Migration 
+             
+              
+              AWS Migration Hub 
+              
+              
+              AWS Database Migration Service 
+              
+              
+              AWS Server Migration Service 
+              
+              
+              AWS Schema Conversion Tool 
+              
+              
+              AWS Import/Export 
+              
+              
+              AWS Application Discovery Service 
+              
+             
+            
+            
+            Developer Tools 
+             
+              
+              AWS CodeStar 
+              
+              
+              AWS CodeCommit 
+              
+              
+              AWS CodeBuild 
+              
+              
+              AWS CodeDeploy 
+              
+              
+              AWS CodePipeline 
+              
+              
+              AWS X-Ray 
+              
+              
+              AWS Tools &amp; SDKs 
+              
+             
+            
+            
+            Management Tools 
+             
+              
+              Amazon CloudWatch 
+              
+              
+              AWS CloudFormation 
+              
+              
+              AWS CloudTrail 
+              
+              
+              AWS Config 
+              
+              
+              AWS OpsWorks 
+              
+              
+              AWS Service Catalog 
+              
+              
+              Trusted Advisor 
+              
+              
+              AWS Health 
+              
+              
+              AWS Management Console 
+              
+              
+              AWS Command Line Interface 
+              
+              
+              AWS Tools for PowerShell 
+              
+             
+            
+            
+            Security, Identity &amp; Compliance 
+             
+              
+              AWS Identity and Access Management (IAM) 
+              
+              
+              Amazon Inspector 
+              
+              
+              Amazon Macie 
+              
+              
+              AWS Artifact 
+              
+              
+              AWS Certificate Manager 
+              
+              
+              AWS Directory Service 
+              
+              
+              AWS CloudHSM 
+              
+              
+              AWS KMS 
+              
+              
+              AWS Shield 
+              
+              
+              AWS WAF 
+              
+             
+            
+            
+            Artificial Intelligence 
+             
+              
+              Amazon Lex 
+              
+              
+              Amazon Polly 
+              
+              
+              AWS Rekognition 
+              
+              
+              Amazon Machine Learning 
+              
+             
+            
+            
+            Analytics 
+             
+              
+              Amazon Athena 
+              
+              
+              Amazon EMR 
+              
+              
+              Amazon CloudSearch 
+              
+              
+              Amazon Elasticsearch Service 
+              
+              
+              Amazon Kinesis 
+              
+              
+              Amazon Redshift 
+              
+              
+              Amazon QuickSight 
+              
+              
+              AWS Data Pipeline 
+              
+              
+              AWS Glue 
+              
+             
+            
+            
+            Internet of Things 
+             
+              
+              AWS IoT 
+              
+             
+            
+            
+            Game Development 
+             
+              
+              Amazon GameLift 
+              
+              
+              Amazon Lumberyard 
+              
+             
+            
+            
+            Mobile Services 
+             
+              
+              AWS Mobile Hub 
+              
+              
+              Amazon API Gateway 
+              
+              
+              Amazon Cognito 
+              
+              
+              AWS Device Farm 
+              
+              
+              Amazon Mobile Analytics 
+              
+              
+              Amazon Pinpoint 
+              
+              
+              AWS Mobile SDK for Android 
+              
+              
+              AWS Mobile SDK for iOS 
+              
+              
+              AWS Mobile SDK for Unity 
+              
+              
+              AWS Mobile SDK for Xamarin 
+              
+              
+              Amazon SNS 
+              
+             
+            
+            
+            Application Services 
+             
+              
+              Amazon API Gateway 
+              
+              
+              Amazon Elastic Transcoder 
+              
+              
+              Amazon SWF 
+              
+              
+              AWS Step Functions 
+              
+             
+            
+            
+            Messaging 
+             
+              
+              Amazon Simple Queue Service (SQS) 
+              
+              
+              Amazon Simple Notification Service (SNS) 
+              
+              
+              Amazon Pinpoint 
+              
+              
+              Amazon Simple Email Service (SES) 
+              
+             
+            
+            
+            Business Productivity 
+             
+              
+              Amazon WorkDocs 
+              
+              
+              Amazon WorkMail 
+              
+              
+              Amazon Chime 
+              
+             
+            
+            
+            Desktop &amp; App Streaming 
+             
+              
+              Amazon WorkSpaces 
+              
+              
+              Amazon WAM 
+              
+              
+              Amazon AppStream 2.0 
+              
+             
+            
+            
+            SDKs &amp; Toolkits 
+             
+              
+              AWS SDK for C++ 
+              
+              
+              AWS SDK for Go 
+              
+              
+              AWS SDK for Java 
+              
+              
+              AWS SDK for JavaScript 
+              
+              
+              AWS SDK for .NET 
+              
+              
+              AWS SDK for PHP 
+              
+              
+              AWS SDK for Python (boto) 
+              
+              
+              AWS SDK for Ruby 
+              
+              
+              AWS Toolkit for Eclipse 
+              
+              
+              AWS Toolkit for Visual Studio 
+              
+             
+            
+            
+            Additional Software &amp; Services 
+             
+              
+              AWS Billing and Cost Management 
+              
+              
+              AWS Marketplace 
+              
+              
+              AWS Support 
+              
+              
+              Alexa Top Sites 
+              
+              
+              Alexa Web Information Service 
+              
+              
+              Amazon Silk 
+              
+              
+              AWS GovCloud (US) 
+              
+             
+            
+            
+            AWS General Reference 
+             
+              
+              Regions and Endpoints 
+              
+              
+              Security Credentials 
+              
+              
+              ARNs &amp; Service Namespaces 
+              
+              
+              Service Limits 
+              
+              
+              AWS Glossary 
+              
+             
+            
+            
+            AWS Management Console 
+             
+              
+              Resource Groups 
+              
+              
+              Tag Editor 
+              
+             
+            
+            
+            Resources 
+             
+              
+              AWS Quick Starts 
+              
+              
+              AWS Whitepapers 
+              
+              
+              AWS Training &amp; Certification 
+              
+              
+              AWS Case Studies 
+              
+              
+              AWS Documentation on Kindle 
+              
+              
+              AWS Documentation Archive 
+              
+             
+            
+           
+          
+          
+          Support 
+           
+            
+            AWS Support Information 
+            
+            
+            Support Center 
+            
+            
+            AWS Trusted Advisor 
+            
+            
+            Technical FAQs 
+            
+            
+            Forums 
+            
+            
+            Service Health Dashboard 
+            
+            
+            AWS Personal Health Dashboard 
+            
+            
+            AWS Managed Services 
+            
+            
+            Contact Us 
+            
+           
+          
+          
+          Partners 
+           
+            
+            AWS Partner Network 
+            
+            
+            Find AWS Partners 
+            
+            
+            Premier Consulting Partners 
+            
+            
+            APN Competency Partners 
+            
+            
+            APN Partner Solutions 
+            
+            
+            Login to the APN Portal 
+            
+           
+          
+          
+          Careers 
+          
+          
+          Contact Us 
+          
+          
+          Sign in to the Console 
+          
+          
+          Download the Mobile App 
+          
+         
+        
+       
+      
+     
+    
+   
+   
+    
+     
+      
+       
+        
+         
+         
+        
+       
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                         
+                        
+                       
+                       
+                        
+                        Use Amazon EC2, S3 and more –  
+                        Free for a full year 
+                         Learn more about the AWS Free Tier&nbsp;&raquo;  
+                        
+                       
+                       
+                    
+                   
+                  
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                         
+                        November 27 - December 1 | Las Vegas, NV 
+                        Register now while tickets are still available 
+                         Learn More&nbsp;&raquo;  
+                        
+                       
+                       
+                    
+                   
+                  
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                         
+                        
+                       
+                       
+                        
+                        Amazon Kinesis Firehose can now transform streaming data before loading it to data stores  
+                         Learn more&nbsp;&raquo;  
+                        
+                       
+                       
+                    
+                   
+                  
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                         
+                        
+                       
+                       
+                        
+                        Learn how to migrate from Oracle to Amazon Aurora with minimal downtime 
+                         View project&nbsp;&raquo;  
+                        
+                       
+                       
+                    
+                   
+                  
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                         
+                        
+                       
+                       
+                        
+                        Try AWS with a 10-Minute Tutorial 
+                        Learn how to launch a virtual machine, store files and more 
+                         View Tutorials&nbsp;&raquo;  
+                        
+                       
+                       
+                    
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      
+                      Get Started with AWS for Free 
+                      Get Started with AWS for free 
+                       
+                       Create a Free Account 
+                       
+                       
+                       
+                        
+                        Amazon EC2  
+                         750 hours of Linux &amp; Windows Micro Instances/month 
+                        
+                        
+                        Amazon S3  
+                         5GB storage, 20k Get requests and 2k Put requests 
+                        
+                        
+                        Amazon RDS  
+                         750 Hours of micro instance usage and 20GB of DB Storage 
+                        
+                       
+                      View AWS Free Tier Details&nbsp;&raquo; 
+                      
+                       
+                     
+                    
+                   
+                  
+                 
+                  
+                
+               
+               
+                 
+               
+              
+             
+            
+           
+          
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                               
+                               
+                            
+                           
+                           
+                            
+                             
+                               SERVERLESS APPLICATION DEVELOPMENT  
+                             
+                            
+                           
+                           
+                            
+                             
+                               Find tools for testing, deploying, and monitoring serverless applications  
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                      
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                               
+                               
+                            
+                           
+                           
+                            
+                             
+                               AMAZON REKOGNITION  
+                             
+                            
+                           
+                           
+                            
+                             
+                               Image recognition in quick and easy steps  
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                      
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                               
+                               
+                            
+                           
+                           
+                            
+                             
+                               AMAZON POLLY  
+                             
+                            
+                           
+                           
+                            
+                             
+                               What is text-to-speech?  
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                      
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                               
+                               
+                            
+                           
+                           
+                            
+                             
+                               AMAZON LEX  
+                             
+                            
+                           
+                           
+                            
+                             
+                               Building better bots  
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                      
+                     
+                      
+                    
+                   
+                  
+                 
+                
+               
+              
+             
+            
+           
+          
+          
+           
+           
+          
+          
+          
+           
+            
+             
+              
+               
+                
+                
+               
+               
+                
+                 
+                  
+                   
+                     Explore Our Products  
+                   
+                  
+                 
+                
+               
+               
+                
+                
+               
+              
+             
+             
+              
+               
+                
+                 
+                  
+                 
+                 
+                  Compute  
+                  
+                   
+                    Amazon EC2Virtual Servers in the Cloud  
+                   
+                   
+                    Amazon EC2 Container RegistryStore and Retrieve Docker Images  
+                   
+                   
+                    Amazon EC2 Container ServiceRun and Manage Docker Containers  
+                   
+                   
+                    Amazon LightsailLaunch and Manage Virtual Private Servers  
+                   
+                   
+                    Amazon VPCIsolated Cloud Resources  
+                   
+                   
+                    AWS BatchRun Batch Jobs at Any Scale  
+                   
+                   
+                    AWS Elastic BeanstalkRun and Manage Web Apps  
+                   
+                   
+                    AWS LambdaRun Your Code in Response to Events  
+                   
+                   
+                    Auto ScalingAutomatic Elasticity  
+                   
+                  
+                 
+                 
+                  Storage  
+                  
+                   
+                    Amazon S3Scalable Storage in the Cloud  
+                   
+                   
+                    Amazon EBSBlock Storage for EC2  
+                   
+                   
+                    Amazon Elastic File SystemManaged File Storage for EC2  
+                   
+                   
+                    Amazon GlacierLow-Cost Archive Storage in the Cloud  
+                   
+                   
+                    AWS Storage GatewayHybrid Storage Integration  
+                   
+                   
+                    AWS SnowballPetabyte-scale Data Transport  
+                   
+                   
+                    AWS Snowball EdgePetabyte-scale Data Transport with On-board Compute  
+                   
+                   
+                    AWS SnowmobileExabyte-scale Data Transport  
+                   
+                  
+                 
+                 
+                  Database  
+                  
+                   
+                    Amazon AuroraHigh Performance Managed Relational Database  
+                   
+                   
+                    Amazon RDSManaged Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB  
+                   
+                   
+                    Amazon DynamoDBManaged NoSQL Database  
+                   
+                   
+                    Amazon DynamoDB Accelerator (DAX)Fully Managed In-Memory Cache for DynamoDB  
+                   
+                   
+                    Amazon ElastiCacheIn-Memory Caching System  
+                   
+                   
+                    Amazon RedshiftFast, Simple, Cost-Effective Data Warehousing  
+                   
+                   
+                    AWS Database Migration ServiceMigrate Databases with Minimal Downtime  
+                   
+                  
+                 
+                 
+                  Migration  
+                  
+                   
+                    AWS Application Discovery ServiceDiscover On-Premises Applications to Streamline Migration  
+                   
+                   
+                    AWS Database Migration ServiceMigrate Databases with Minimal Downtime  
+                   
+                   
+                    AWS Migration HubTrack Migrations from a Single Place  
+                   
+                   
+                    AWS Server Migration Service Migrate On-Premises Servers to AWS  
+                   
+                   
+                    AWS SnowballPetabyte-scale Data Transport  
+                   
+                   
+                    AWS Snowball EdgePetabyte-scale Data Transport with On-board Compute  
+                   
+                   
+                    AWS SnowmobileExabyte-scale Data Transport  
+                   
+                  
+                 
+                 
+                  Networking &amp; Content Delivery  
+                  
+                   
+                    Amazon VPCIsolated Cloud Resources  
+                   
+                   
+                    Amazon CloudFrontGlobal Content Delivery Network  
+                   
+                   
+                    Amazon Route 53Scalable Domain Name System  
+                   
+                   
+                    AWS Direct ConnectDedicated Network Connection to AWS  
+                   
+                   
+                    Elastic Load BalancingHigh Scale Load Balancing  
+                   
+                  
+                 
+                 
+                  Developer Tools  
+                  
+                   
+                    AWS CodeStarDevelop and Deploy AWS Applications   
+                   
+                   
+                    AWS CodeCommitStore Code in Private Git Repositories  
+                   
+                   
+                    AWS CodeBuildBuild and Test Code  
+                   
+                   
+                    AWS CodeDeployAutomate Code Deployment  
+                   
+                   
+                    AWS CodePipelineRelease Software using Continuous Delivery  
+                   
+                   
+                    AWS X-RayAnalyze and Debug Your Applications  
+                   
+                   
+                    AWS Command Line InterfaceUnified Tool to Manage AWS Services  
+                   
+                  
+                 
+                 
+                  Management Tools  
+                  
+                   
+                    Amazon CloudWatchMonitor Resources and Applications  
+                   
+                   
+                    Amazon EC2 Systems ManagerConfigure and Manage EC2 Instances and On-premises Servers  
+                   
+                   
+                    AWS CloudFormationCreate and Manage Resources with Templates  
+                   
+                   
+                    AWS CloudTrailTrack User Activity and API Usage  
+                   
+                   
+                    AWS ConfigTrack Resource Inventory and Changes  
+                   
+                   
+                    AWS OpsWorksAutomate Operations with Chef  
+                   
+                   
+                    AWS Service CatalogCreate and Use Standardized Products  
+                   
+                   
+                    AWS Trusted AdvisorOptimize Performance and Security  
+                   
+                   
+                    AWS Personal Health DashboardPersonalized view of AWS service health  
+                   
+                  
+                 
+                 
+                  Security, Identity &amp; Compliance  
+                  
+                   
+                    Amazon Cloud DirectoryCreate flexible cloud-native directories  
+                   
+                   
+                    AWS Identity &amp; Access ManagementManage User Access and Encryption Keys  
+                   
+                   
+                    Amazon InspectorAnalyze Application Security  
+                   
+                   
+                    Amazon MacieDiscover, Classify, and Protect Your Data  
+                   
+                   
+                    AWS Certificate ManagerProvision, Manage, and Deploy SSL/TLS Certificates  
+                   
+                   
+                    AWS CloudHSMHardware-based Key Storage for Regulatory Compliance  
+                   
+                   
+                    AWS Directory ServiceHost and Manage Active Directory  
+                   
+                   
+                    AWS Key Management ServiceManaged Creation and Control of Encryption Keys  
+                   
+                   
+                    AWS OrganizationsPolicy-based management for multiple AWS accounts  
+                   
+                   
+                    AWS ShieldDDoS Protection  
+                   
+                   
+                    AWS WAFFilter Malicious Web Traffic  
+                   
+                  
+                 
+                 
+                  Analytics  
+                  
+                   
+                    Amazon AthenaQuery Data in S3 using SQL  
+                   
+                   
+                    Amazon EMRHosted Hadoop Framework  
+                   
+                   
+                    Amazon CloudSearchManaged Search Service  
+                   
+                   
+                    Amazon Elasticsearch ServiceRun and Scale Elasticsearch Clusters  
+                   
+                   
+                    Amazon KinesisWork with Real-Time Streaming Data  
+                   
+                   
+                    Amazon RedshiftFast, Simple, Cost-Effective Data Warehousing  
+                   
+                   
+                    Amazon QuicksightFast Business Analytics Service  
+                   
+                   
+                    AWS Data PipelineOrchestration Service for Periodic, Data-Driven Workflows  
+                   
+                   
+                    AWS GluePrepare and Load Data  
+                   
+                  
+                 
+                 
+                  Artificial Intelligence  
+                  
+                   
+                    Amazon LexBuild Voice and Text Chatbots  
+                   
+                   
+                    Amazon PollyTurn Text into Lifelike Speech  
+                   
+                   
+                    Amazon RekognitionImage and Facial Analysis  
+                   
+                   
+                    Amazon Machine LearningMachine Learning for Developers  
+                   
+                   
+                    AWS Deep Learning AMIsQuickly Start Deep Learning on EC2  
+                   
+                   
+                    Apache MXNet on AWSScalable, High-Performance Deep Learning  
+                   
+                   
+                    TensorFlow on AWSOpen-source Machine Intelligence Library  
+                   
+                  
+                 
+                 
+                  Mobile Services  
+                  
+                   
+                    AWS Mobile HubBuild, Test, and Monitor Apps  
+                   
+                   
+                    Amazon API GatewayBuild, Deploy, and Manage APIs  
+                   
+                   
+                    Amazon CognitoUser Identity and App Data Synchronization  
+                   
+                   
+                    Amazon PinpointPush Notifications for Mobile Apps  
+                   
+                   
+                    AWS Device FarmTest Android, FireOS, and iOS Apps on Real Devices in the Cloud  
+                   
+                   
+                    AWS Mobile SDKMobile Software Development Kit  
+                   
+                  
+                 
+                 
+                  Application Services  
+                  
+                   
+                    AWS Step FunctionsCoordinate Distributed Applications  
+                   
+                   
+                    Amazon API GatewayBuild, Deploy, and Manage APIs  
+                   
+                   
+                    Amazon Elastic TranscoderEasy-to-Use Scalable Media Transcoding  
+                   
+                  
+                 
+                 
+                  Messaging  
+                  
+                   
+                    Amazon Simple Queue Service (SQS) Managed Message Queues  
+                   
+                   
+                    Amazon Simple Notification Service (SNS)Pub/Sub, Mobile Push and SMS  
+                   
+                   
+                    Amazon PinpointPush Notifications for Mobile Apps  
+                   
+                   
+                    Amazon Simple Email Service (SES)Email Sending and Receiving  
+                   
+                  
+                 
+                 
+                  Business Productivity  
+                  
+                   
+                    Amazon ChimeFrustration-free meetings, video calls, and chat  
+                   
+                   
+                    Amazon WorkDocsEnterprise Storage and Sharing Service  
+                   
+                   
+                    Amazon WorkMailSecure and Managed Business Email and Calendaring  
+                   
+                  
+                 
+                 
+                  Desktop &amp; App Streaming  
+                  
+                   
+                    Amazon WorkSpacesDesktop Computing Service  
+                   
+                   
+                    Amazon AppStream 2.0Stream desktop applications securely to a browser  
+                   
+                  
+                 
+                 
+                  Internet of Things  
+                  
+                   
+                    AWS IoT PlatformConnect Devices to the Cloud  
+                   
+                   
+                    AWS GreengrassLocal Compute, Messaging, and Sync for Devices  
+                   
+                   
+                    AWS IoT ButtonCloud Programmable Dash Button  
+                   
+                  
+                 
+                 
+                  Contact Center  
+                  
+                   
+                    Amazon ConnectCloud-based contact center  
+                   
+                  
+                 
+                 
+                  Game Development  
+                  
+                   
+                    Amazon GameLiftSimple, fast, cost-effective dedicated game server hosting  
+                   
+                   
+                    Amazon LumberyardA Free Cross-Platform 3D Game Engine, with Full Source, Integrated with AWS and Twitch  
+                   
+                  
+                 
+                 
+                  See All Products  
+                  
+                  
+                 
+                
+                 
+               
+              
+             
+            
+           
+          
+          
+           
+           
+          
+         
+        
+       
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                   Engineered for the most Demanding Requirements  
+                 
+                
+               
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                       
+                       
+                        
+                       
+                       
+                    
+                   
+                   
+                    
+                     
+                       Secure  
+                     
+                    
+                   
+                   
+                    
+                    Comprehensive security capabilities to satisfy the most demanding information security requirements.  
+                    Learn more &raquo;  
+                    
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                       
+                       
+                        
+                       
+                       
+                    
+                   
+                   
+                    
+                     
+                       Compliant  
+                     
+                    
+                   
+                   
+                    
+                    Rich controls, auditing and broad security accreditations.  
+                    Learn more &raquo;  
+                    
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                       
+                       
+                        
+                       
+                       
+                    
+                   
+                   
+                    
+                     
+                       Hybrid  
+                     
+                    
+                   
+                   
+                    
+                    Build hybrid IT architectures that extend your on-premises infrastructure to the Cloud.  
+                    Learn more &raquo;  
+                    
+                   
+                  
+                 
+                
+               
+              
+             
+            
+           
+          
+          
+           
+           
+          
+         
+        
+       
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                     Supporting Virtually any Workload for Over a  
+                   
+                  
+                 
+                 
+                  
+                   
+                     Million Active Customers in 190 Countries  
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      Web Applications  
+                      Big Data &amp; HPC  
+                      Line of Business Apps  
+                      Backup &amp; Storage  
+                      Disaster Recovery  
+                      Media  
+                      Gaming  
+                      Healthcare &amp; Life Sciences  
+                     
+                    
+                   
+                   
+                    
+                     Web Applications  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Build scalable, high performance websites with a broad set of services geared for modern web applications. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers running Web Applications on AWS  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Big Data &amp; HPC  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Process data quickly with instant access to vast amounts of computing power designed to handle massive volumes of data. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers running Big Data &amp; HPC workloads on AWS  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Line of Business Apps  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Move your business into the cloud with secured, high-performance solutions for your common and custom business applications. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers running Line of Business Apps on AWS  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Backup &amp; Storage  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Securely store your information with storage options that provide built-in encryption, designed for 99.999999999% durability. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers using AWS for Backup &amp; Storage  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Disaster Recovery  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Protect your data and applications across data centers and the cloud with immediately available, scalable and durable disaster recovery. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers using AWS for Disaster Recovery  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Media  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Media services that allow the secured storage, processing, and delivery of your media assets around the world. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers using AWS for Media  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Gaming  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         From mobile to web, console to PC; AWS provides a broad range of low-cost, instantly available gaming backend services for developers that write for every platform and language. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers delivering Games using AWS  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                     Healthcare &amp; Life Sciences  
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                            
+                         
+                        
+                        
+                         
+                         Healthcare and Life Sciences organizations are using AWS for everything from basic biomedical research to HIPAA-compliant clinical information systems. Learn more &raquo; 
+                         
+                        
+                        
+                         
+                         Customers using AWS for Healthcare and Life Sciences solutions  
+                         
+                        
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                    
+                   
+                  
+                   
+                 
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+       
+        
+        
+       
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                  Customer Success Stories from all Industries  
+                
+               
+              
+              
+               
+                
+                 
+                  
+                   Enterprises  
+                   Start-ups  
+                   Public Sector  
+                  
+                 
+                
+                
+                 
+                  Enterprises  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                      View all Enterprise stories &raquo;  
+                      
+                     
+                    
+                    
+                  Start-ups  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                      View all Start-Ups stories &raquo;  
+                      
+                     
+                    
+                    
+                  Public Sector  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                             
+                          
+                         
+                        
+                       
+                      
+                       
+                     
+                     
+                      
+                      View all Public Sector stories &raquo;  
+                      
+                     
+                    
+                    
+                 
+                
+               
+                
+              
+             
+            
+           
+          
+         
+        
+       
+       
+        
+        
+       
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                   Global Network of Regions and Edge Locations  
+                 
+                
+               
+               
+                
+                The AWS Cloud operates 44 Availability Zones within 16 geographic Regions around the world, with announced plans for 17 more Availability Zones and six more Regions in Bahrain, China, France, Hong Kong, Sweden, and a second AWS GovCloud Region in the US.  
+                
+               
+               
+                
+                 
+                  
+                   
+                  
+                  
+                   
+                  
+                 
+                
+               
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                          
+                         
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                              
+                              
+                               
+                              
+                             
+                            
+                           
+                          
+                         
+                        
+                       
+                      
+                     
+                     
+                      
+                       
+                        
+                        Region &amp; Number of Availability Zones  
+                        
+                       
+                       
+                        
+                         
+                          
+                           
+                            
+                            US East N. Virginia&nbsp;(6), Ohio (3) 
+                            US West N. California (3), Oregon (3) 
+                            Asia Pacific Mumbai (2), Seoul (2), Singapore (2), Sydney (3), Tokyo (3)  
+                            Canada Central (2) 
+                            China Beijing (2) 
+                            
+                           
+                          
+                         
+                         
+                          
+                           
+                            
+                            Europe Frankfurt (3), Ireland (3), London (2)  
+                            South America S&atilde;o Paulo (3) 
+                            AWS GovCloud (US-West) (2)  
+                            
+                           
+                          
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                          
+                          
+                           
+                          
+                         
+                        
+                       
+                      
+                     
+                     
+                      
+                       
+                        
+                        New Region (coming soon)  
+                        
+                       
+                       
+                        
+                        Bahrain 
+                        China 
+                        France 
+                        Hong Kong 
+                        Sweden 
+                        AWS GovCloud (US-East) 
+                        
+                          China 
+                          • France 
+                          • Hong Kong 
+                          • Sweden 
+                          • AWS GovCloud East 
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                
+               
+               
+                
+                 
+                  
+                  
+                 
+                 
+                  
+                   
+                    
+                    Learn More &raquo; 
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                 
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+       
+        
+         
+          
+           
+          
+         
+         
+         
+        
+       
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                            
+                            
+                         
+                        
+                        
+                         
+                          
+                            AWS PARTNER NETWORK  
+                          
+                         
+                        
+                        
+                         
+                          
+                            Join AWS Partner Network to build &amp; grow your cloud business  
+                          
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                            
+                            
+                         
+                        
+                        
+                         
+                          
+                            AWS MARKETPLACE  
+                          
+                         
+                        
+                        
+                         
+                          
+                            Launch popular software on AWS in minutes  
+                          
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                            
+                            
+                         
+                        
+                        
+                         
+                          
+                            2017 MAGIC QUADRANT  
+                          
+                         
+                        
+                        
+                         
+                          
+                            AWS named a leader for the 7th consecutive year. Get the Gartner report now &raquo;  
+                          
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                            
+                            
+                         
+                        
+                        
+                         
+                          
+                            AWS TRAINING  
+                          
+                         
+                        
+                        
+                         
+                          
+                            On-demand resources to help you develop your skills  
+                          
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                  
+                   
+                 
+                 
+                  
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                    
+                   
+                   
+                    
+                     
+                      Get Started for Free 
+                       
+                     
+                    
+                   
+                   
+                    
+                    
+                   
+                  
+                   
+                 
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+       
+         
+       
+       
+         
+       
+       
+        
+         
+         
+        
+       
+      
+     
+    
+   
+   
+    
+     
+      
+      Create a Free Account 
+      
+     
+     
+      
+       &nbsp;Twitter 
+       &nbsp;Facebook 
+       &nbsp;Google+ 
+       &nbsp;Twitch 
+       &nbsp;AWS Blog 
+       &nbsp;What's New? RSS 
+       &nbsp;Subscribe to Updates 
+      
+     
+    
+    
+     
+      
+       
+       
+         AWS &amp; Cloud Computing 
+        
+        
+        What is Cloud Computing? 
+        What is Caching? 
+        What is NoSQL? 
+        What is DevOps? 
+        Products &amp; Services 
+        Customer Success 
+        Economics Center 
+        Architecture Center 
+        Security Center 
+        What's New 
+        Whitepapers 
+        AWS Blog 
+        Events 
+        Sustainable Energy 
+        Press Releases 
+        AWS in the News 
+        Analyst Reports 
+        Legal 
+        
+       
+       
+       
+         Solutions 
+        
+        
+        Websites &amp; Website Hosting 
+        Business Applications 
+        Backup &amp; Recovery 
+        Disaster Recovery 
+        Data Archive 
+        DevOps 
+        Serverless Computing 
+        Big Data 
+        High Performance Computing 
+        Mobile Services 
+        Digital Marketing 
+        Game Development 
+        Digital Media 
+        Government &amp; Education 
+        Health 
+        Financial Services 
+        Windows on AWS 
+        
+       
+       
+       
+         Resources &amp; Training 
+        
+        
+        Developers 
+        Java on AWS 
+        JavaScript on AWS 
+        Mobile on AWS 
+        PHP on AWS 
+        Python on AWS 
+        Ruby on AWS 
+        .NET on AWS 
+        SDKs &amp; Tools 
+        AWS Marketplace 
+        User Groups 
+        Support Plans 
+        Service Health Dashboard 
+        Discussion Forums 
+        FAQs 
+        Documentation 
+        Articles &amp; Tutorials 
+        Test Drives 
+        AWS Business Builder 
+        
+       
+       
+       
+         Manage Your Account 
+        
+        
+        Management Console 
+        Billing &amp; Cost Management 
+        Subscribe to Updates 
+        Personal Information 
+        Payment Method 
+        AWS Identity &amp; Access Management 
+        Security Credentials 
+        Request Service Limit Increases 
+        Contact Us 
+        
+       
+      
+     
+     
+      
+       
+       Amazon Web Services is Hiring. 
+       Amazon Web Services (AWS) is a dynamic, growing business unit within Amazon.com. We are currently hiring Software Development Engineers, Product Managers, Account Managers, Solutions Architects, Support Engineers, System Engineers, Designers and more. Visit our Careers page or our Developer-specific Careers page to learn more. 
+       &nbsp; 
+       Amazon Web Services is an Equal Opportunity Employer. 
+       &nbsp; 
+       &nbsp; 
+       
+      
+      
+      An amazon.com company 
+      
+      
+      
+     
+    
+    
+     
+      
+      Language 
+      Deutsch 
+      English 
+      Espa&ntilde;ol 
+      Fran&ccedil;ais 
+      Italiano 
+      Portugu&ecirc;s 
+      Ρусский 
+      日本語 
+      한국어 
+      中文 (简体) 
+      中文 (繁體) 
+      
+      
+      
+     
+    
+    
+     
+      
+      Site Terms 
+      | 
+      Privacy 
+      
+     
+     
+     
+       &copy; 2017, Amazon Web Services, Inc. or its affiliates. All rights reserved. 
+      
+     
+    
+   
+   
+   
+    
+    
+   
+    
+    
+   
+    
+   
+   
+   
+  
+   
+  
+    You are using an outdated browser. Please upgrade to Internet Explorer 11 or another modern browser to improve your experience.
+  
+ 
+    
+    
+ 
+

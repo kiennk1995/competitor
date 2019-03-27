@@ -1,0 +1,1169 @@
+
+  
+     
+     
+     
+  
+  VPS Hosting | Linux VPS Servers With cPanel - HostGator
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+   
+     
+  
+  
+  
+Live Chat
+ &nbsp; 
+24/7/365 Support
+Customer Portal | Support | Affiliates
+Toggle navigation
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller
+VPS
+Dedicated
+Domains
+Pricing
+Support
+Affiliates
+Need Help?
+Call Us!
+Login To Customer Portal
+24/7/365 Support
+(866) 96-GATOR
+?Need Help? 
+Live Chat
+Support
+Toggle navigation
+Hosting 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting Advanced
+Dedicated Hosting Advanced
+Domains
+Pricing
+Sign Up 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting
+Dedicated Hosting
+                                Login
+24/7/365 Support
+(866) 96-GATOR
+?Need Help? 
+Live Chat
+Support
+Toggle navigation
+Hosting 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+Advanced Hosting 
+VPS Hosting
+Dedicated Hosting
+Domains
+Pricing
+Sign Up 
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting
+Dedicated Hosting
+                                Login
+ 
+Power At The Right Price With VPS
+Dedicated Control & Functionality In A Scalable Environment!
+ 
+Snappy 2000
+Now [[print_current_percent_off]]% OFF!" data-key="vps.l3.term.36"Now 75% OFF!
+2 GB RAM
+2 Cores CPU
+120 GB Disk Space
+1.5 TB Bandwidth
+Starting At *" data-key="vps.l3.term.36"$19.95/mo*
+Buy Now!"
+Buy Now!
+Snappy 4000
+Now [[print_current_percent_off]]% OFF!" data-key="vps.l4.term.36"Now 75% OFF!
+4 GB RAM
+2 Cores CPU
+165 GB Disk Space
+2 TB Bandwidth
+Starting At *" data-key="vps.l4.term.36"$29.95/mo*
+Buy Now!"
+Buy Now!
+Snappy 8000
+Now [[print_current_percent_off]]% OFF!" data-key="vps.l5.term.36"Now 73% OFF!
+8 GB RAM
+4 Cores CPU
+240 GB Disk Space
+3 TB Bandwidth
+Starting At *" data-key="vps.l5.term.36"$39.95/mo*
+Buy Now!"
+Buy Now!
+Features | Compare All Plans  | FAQ
+Complete Customization Without The Expense
+Full root access allows total control over your hosting environment, including custom installs and configuration
+The completely autonomous virtual server is fully allocated to your site
+All the benefits of dedicated resources without the cost of a dedicated server
+Increased Reliability
+Multiple layers of network security and several bandwidth providers are utilized to ensure maximize server reliability
+All VPS servers are housed in a state-of-the-art data center featuring redundant power and HVAC units
+A RAID 10 disk configuration provides maximum data protection
+Fully Scalable
+To Grow With You
+A VPS scales up at the click of a button to easily add resources as your website grows in audience or complexity
+Easy scalability means never paying for more resources than you actually need
+Start small and grow your hosting along with your business
+VPS Features
+Flexible Software Options
+Full root access gives you more control over your environment, allowing for custom script or application installs.
+Advanced Functionality
+Host unlimited domains, create unlimited sub domains, email addresses, databases, FTP accounts, and private nameservers.
+Powerful Hardware
+We work with industry leaders like Intel and AMD to continually evaluate our VPS platform to maintain optimal performance.
+Award-Winning Support
+We are here for you 24/7/365 via Telephone, Live Chat, and Email to assist with any questions you may have.
+Full Suite Of Tools
+All plans include site development tools, thousands of free website templates, and a powerful script installer!
+Weekly Off-Site Backups
+Helping to ensure your data remains safe, we automatically perform a courtesy off-site backup of your data each week.
+  
+    
+      
+        Plans For Everyone.Get Started Today!
+      
+      
+        
+          
+            
+              Snappy 2000
+              *" data-key="vps.l3.term.36"$19.95/mo*
+ Buy Now! "
+   Buy Now! 
+            
+            Included With Hosting
+          
+          
+            
+              CPU 2 Cores
+            
+            
+              RAM 2 GB
+            
+            
+              Disk Space 120 GB
+            
+            
+              Bandwidth 1.5 TB
+            
+            
+              IP Addresses 2 IPs
+            
+            
+              Advanced ServerFeatures  &nbsp;
+              
+                Full root access (64-bit) 
+                Optional cPanel with WHM control panel cPanel demo | WHM demo) --
+                Apache web server (Must be installed by semi-managed plans) 
+                Supports: MySQL, PHP, Perl, Python (Django), Ruby (on Rails), FFMpeg
+              
+            
+            
+              Multiple LayersOf Security  &nbsp;
+              
+                Free IP table firewall
+                Safe Harbor certified
+                Centralized DDOS protection
+                Secured VPS firewall
+              
+            
+            
+              Cutting Edge ServerHardware  &nbsp;
+              
+                Supermicro servers
+                Intel processors
+                Fault-tolerant RAID disk arrays
+              
+            
+            
+              Top Of The LineNetwork  &nbsp;
+              
+                State-of-the-art data center with backup power generators and HVAC units
+                Gigabit uplink with a guaranteed 20Mbit connection
+                Fully redundant network with no single point of failure
+                Multiple bandwidth providers (AboveNet, ATT, Comcast, Global Crossing, Level (3), NTT)
+              
+            
+          
+        
+      
+      
+        
+          
+            Snappy 4000 *" data-key="vps.l4.term.36"$29.95/mo*
+ Buy Now! "
+  Buy Now!
+            Included With Hosting
+          
+          
+            
+              CPU 2 Cores
+            
+            
+              RAM 4 GB
+            
+            
+              Disk Space 165 GB
+            
+            
+              Bandwidth,2 TB
+            
+            
+              IP Addresses 2 IPs
+            
+            
+              Advanced ServerFeatures  &nbsp;
+              
+                Full root access (64-bit) 
+                Optional cPanel with WHM control panel cPanel demo | WHM demo) --
+                Apache web server (Must be installed by semi-managed plans) 
+                Supports: MySQL, PHP, Perl, Python (Django), Ruby (on Rails), FFMpeg
+              
+            
+            
+              Multiple LayersOf Security  &nbsp;
+              
+                Free IP table firewall
+                Safe Harbor certified
+                Centralized DDOS protection
+                Secured VPS firewall
+              
+            
+            
+              Cutting Edge ServerHardware  &nbsp;
+              
+                Supermicro servers
+                Intel processors
+                Fault-tolerant RAID disk arrays
+              
+            
+            
+              Top Of The LineNetwork  &nbsp;
+              
+                State-of-the-art data center with backup power generators and HVAC units
+                Gigabit uplink with a guaranteed 20Mbit connection
+                Fully redundant network with no single point of failure
+                Multiple bandwidth providers (AboveNet, ATT, Comcast, Global Crossing, Level (3), NTT)
+              
+            
+          
+        
+      
+      
+        
+          
+            Snappy 8000*" data-key="vps.l5.term.36"$39.95/mo*
+ Buy Now! "
+   Buy Now!
+            
+            Included With Hosting
+          
+          
+            
+              CPU4 Cores
+            
+            
+              RAM 8 GB
+            
+            
+              Disk Space 240 GB
+            
+            
+              Bandwidth 3 TB
+            
+            
+              IP Addresses 2 IPs
+            
+            
+              Advanced ServerFeatures  &nbsp;
+              
+                Full root access (64-bit) 
+                Optional cPanel with WHM control panel cPanel demo | WHM demo) --
+                Apache web server (Must be installed by semi-managed plans) 
+                Supports: MySQL, PHP, Perl, Python (Django), Ruby (on Rails), FFMpeg
+              
+            
+            
+              Multiple LayersOf Security  &nbsp;
+              
+                Free IP table firewall
+                Safe Harbor certified
+                Centralized DDOS protection
+                Secured VPS firewall
+              
+            
+            
+              Cutting Edge ServerHardware  &nbsp;
+              
+                Supermicro servers
+                Intel processors
+                Fault-tolerant RAID disk arrays
+              
+            
+            
+              Top Of The LineNetwork  &nbsp;
+              
+                State-of-the-art data center with backup power generators and HVAC units
+                Gigabit uplink with a guaranteed 20Mbit connection
+                Fully redundant network with no single point of failure
+                Multiple bandwidth providers (AboveNet, ATT, Comcast, Global Crossing, Level (3), NTT)
+              
+            
+          
+        
+      
+    
+  
+  
+    
+      
+        Plans For Everyone. Get Started Today!
+      
+    
+    
+      
+        
+          
+            
+              
+                Already A HostGator Customer?
+                Upgrade
+              
+              
+                Snappy2000
+                $19.95/mo*
+ Buy Now! "
+ Buy Now! 
+              
+              
+                
+                Snappy4000
+                $29.95/mo*
+ Buy Now! "
+ Buy Now! 
+              
+              
+                Snappy8000
+                $39.95/mo*
+ Buy Now! "
+ Buy Now! 
+              
+            
+          
+          
+            
+              
+                Power At The RightPrice With VPS
+              
+              
+                Snappy2000
+                $19.95/mo*
+ Buy Now! "
+ Buy Now! 
+              
+              
+                Snappy4000
+                $29.95/mo*
+ Buy Now! "
+ Buy Now! 
+              
+              
+                Snappy8000
+                $39.95/mo*
+ Buy Now! "
+ Buy Now! 
+              
+            
+          
+          
+            
+              
+                CPU
+              
+              2 Cores
+              2 Cores
+              4 Cores
+            
+            
+              
+                RAM
+              
+              2 GB
+              4 GB
+              8 GB
+            
+            
+              
+                Disk Space
+              
+              120 GB
+              165 GB
+              240 GB
+            
+            
+              
+                Bandwidth
+              
+              1.5 TB
+              2 TB
+              3 TB
+            
+            
+              
+                IP Addresses
+              
+              2 IPs
+              2 IPs
+              2 IPs
+            
+            
+              
+                Advanced Server Features 
+                
+                  Full root access (64-bit) 
+                  Optional cPanel with WHM control panel cPanel demo | WHM demo) --
+                  Apache web server (Must be installed by semi-managed plans) 
+                  Supports: MySQL, PHP, Perl, Python (Django), Ruby (on Rails), FFMpeg
+                
+              
+              &nbsp;
+              &nbsp;
+              &nbsp;
+            
+            
+              
+                Multiple Layers Of Security 
+                
+                  Free IP table firewall
+                  Safe Harbor certified
+                  Centralized DDOS protection
+                  Secured VPS firewall
+                
+              
+              &nbsp;
+              &nbsp;
+              &nbsp;
+            
+            
+              
+                Cutting Edge Server Hardware 
+                
+                  Supermicro servers
+                  Intel processors
+                  Fault-tolerant RAID disk arrays
+                
+              
+              &nbsp;
+              &nbsp;
+              &nbsp;
+            
+            
+              
+                Top Of The Line Network 
+                
+                  State-of-the-art data center with backup power generators and HVAC units
+                  Gigabit uplink with a guaranteed 20Mbit connection
+                  Fully redundant network with no single point of failure
+                  Multiple bandwidth providers (AboveNet, ATT, Comcast, Global Crossing, Level (3), NTT)
+                
+              
+              &nbsp;
+              &nbsp;
+              &nbsp;
+            
+          
+        
+      
+    
+  
+  
+    
+      Need more than 20 sites? &#187;
+    
+  
+Frequently Asked Questions
+When should I go with a Virtual Private Server (VPS) server?
+A VPS server is an excellent choice when you are looking for more control/flexibility around your website.  Whether it is the ability to scale resources to meet the needs of your growing business or the ability to install a custom application or custom configuration that makes your site run just the way you want.
+Will my VPS perform better than my Shared account does?
+This answer will vary based on your site and the VPS option you select. The entry level VPS nodes are targeted towards customers looking for more flexibility and will likely not result in a performance improvement, while the higher end VPS nodes should provide both flexibility and performance improvements.
+Will you migrate my site for me?
+HostGator offers unlimited free  cPanel to cPanel migrations to our VPS Offering.   For sites that require a manual migration due to complexity or a different control panel, we support up to 90 migrations based on the VPS package you select.  
+What type of technical skills do I need to manage a VPS server?
+For our fully managed VPS server we include an easy to use custom cPanel Control Panel that offers many administrative tools but basic knowledge of file transfer and application management are beneficial.  Our semi-managed offering does not include the control panel and will require a more in depth technical expertise to keep your website running smoothly.
+How many emails can I send out per hour from my VPS server? 
+On a VPS server, there is no default setting within cPanel on outbound email per hour but we strongly recommend that you set it to 500 emails per hour to avoid getting your IP blacklisted by an errant or compromised script within your site.  
+  
+   Frequently Asked Questions
+    
+  
+  
+    
+      
+          
+        When should I go with a Virtual Private Server (VPS) server?
+      
+    
+  
+  
+    
+      A VPS server is an excellent choice when you are looking for more control/flexibility around your website. Whether it is the ability to scale resources to meet the needs of your growing business or the ability to install a custom application or custom configuration that makes your site run just the way you want.
+    
+  
+  
+    
+      
+          
+        Will my VPS perform better than my Shared account does?
+      
+    
+  
+  
+    
+      This answer will vary based on your site and the VPS option you select. The entry level VPS nodes are targeted towards customers looking for more flexibility and will likely not result in a performance improvement, while the higher end VPS nodes should provide both flexibility and performance improvements.
+    
+  
+  
+    
+      
+          
+        Will you migrate my site for me?
+      
+    
+  
+  
+    
+      HostGator offers unlimited free cPanel to cPanel migrations to our VPS Offering. For sites that require a manual migration due to complexity or a different control panel, we support up to 90 migrations based on the VPS package you select.
+    
+  
+  
+    
+      
+          
+        What type of technical skills do I need to manage a VPS server?
+      
+    
+  
+  
+    
+      For our fully managed VPS server we include an easy to use custom cPanel Control Panel that offers many administrative tools but basic knowledge of file transfer and application management are beneficial. Our semi-managed offering does not include the control panel and will require a more in depth technical expertise to keep your website running smoothly.
+    
+  
+  
+    
+      
+          
+        How many emails can I send out per hour from my VPS server?
+      
+    
+  
+  
+    
+      On a VPS server, there is no default setting within cPanel on outbound email per hour but we strongly recommend that you set it to 500 emails per hour to avoid getting your IP blacklisted by an errant or compromised script within your site.
+    
+  
+Experience The Power Of A VPS!
+Our industry-leading experts are here to assist 24/7/365, every step of the way. Call now at (866) 401-0335.
+Experience The Power Of A VPS!
+Starting At Only
+/mo*" data-key="vps.l3.term.36"
+$19.95/mo*
+Get Started!
+ 
+          
+HostGator
+  
+    
+      
+        
+        
+          
+Hosting
+Web Hosting
+Cloud Hosting
+WordPress Hosting
+Reseller Hosting
+VPS Hosting
+Dedicated Hosting
+Application Hosting
+Windows Hosting
+Website Builder
+Domains
+Register Domains
+Transfer Domains
+Manage Domains
+Services
+          
+            CodeGuard
+            Web Design
+            PPC
+            SEO
+          
+Affiliates
+Become An Affiliate
+Affiliate Portal
+Support
+Customer Portal
+Support Portal
+Video Tutorials
+Forums
+Live Chat
+        
+          Company
+            
+          
+            About HostGator
+            Awards &amp; Reviews
+            Press &amp; Media
+            Company Blog
+            Contact Us
+            Careers
+            Partners
+          
+        
+        
+      
+    
+  
+  
+    
+      
+        
+          
+            Sitemap
+            &nbsp;
+            Terms of Service
+            &nbsp;
+            Privacy Policy
+          
+          Copyright 2016 HostGator.com LLC. All Rights Reserved.
+        
+        
+          
+            
+              
+            
+            
+              
+            
+            
+              
+            
+            
+              
+            
+          
+        
+      
+    
+  
+  
+    
+      *Prices reflect discount on first term
+    
+  
+  
+    
+      
+        
+          &times;Close
+          HostGator Website Transfers
+        
+        
+          HostGator is committed to making it easy to transfer your site to your new hosting account. We can transfer website files, databases, scripts, and  one free domain registration transfer.
+          What qualifies me for a free transfer?
+          HostGator provides free transfers for new accounts within 30 days of sign-up, and to newly upgraded accounts. For upgraded accounts it must be an inter-server upgrade to qualify. Please note that downgraded accounts do not qualify for free transfers.
+          Depending on which type of account you sign up for, we offer differing numbers of free transfers. Please refer to the chart below to see what we include for new packages.
+          Full cPanel Transfers is the number of cPanel to cPanel transfers that are included.
+          Max. Manual Transfers is the maximum number of Manual Transfers that are included with your account.
+          Total Free Transfers is the total number websites that we will move for you.
+          
+            
+              
+                
+                  Account Type
+                  Total Free Transfers
+                  Full cPanel Transfers
+                  Max. Manual Transfers
+                
+              
+              
+                
+                  
+                    online form to initiate your website content transfers. We can move your content and databases for one website or cPanel over from another host."?
+                    Shared
+                  
+                  
+                    1
+                  
+                  
+                    12
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    online form to initiate your website content transfers. We can move the content and data for up to 30 websites/cPanels over from another host."?
+                    Reseller
+                  
+                  
+                    30
+                  
+                  
+                    302
+                  
+                  
+                    30
+                  
+                
+                
+                  
+                    Please submit the online form to initiate your website content transfers.
+VPS accounts that have a control panel (either cPanel or Plesk) qualify for unlimited cPanel to cPanel transfers, or up to 10 Manual Transfers per VPS level. I.E. a Level 5 VPS qualifies for 50 manual transfers, while a Level 7 qualifies for 70 manual transfers.
+(Snappy 500 or VPS without a control panel)
+VPS accounts with no control panel are for advanced Linux customers who are comfortable with installing and configuring their own services. If you would like us to transfer their data to such a VPS (or a Dedicated server with no control panel), you would be responsible for making sure that their services are configured correctly and will need to inform us exactly where the data needs to be placed (we will not configure or restore anything, but only copy files or packages to the specified directory on the VPS/server). If you are not comfortable with installing and configuring their own services, we suggest upgrading to a Level 3 plan with cPanel. We will not be able to install and configure each service for you. If a Level 3 package is too expensive, then a Reseller or Shared account might work based upon your needs."?
+                    VPS
+                  
+                  
+                    Unlimited1
+                  
+                  
+                    Unlimited2
+                  
+                  
+                    10 per VPS level
+                  
+                
+                
+                  
+                    online form to initiate your website content transfers.
+We provide 75 free website transfers. The content transfers are free within the first 30 days; for any requests outside the first 30 days, we will reply back with a quoted price. If the server is running cPanel and you are coming from another cPanel server, then we offer unlimited full cPanel account transfers."?
+                    Dedicated (Basic)
+                  
+                  
+                    Unlimited1
+                  
+                  
+                    Unlimited2
+                  
+                  
+                    75
+                  
+                
+                
+                  
+                    Please submit the online form to initiate your website content transfers. We provide 100 website transfers. The content transfers are free within the first 30 days; for any requests outside the first 30 days, we will reply back with a quoted price. If the server is running cPanel and you are coming from another cPanel server, then we offer unlimited full cPanel account transfers."?
+                    Dedicated (Standard, Elite, Pro)
+                  
+                  
+                    Unlimited1
+                  
+                  
+                    Unlimited2
+                  
+                  
+                    100
+                  
+                
+              
+            
+          
+          1While we can do unlimited cPanel to cPanel transfers for you, depending on your account, you will have a limited number of Manual Transfers.
+          2Full cPanel transfers include all domains, Addon Domains, Subdomains, and cPanel settings. This will also include your emails and email accounts. Please note that this does require that your old host's cPanel backup generator to be active.
+          A few examples: An Aluminium Reseller account includes up to 30 free transfers. Out of this 30, you can have 20 cPanel to cPanel transfers and 10 Manual Transfers, or any combination of the two that totals 30 or less websites. Another example: A Pro Dedicated server includes unlimited cPanel to cPanel transfers, this means you can have 150 sites (or even more) moved. Also since there is an unlimited total number of transfers, you can utilize up to 100 Manual Transfers.
+          For more information please see our Transfers Support Article, contact our transfers department at transfers@hostgator.com, or call 866.96.GATOR
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Unmetered Web Hosting
+        
+        
+          How much disk space and bandwidth will my plan include?
+          Diskspace and Bandwidth is "Unmetered" which means you are not charged according to the amount of diskspace or bandwidth you use.
+          However, that being said, we do require all customers to be fully compliant with our Terms of Service and to only utilize disk space and bandwidth in the normal operation of a personal or small business website.
+          For example, customers who are using 25% or more of system resources for longer than 90 seconds would be in violation of our Terms of Service. Please see our TOS or contact us with any questions.
+          What happens if I exceed usage?
+          If we have concerns about your account's bandwidth or disk space utilization, you will receive an email asking you to reduce usage.
+          Again, it is very rare for a customer who is managing a personal or small business website to exceed our usage policies.
+          This file was last modified 7/20/2015.
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Money Back Guarantee
+        
+        
+          Customer Satisfaction is HostGator's #1 Priority!
+          We are confident you will be happy, and even offer you a full 45 day money back guarantee to try us out.
+          We're here to help you as well with 24/7 phone, live chat and helpdesk support by friendly support agents.
+          If you are not completely satisfied with our services within the first 45 days of your service, you will be given a full refund of the contract amount.
+          Please note that this is only for shared, reseller and vps hosting packages and does not apply to dedicated servers, administrative fees, install fees for custom software, or domain name purchases.
+          For more information please contact us at any time and we'll be happy to provide you more information.
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Pricing Reflects A Discount On The First Invoice Only
+        
+        
+          HostGator often offers promotions, coupons and special offers to customers during their initial term. Please note that special offers are limited-time promotional prices that are available to new customers and are valid for the Initial Term only, and not for successive or renewal periods. Promotional rates apply to Shared, Cloud, VPS, Dedicated, WordPress and Reseller hosting plans and will automatically renew after initial term at regular rate found in your control panel.
+          
+            *VAT (Value Added Tax) is not included in our advertised price and will be charged separately and itemized on invoices and billing information. Standard VAT rates based on EU Member State regulations may apply. For more information on VAT, please refer to the Value Added Tax (VAT) knowledgebase&nbsp;article.
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Do You Want To Move To The Cloud?
+        
+        
+          
+            
+              
+                2X Faster
+                4X More Scalability
+                Up to 4X More Resources
+                Simpler Dashboard
+              
+              
+                Only $2/mo More
+                Get Started!
+                No Thanks!
+              
+            
+            
+              
+              
+            
+          
+          
+          
+            Only $2/mo More
+            Get Started!
+            No Thanks!
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          Full E-commerce
+        
+        
+          
+            
+              E-commerce features include the following:
+              
+                Shopping cart
+                Inventory management
+                Choice of several payment processors
+                Facebook integration
+                Coupon codes
+              
+            
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          What Do I Need To Transfer
+        
+        
+          
+            
+              Follow these simple tips in order to smoothly transfer your domain name.
+              
+                Make sure that your Admin Contact information with your registrar is up-to-date
+                Ensure that you've had the domain for 60 days and that it is set to an "unlocked" status
+                Obtain an authorization code from your current registrar
+              
+              Step-By-Step Instructions
+            
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          &times;Close
+          How Do We Stack Up Against The Competition?
+        
+        
+          
+            
+              
+                
+                  Features
+                
+                
+                  starting monthly price on introductory offer
+                  monthly renewal cost
+                  
+                    0 Sites
+                    0 Storage
+                    0 24/7/365 Support
+                    0 Monthly Price For Global CDN
+                     Email Addresses
+                    
+                      
+                        
+                      
+                      One Site Migrated For Free
+                    
+                    
+                      
+                        
+                      
+                      Free Automatic Malware Removal
+                    
+                    
+                      
+                        
+                      
+                      $100 Google AdWords
+                    
+                  
+                
+              
+              
+                
+                  Media Temple Personal Plan
+                
+                
+                  $20.00
+                  $20.00
+                    
+                      2 Sites
+                      30 GB Storage
+                      
+                        
+                          
+                        
+                        24/7/365 Support
+                      
+                      $30.00 Monthly Price For Global CDN
+                       Email Addresses
+                      
+                        
+                          
+                        
+                        One Site Migrated For Free
+                      
+                      
+                        
+                          
+                        
+                        Free Automatic Malware Removal
+                      
+                      
+                        
+                          
+                        
+                        $100 Google AdWords
+                      
+                    
+                  
+                
+              
+              
+                
+                  HostGator Standard Plan
+                
+                
+                  $7.95
+                  $7.95 - $20.95
+                  
+                    2 Sites
+                    150GB Storage
+                    
+                      
+                        
+                      
+                      24/7/365 Support
+                    
+                    Included Monthly Price For Global CDN
+                    Unlimited Email Addresses
+                    
+                      
+                        
+                      
+                      One Site Migrated For Free
+                    
+                    
+                      
+                        
+                      
+                      Free Automatic Malware Removal
+                    
+                    
+                      
+                        
+                      
+                      $100 Google AdWords
+                    
+                  
+                
+              
+              
+                
+                  WP Engine Personal Plan
+                
+                
+                  $29.00
+                  $29.00
+                  
+                    1 Sites
+                    10 GB Storage
+                    
+                      
+                        
+                      
+                      24/7/365 Support
+                    
+                    $19.95 Monthly Price For Global CDN
+                     Email Addresses
+                    
+                      
+                        
+                      
+                      One Site Migrated For Free
+                    
+                    
+                      
+                        
+                      
+                      Free Automatic Malware Removal
+                    
+                    
+                      
+                        
+                      
+                      $100 Google AdWords
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    Light Years Ahead Of The Competition!
+                  
+                
+                
+                  
+                    Get Started
+                  
+                
+              
+            
+            
+              All brand names are trademarks of their respective owners. All prices, plans, and options listed are what has been publicly disclosed as of 08/10/2016. Prices and features are subject to change without notice.
+            
+          
+        
+      
+    
+  
+This site uses cookies to enhance your experience. By continuing to the site you accept their use. Click here to change your preferences or to find out more about cookies.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+        x
+        
+            The browser version you are using is no longer supported. Please upgrade for the best site experience.
+        
+    
+ 
+ 
+
